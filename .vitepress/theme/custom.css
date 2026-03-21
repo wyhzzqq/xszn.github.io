@@ -1,3 +1,39 @@
+:root {
+  --hero-brand: #e0a149;
+  --hero-alt: #4cb8f3;
+}
+
+:root {
+  --vp-c-brand-1: var(--hero-alt);
+  --vp-c-brand-2: var(--hero-brand);
+}
+
+/* 主页 Hero 部分图片背景色 */
+
+:root {
+  --vp-home-hero-image-background-image: linear-gradient(
+    -45deg,
+    var(--hero-brand) 50%,
+    var(--hero-alt) 50%
+  );
+  --vp-home-hero-image-filter: blur(44px);
+}
+
+/* Hero 部分 name 的颜色 */
+
+:root {
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: -webkit-linear-gradient(
+    120deg,
+    var(--hero-brand),
+    var(--hero-alt)
+  );
+}
+
+.VPImage.logo {
+  border-radius: 6px;
+}
+
 .medium-zoom-overlay,
 .medium-zoom-image--opened {
   z-index: 999;

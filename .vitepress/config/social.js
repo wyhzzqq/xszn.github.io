@@ -1,7 +1,7 @@
 export default [
   {
     icon: "github",
-    link: "https://github.com/xszn/vitepress-plus",
+    link: "https://github.com/xszn/xszn.github.io",
     ariaLabel: "github link",
   },
 ];

@@ -5,23 +5,23 @@ import socialLinks from "./social";
 export default {
   // https://vitepress.dev/zh/reference/default-theme-config
   logo: {
-    src: "/images/logo.svg",
-    alt: "VitePress Logo",
+    src: "/images/logo.webp",
+    alt: "行书指南 Logo",
   },
   nav,
   sidebar,
   outline: {
     label: "页面导航",
   },
-  // socialLinks,
+  socialLinks,
   footer: {
-    message: "基于 MIT 许可发布",
-    copyright: `© ${new Date().getFullYear()} VitePress Plus`,
+    message: `<a href="/about">关于我们</a> | <a href="/link-exchange">友情链接</a> | <a href="/disclaimer">免责声明</a> | <a href="/privacy-policy">隐私权政策</a>`,
+    copyright: `© ${new Date().getFullYear()} 行书指南 CC BY-NC-ND 4.0`,
   },
-  // editLink: {
-  //   pattern: "https://github.com/xszn/vitepress-plus/edit/main/src/:path",
-  //   text: "在 GitHub 上编辑此页面",
-  // },
+  editLink: {
+    pattern: "https://github.com/xszn/xszn.github.io/edit/main/src/:path",
+    text: "在 GitHub 上编辑此页面",
+  },
   lastUpdated: {
     text: "最后更新于",
     formatOptions: {

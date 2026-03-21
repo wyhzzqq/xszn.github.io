@@ -4,12 +4,13 @@ import themeConfig from "./config/theme";
 import head from "./config/head";
 
 // 不要“/”结尾
-const siteUrl = "https://example.com";
+const siteUrl = "https://xszn.org";
 
 // https://vitepress.dev/zh/reference/site-config
 export default defineConfig({
-  title: "VitePress",
-  description: "A VitePress site",
+  title: "行书指南",
+  description:
+    "自由及开放源代码软件列表，推荐高质量免费与开源软件，降低你寻找软件的时间成本。",
   head,
   lang: "zh-CN",
   srcDir: "./src",
