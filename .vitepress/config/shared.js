@@ -1,30 +1,14 @@
-import { defineConfig } from "vitepress";
 import tailwindcss from "@tailwindcss/vite";
-import themeConfig from "./config/theme";
-import head from "./config/head";
 
 // 不要“/”结尾
 const siteUrl = "https://xszn.org";
 
-// https://vitepress.dev/zh/reference/site-config
-export default defineConfig({
-  title: "行书指南",
-  description:
-    "自由及开放源代码软件列表，推荐高质量免费与开源软件，降低你寻找软件的时间成本。",
-  head,
-  lang: "zh-CN",
+export default {
   srcDir: "./src",
   lastUpdated: true,
   markdown: {
-    container: {
-      tipLabel: "提示",
-      warningLabel: "警告",
-      dangerLabel: "危险",
-      infoLabel: "信息",
-      detailsLabel: "详细信息",
-      image: {
-        lazyLoading: true,
-      },
+    image: {
+      lazyLoading: true,
     },
   },
   vite: {
@@ -48,5 +32,4 @@ export default defineConfig({
       { rel: "canonical", href: canonicalUrl },
     ]);
   },
-  themeConfig,
-});
+};

@@ -1,75 +1,75 @@
 ---
 # https://vitepress.dev/zh/reference/default-theme-home-page
-titleTemplate: 软件资源分享
+titleTemplate: Software Resource Sharing
 layout: home
 
 hero:
-  name: 行书指南
-  text: 免费和开源软件列表
-  tagline: 从这里挑选你的第一款软件
+  name: Xingshu Guide
+  text: List of Free and Open-Source Software
+  tagline: Choose your first software here
   image:
     src: /images/hero-image.webp
-    alt: 行书指南
+    alt: Xingshu Guide
   actions:
     - theme: brand
-      text: 开始阅读
+      text: Reading
       link: /software/system
     - theme: alt
-      text: 更新日志
+      text: Changelog
       link: /changelog
     - theme: alt
-      text: 留言板
+      text: Bulletin board
       link: /bulletin-board
 
 features:
   - icon: ⚙️
-    title: 系统软件
-    details: 控制和管理计算机硬件和软件资源
+    title: System software
+    details: Control and manage computer hardware and software resources
     link: /software/system
-    linkText: 了解更多
+    linkText: Learn more
   - icon: 🌐
-    title: 网络软件
-    details: 提供网络服务功能的专用软件
+    title: Network software
+    details: Specialized software providing network service functions
     link: /software/network
-    linkText: 了解更多
+    linkText: Learn more
   - icon: 🎓
-    title: 教育软件
-    details: 为教育服务设计的计算机程序
+    title: Educational software
+    details: Computer programs designed for educational services
     link: /software/educational
-    linkText: 了解更多
+    linkText: Learn more
   - icon: 📱
-    title: 社交媒体软件
-    details: 针对社交媒体平台的管理和增强功能
+    title: Social media software
+    details: Management and Enhancement Features for Social Media Platforms
     link: /software/social-media
-    linkText: 了解更多
+    linkText: Learn more
   - icon: 🎮
-    title: 电子游戏软件
-    details: 运行在电子设备上的互动游戏软件
+    title: Video game software
+    details: Interactive game software running on electronic devices
     link: /software/video-game
-    linkText: 了解更多
+    linkText: Learn more
   - icon: 💼
-    title: 生产力软件
-    details: 用于产生资讯的应用软件
+    title: Productivity software
+    details: Application software used to generate information
     link: /software/productivity
-    linkText: 了解更多
+    linkText: Learn more
   - icon: 📝
-    title: 文本软件
-    details: 编写和查看纯文本文件的文本编辑器
+    title: Text software
+    details: A text editor for writing and viewing plain text files
     link: /software/text
-    linkText: 了解更多
+    linkText: Learn more
   - icon: 🖼️
-    title: 图像软件
-    details: 创建、编辑和处理数字图像的软件
+    title: Graphics software
+    details: Software for creating, editing, and processing digital images
     link: /software/graphics
-    linkText: 了解更多
+    linkText: Learn more
   - icon: 🎧
-    title: 音频软件
-    details: 用于录制、编辑、处理音频的软件
+    title: Audio software
+    details: Software for recording, editing, and processing audio
     link: /software/audio
-    linkText: 了解更多
+    linkText: Learn more
   - icon: 📹
-    title: 视频软件
-    details: 用于播放或编辑视频的计算机程序
+    title: Video software
+    details: A computer program used for playing or editing videos
     link: /software/video
-    linkText: 了解更多
+    linkText: Learn more
 ---

@@ -1,1 +1,1 @@
-# 电子游戏软件
+# Video game software

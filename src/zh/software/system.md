@@ -1,4 +1,4 @@
-# System software
+# 系统软件
 
 ## 压缩软件
 
@@ -15,7 +15,7 @@
 
 <script setup>
 import { ref } from 'vue'
-import { Tabs, TabPane } from '../../.vitepress/theme/components/index'
+import { Tabs, TabPane } from '../../../.vitepress/theme/components/index'
 
 const tab = ref('7-zip')
 </script>

@@ -1,5 +1,5 @@
-# 更新日志
+# Changelog
 
-包括软件增加、删除和更新等内容变更记录。
+Includes records of content changes, such as software additions, deletions, and updates.
 
-……
+...

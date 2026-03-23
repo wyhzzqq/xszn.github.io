@@ -1,1 +1,1 @@
-# 教育软件
+# Educational software

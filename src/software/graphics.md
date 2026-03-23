@@ -1,1 +1,1 @@
-# 图像软件
+# Graphics software

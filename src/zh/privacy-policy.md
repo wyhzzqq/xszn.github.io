@@ -1,6 +1,6 @@
-# Privacy policy
+# 隐私权政策
 
-This Privacy Policy explains how the "[Xingshu Guide](/)" website (hereinafter referred to as "this Website") collects, uses, and discloses your personal information. This policy applies to all information collected through this Website. If you have any questions regarding this Privacy Policy, please [contact us](/about#contact-us).
+本隐私权政策说明“[行书指南](/zh/)”网站（以下简称“本网站”）如何收集、使用和披露您的个人信息。该政策适用于通过本网站收集的所有信息。如对本隐私权政策有疑问，请[联系我们](/zh/about#联系我们)。
 
 ## 一、信息收集
 
