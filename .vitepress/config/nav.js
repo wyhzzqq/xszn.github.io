@@ -6,13 +6,11 @@ export default [
     items: [
       {
         text: "系统软件",
-        link: "/system-software/",
-        activeMatch: "/system-software/",
+        link: "/software/system",
       },
       {
         text: "网络软件",
-        link: "/network-software/",
-        activeMatch: "/network-software/",
+        link: "/software/network",
       },
     ],
   },
@@ -22,23 +20,19 @@ export default [
     items: [
       {
         text: "教育软件",
-        link: "/educational-software/",
-        activeMatch: "/educational-software",
+        link: "/software/educational/",
       },
       {
         text: "社交媒体软件",
-        link: "/social-media-software/",
-        activeMatch: "/social-media-software",
+        link: "/software/social-media",
       },
       {
         text: "电子游戏软件",
-        link: "/video-game-software/",
-        activeMatch: "/video-game-software",
+        link: "/software/video-game",
       },
       {
         text: "生产力软件",
-        link: "/productivity-software/",
-        activeMatch: "/productivity-software",
+        link: "/software/productivity",
       },
     ],
   },
@@ -48,23 +42,19 @@ export default [
     items: [
       {
         text: "文本软件",
-        link: "/text-software/",
-        activeMatch: "/text-software",
+        link: "/software/text",
       },
       {
         text: "图像软件",
-        link: "/graphics-software/",
-        activeMatch: "/graphics-software",
+        link: "/software/graphics",
       },
       {
         text: "音频软件",
-        link: "/audio-software/",
-        activeMatch: "/audio-software",
+        link: "/software/audio",
       },
       {
         text: "视频软件",
-        link: "/video-software/",
-        activeMatch: "/video-software",
+        link: "/software/video",
       },
     ],
   },

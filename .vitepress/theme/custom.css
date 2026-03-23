@@ -30,11 +30,11 @@
   );
 }
 
-.VPImage.logo {
-  border-radius: 6px;
-}
-
 .medium-zoom-overlay,
 .medium-zoom-image--opened {
   z-index: 999;
+}
+
+.VPImage.logo {
+  border-radius: 6px;
 }
