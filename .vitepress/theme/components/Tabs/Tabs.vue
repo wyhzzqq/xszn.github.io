@@ -191,49 +191,39 @@ onBeforeUnmount(() => {
     height: 24px;
 }
 
-.vp-tabs__content {
-    padding: 12px 0;
-}
-
 @media (min-width: 1440px) {
     .vp-tabs {
-        width: 688px;
-        height: 594px;
+        height: 572px;
     }
 }
 
 @media (max-width: 1024px) and (min-width: 769px) {
     .vp-tabs {
-        width: 624px;
-        height: 558px;
+        height: 536px;
     }
 }
 
 @media (max-width: 768px) and (min-width: 426px) {
     .vp-tabs {
-        width: 688px;
-        height: 594px;
+        height: 572px;
     }
 }
 
 @media (max-width: 425px) and (min-width: 376px) {
     .vp-tabs {
-        width: 377px;
-        height: 447.06px;
+        height: 397.06px;
     }
 }
 
 @media (max-width: 375px) and (min-width: 321px) {
     .vp-tabs {
-        width: 327px;
-        height: 454.94px;
+        height: 396.94px;
     }
 }
 
 @media (max-width: 320px) {
     .vp-tabs {
-        width: 272px;
-        height: 452px;
+        height: 432px;
     }
 }
 </style>

@@ -1,10 +1,10 @@
 # System software
 
-## 压缩软件
+## File archiver
 
 <Tabs v-model="tab">
   <TabPane name="7-zip" label="7-Zip" icon="/images/software/system/7-zip/favicon.ico">
-    <p>以其高压缩比和对多种文件格式的支持而闻名。它拥有自己的 7z 格式，并能够解压包括 ZIP、RAR 和 TAR 在内的多种常见压缩格式。</p>
+    <p>designed for high-ratio compression, primarily used to manage and compress files into archives.</p>
     <p>
       <Button href="https://7-zip.org/" />
       <Button href="https://github.com/ip7z/7zip" />
