@@ -38,3 +38,7 @@
 .VPImage.logo {
   border-radius: 6px;
 }
+
+.vp-doc ul a::after {
+  display: none !important;
+}

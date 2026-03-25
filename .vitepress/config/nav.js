@@ -2,7 +2,6 @@ export default [
   { text: "Home", link: "/" },
   {
     text: "Operating system",
-    activeMatch: "/operating-system-software/",
     items: [
       {
         text: "System software",
@@ -16,7 +15,6 @@ export default [
   },
   {
     text: "Internet",
-    activeMatch: "/internet-software/",
     items: [
       {
         text: "Educational",
@@ -38,7 +36,6 @@ export default [
   },
   {
     text: "File",
-    activeMatch: "/file-software/",
     items: [
       {
         text: "Text",

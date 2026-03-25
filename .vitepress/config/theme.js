@@ -13,7 +13,7 @@ export default {
   socialLinks,
   footer: {
     message: `<a href="/about">About</a> | <a href="/link-exchange">Link exchange</a> | <a href="/disclaimer">Disclaimer</a> | <a href="/privacy-policy">Privacy policy</a>`,
-    copyright: `© ${new Date().getFullYear()} XingShu CC BY-NC-ND 4.0`,
+    copyright: `© ${new Date().getFullYear()} Xingshu CC BY-NC-ND 4.0`,
   },
   editLink: {
     pattern: "https://github.com/xszn/xszn.github.io/edit/main/src/:path",

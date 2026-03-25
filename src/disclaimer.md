@@ -1,15 +1,15 @@
 # Disclaimer
 
-## 外部链接
+## External Links
 
-本网站可能包含指向第三方网站的链接，该等网站并非由本网站运营或控制。本网站不对第三方网站的内容、合法性、安全性、可用性或其使用后果承担任何责任。用户访问第三方网站所产生的风险及后果，由用户自行承担。
+This Website may contain links to third-party websites that are neither operated nor controlled by us. We disclaim any responsibility for the content, legality, security, availability, or consequences arising from the use of such external sites. Users who choose to access third-party websites do so entirely at their own risk.
 
-## 观点表达
+## Expression of Opinions
 
-本网站包含作者的观点与意见，仅为作者个人表达，不代表本网站运营主体或其他任何机构、组织、公司、雇主的官方立场或政策。
+The views and opinions expressed on this Website reflect solely those of the respective authors and do not represent the official stance or policies of the Website’s operator or any affiliated institution, organization, company, or employer.
 
-## 访客行为
+## Visitor Conduct
 
-访客在本网站发表的评论、留言或其他内容由访客自行负责，应对内容的真实性和合法性承担责任；因评论内容或行为引发的任何纠纷、索赔或诉讼，由发表内容的访客自行承担全部责任，本网站不承担由此产生的直接或间接责任。
+Visitors are solely responsible for the comments, messages, or any other content they post on this Website and shall bear full responsibility for the authenticity and legality of such content. Any disputes, claims, or legal actions arising from user-generated content or related conduct shall be borne exclusively by the individual who published such material. This Website assumes no direct or indirect liability in these matters.
 
-本网站保留对明显侵权、不当或严重不当内容进行删除、屏蔽或对用户账户采取限制措施的权利。
+This Website reserves the right to delete, block, or restrict access to content or user accounts found to be infringing, inappropriate, or gravely improper.

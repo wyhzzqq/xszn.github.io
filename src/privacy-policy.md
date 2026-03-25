@@ -1,65 +1,65 @@
-# Privacy policy
+# Privacy Policy
 
-This Privacy Policy explains how the "[Xingshu Guide](/)" website (hereinafter referred to as "this Website") collects, uses, and discloses your personal information. This policy applies to all information collected through this Website. If you have any questions regarding this Privacy Policy, please [contact us](/about#contact-us).
+This Privacy Policy sets forth how the “[Xingshu Guide](/)” website (hereinafter referred to as “this Website”) gathers, utilizes, and discloses your personal information. The provisions herein apply to all data collected through this Website. Should you have any inquiries concerning this Privacy Policy, please [contact us](/about#contact-us).
 
-## 一、信息收集
+## Information Collection
 
-我们可能收集以下个人信息：
+We may collect the following types of personal information:
 
-- IP 地址
-- 浏览器类型
-- 操作系统
-- 引荐网站
-- 浏览页面
-- 访问时间及其他使用情况
+- IP address
+- Browser type
+- Operating system
+- Referring website
+- Pages visited
+- Time of visit and other usage metrics
 
-## 二、追踪与分析
+## Tracking and Analytics
 
-我们使用 Google Analytics 及其他分析工具，收集您的 IP 地址、设备信息及网站活动数据，以帮助我们了解用户使用情况并改进服务。
+We employ Google Analytics and other analytical tools to gather information such as your IP address, device details, and browsing activities. This data assists us in understanding user behavior and enhancing our services.
 
-## 三、广告
+## Advertising
 
-本网站可能展示第三方广告。第三方广告网络可能使用 Cookie 及其他追踪技术收集您的信息，以展示相关广告。本隐私权政策不涵盖第三方广告商的行为。
+This Website may feature third-party advertisements. Such advertisers or their networks may utilize cookies and similar tracking technologies to collect your information for the purpose of delivering pertinent advertisements. Please note that this Privacy Policy does not govern the practices of third-party advertisers.
 
-## 四、不销售产品或服务
+## No Sale of Products or Services
 
-本网站不销售任何产品或服务，且不支持用户进行支付。
+This Website neither markets nor facilitates the sale of any products or services, nor does it enable user payment processing.
 
-## 五、不使用再营销服务
+## No Use of Remarketing Services
 
-我们当前不使用任何再营销服务进行广告宣传。
+We do not currently employ any remarketing or retargeting services for advertising purposes.
 
-## 六、加州消费者隐私法案（CCPA）及加州隐私权法案（CPRA）权利
+## California Consumer Privacy Act (CCPA) and California Privacy Rights Act (CPRA)
 
-加州居民享有以下权利：
+Residents of California are entitled to the following rights:
 
-- 了解我们收集的个人信息类别、来源、目的及共享对象
-- 在特定情况下，要求删除个人信息
-- 虽然我们不出售个人信息，您仍可指示我们未来不出售您的信息
-- 行使权利时不受歧视
+- To know the categories, sources, intended uses, and recipients of the personal information we collect
+- To request the deletion of personal information under specified circumstances
+- To instruct us not to sell personal information, even though we do not currently engage in such sales
+- To be free from discrimination when exercising these rights
 
-## 七、通用数据保护条例（GDPR）权利
+## General Data Protection Regulation (GDPR)
 
-欧洲经济区用户享有：
+Users within the European Economic Area (EEA) possess the following rights:
 
-- 访问、更正、删除个人信息的权利
-- 限制处理、数据可移植、反对处理及撤回同意权
-- 向监管机构投诉的权利
+- The right to access, rectify, or erase personal data
+- The right to restrict processing, obtain data portability, object to processing, and withdraw consent
+- The right to lodge a complaint with the appropriate supervisory authority
 
-## 八、加州在线隐私保护法（CalOPPA）要求
+## California Online Privacy Protection Act (CalOPPA)
 
-我们承诺：
+We uphold the following commitments:
 
-- 在显著位置公布隐私政策
-- 说明收集信息类别及共享第三方
-- 提供用户审查和更改个人信息的方式
-- 说明对“请勿追踪”信号的处理（目前可能不响应）
-- 重大变更时通知用户
+- Displaying our Privacy Policy prominently on the Website
+- Disclosing the categories of collected data and the third parties with whom it may be shared
+- Providing a method for users to review and update their personal information
+- Explaining our response to “Do Not Track” signals (currently, we may not respond to such signals)
+- Notifying users of any material amendments to this policy
 
-## 九、儿童隐私
+## Children’s Privacy
 
-本网站不面向 13 岁以下儿童，也不会故意收集其个人信息。如发现收集，将及时删除。
+This Website is not intended for individuals under the age of 13, and we do not knowingly collect personal data from such individuals. Should we discover that any such information has been inadvertently collected, we will ensure its prompt deletion.
 
-## 十、隐私权政策变更
+## Changes to This Policy
 
-本政策可能不定期更新，更新后立即生效。请定期查阅以了解最新内容。
+This Privacy Policy may be revised from time to time. Any modifications shall take effect immediately upon publication. We encourage you to revisit this page periodically to stay informed of the latest updates.

@@ -1,25 +1,25 @@
-# About
+# About Us
 
-## 我们是谁
+## Who We Are
 
-行书指南是一个自由及开放源代码（FOSS）的软件列表项目，推荐高质量免费与开源软件，降低用户寻找软件的时间成本。
+**Xingshu Guide** is a Free and Open Source Software (FOSS) catalog project dedicated to curating and recommending high-quality, free, and open-source applications. Our mission is to help users save time in discovering reliable software solutions.
 
-挑选一款易用的、流行的普世产品，让生活、学习和工作也很有效率。
+We aim to highlight intuitive, widely adopted, and universally beneficial tools that enhance efficiency in everyday life, learning, and work.
 
-名字来源：行书即正书小伪，务从简易，相间流行，故谓之行书。
+The name _Xingshu_ originates from the Chinese script style meaning “a simplified form of regular script—practical, balanced, and elegant in flow,” symbolizing our pursuit of simplicity and accessibility.
 
-## 内容管理
+## Content Management
 
-软件依用途来划分，收录最顶尖“御三家”。
+Software featured on this site is categorized by purpose, showcasing the finest and most reputable selections in each field.
 
-本站适用于 Windows、Android 和 Chromium 的用户。
+Our platform primarily serves users of **Windows**, **Android**, and **Chromium** systems.
 
-本站不定期软件推荐，或通过提交留言引荐。
+We update and recommend software periodically and also welcome user submissions through comments or recommendations.
 
-## Contact us
+## Contact Us
 
-投稿内容、合作广告和申请友链，如果您有任何问题，请随时与我们联系。
+For content submissions, advertising collaboration, or partnership inquiries, please feel free to reach out to us at any time.
 
-- [E-Mail](mailto:xsznorg@gmail.com)
+- [E-mail](mailto:xsznorg@gmail.com)
 
-感谢您访问我们的网站。
+Thank you for visiting our website.

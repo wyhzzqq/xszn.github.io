@@ -10,7 +10,7 @@ export default [
     },
   ],
   ["meta", { property: "og:type", content: "website" }],
-  ["meta", { property: "og:url", content: "https://xszn.org/" }],
+  ["meta", { property: "og:url", content: "https://xszn.org/zh/" }],
   ["meta", { property: "og:image", content: "/images/ogp.webp" }],
   ["meta", { property: "og:image:type", content: "image/webp" }],
   ["meta", { property: "og:image:width", content: "1920" }],
