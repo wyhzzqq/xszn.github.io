@@ -1,5 +1,20 @@
 # System software
 
+## Disk Cleaners
+
+deletes unnecessary or unwanted files to free up disk space, reduce clutter, or protect user privacy.
+
+- [**WinDirStat**](https://windirstat.net/) / <Icon src="windows" /> / <Icon href="https://github.com/windirstat/windirstat" src="github" />
+- [**BleachBit**](https://www.bleachbit.org/) / <Icon href="https://github.com/bleachbit/bleachbit" src="github" />
+- [**Windows Cleaner**](https://wc.dyblog.online/) / <Icon src="windows" /> / <Icon href="https://github.com/darkmatter2048/WindowsCleaner" src="github" />
+- [**AppPorts**](https://appports.shimoko.com/) / <Icon src="apple" /> / <Icon href="https://github.com/wzh4869/AppPorts" src="github" />
+
+::: details
+
+1. [disk-cleaner · GitHub Topics](https://github.com/topics/disk-cleaner)
+2. [Disk utility - Wikipedia](https://en.wikipedia.org/wiki/Disk_utility#Cleaner)
+   :::
+
 ## File archivers (Compression software)
 
 Utility software that combines files into a single archive file – or in less common cases, multiple files.

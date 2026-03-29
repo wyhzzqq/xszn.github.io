@@ -1,5 +1,20 @@
 # 系统软件
 
+## 磁盘清理工具
+
+删除不必要或不需要的文件，以释放磁盘空间、减少混乱或保护用户隐私。
+
+- [**WinDirStat**](https://windirstat.net/) / <Icon src="windows" /> / <Icon href="https://github.com/windirstat/windirstat" src="github" />
+- [**BleachBit**](https://www.bleachbit.org/) / <Icon href="https://github.com/bleachbit/bleachbit" src="github" />
+- [**Windows Cleaner**](https://wc.dyblog.online/) / <Icon src="windows" /> / <Icon href="https://github.com/darkmatter2048/WindowsCleaner" src="github" />
+- [**AppPorts**](https://appports.shimoko.com/zh) / <Icon src="apple" /> / <Icon href="https://github.com/wzh4869/AppPorts" src="github" />
+
+::: details 详情信息
+
+1. [disk-cleaner · GitHub Topics](https://github.com/topics/disk-cleaner)
+2. [Disk utility - Wikipedia](https://en.wikipedia.org/wiki/Disk_utility#Cleaner)
+   :::
+
 ## 文件归档器（压缩软件）
 
 用于将多个文件集合为一个或一组归档文件，同时或压缩以减小文件大小，以便于传输或存储。
