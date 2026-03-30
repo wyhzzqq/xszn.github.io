@@ -49,3 +49,18 @@ A software program that prevents password fatigue by automatically generating, a
 3. [Password manager - Wikipedia](https://en.wikipedia.org/wiki/Password_manager)
 4. [Category:Password managers - Wikipedia](https://en.wikipedia.org/wiki/Category:Password_managers)
    :::
+
+## Uninstallers
+
+A variety of utility software designed to remove other software or parts of it from a computer.
+
+- [**Bulk Crap Uninstaller**](https://www.bcuninstaller.com/) / <Icon src="windows" /> / <Icon href="https://github.com/Klocman/Bulk-Crap-Uninstaller" src="github" />
+- [Pearcleaner](https://itsalin.com/appInfo/?id=pearcleaner) / <Icon src="apple" /> / <Icon href="https://github.com/alienator88/Pearcleaner" src="github" />
+- **Remove MS Edge** - Uninstall Microsoft Edge / <Icon src="windows" /> / <Icon href="https://github.com/ShadowWhisperer/Remove-MS-Edge" src="github" />
+
+::: details
+
+1. [uninstaller · GitHub Topics](https://github.com/topics/uninstaller)
+2. [Uninstaller - Wikipedia](https://en.wikipedia.org/wiki/Uninstaller)
+3. [Category:Uninstallers - Wikipedia](https://en.wikipedia.org/wiki/Category:Uninstallers)
+   :::

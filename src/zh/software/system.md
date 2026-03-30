@@ -49,3 +49,18 @@
 3. [密码管理器 - 维基百科](https://zh.wikipedia.org/wiki/%E5%AF%86%E7%A2%BC%E7%AE%A1%E7%90%86%E5%93%A1)
 4. [分类:密码管理器 - 维基百科](https://zh.wikipedia.org/wiki/Category:%E5%AF%86%E7%A0%81%E7%AE%A1%E7%90%86%E5%99%A8)
    :::
+
+## 卸载软件
+
+以协助用户将软件自电脑中删除。
+
+- [**Bulk Crap Uninstaller**](https://www.bcuninstaller.com/) / <Icon src="windows" /> / <Icon href="https://github.com/Klocman/Bulk-Crap-Uninstaller" src="github" />
+- [Pearcleaner](https://itsalin.com/appInfo/?id=pearcleaner) / <Icon src="apple" /> / <Icon href="https://github.com/alienator88/Pearcleaner" src="github" />
+- **Remove MS Edge** - 卸载 Microsoft Edge / <Icon src="windows" /> / <Icon href="https://github.com/ShadowWhisperer/Remove-MS-Edge" src="github" />
+
+::: details
+
+1. [uninstaller · GitHub Topics](https://github.com/topics/uninstaller)
+2. [安装程序 - 维基百科](https://zh.wikipedia.org/wiki/%E5%AE%89%E8%A3%9D%E7%A8%8B%E5%BC%8F)
+3. [Category:Uninstallers - Wikipedia](https://en.wikipedia.org/wiki/Category:Uninstallers)
+   :::
