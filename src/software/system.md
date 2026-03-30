@@ -2,7 +2,7 @@
 
 ## Disk Cleaners
 
-deletes unnecessary or unwanted files to free up disk space, reduce clutter, or protect user privacy.
+Deletes unnecessary or unwanted files to free up disk space, reduce clutter, or protect user privacy.
 
 - [**WinDirStat**](https://windirstat.net/) / <Icon src="windows" /> / <Icon href="https://github.com/windirstat/windirstat" src="github" />
 - [**BleachBit**](https://www.bleachbit.org/) / <Icon href="https://github.com/bleachbit/bleachbit" src="github" />
