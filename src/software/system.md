@@ -1,11 +1,55 @@
 # System software
 
+## Activator
+
+One of the methods to activate Microsoft Windows and Microsoft Office.
+
+- [**Microsoft Activation Scripts**](https://github.com/massgravel/microsoft-activation-scripts) / <Icon src="terminal-fill" /> / <Icon href="https://github.com/massgravel/Microsoft-Activation-Scripts" src="github" />
+- **HEU KMS Activator** / <Icon src="windows" /> / <Icon href="https://github.com/zbezj/HEU_KMS_Activator" src="github" />
+- [**CMWTAT Digital Edition**](https://cmwtat.cloudmoe.com/en.html) / <Icon src="windows" /> / <Icon href="https://github.com/TGSAN/CMWTAT_Digital_Edition" src="github" />
+
+::: details
+
+1. [kms · GitHub Topics](https://github.com/topics/kms)
+2. [activator · GitHub Topics](https://github.com/topics/activator)
+3. [Key Management Service - Simple English Wikipedia](https://simple.wikipedia.org/wiki/Key_Management_Service)
+   :::
+
+## Bootable USB
+
+a portable USB-attached external data storage device containing a full operating system that can be booted from.
+
+- [**Ventoy**](https://www.ventoy.net/) / <Icon href="https://github.com/ventoy/Ventoy" src="github" />
+- [**Rufus**](https://rufus.ie/) / <Icon src="windows" /> / <Icon href="https://github.com/pbatard/rufus" src="github" />
+- [**balenaEtcher**](https://etcher.balena.io/) / <Icon href="https://github.com/balena-io/etcher" src="github" />
+
+::: details
+
+1. [bootable-usb · GitHub Topics](https://github.com/topics/bootable-usb)
+2. [List of tools to create bootable USB - Wikipedia](https://en.wikipedia.org/wiki/List_of_tools_to_create_bootable_USB)
+3. [Category:Live USB - Wikipedia](https://en.wikipedia.org/wiki/Category:Live_USB)
+   :::
+
+## Data recovery software
+
+- [**TestDisk & PhotoRec**](https://www.cgsecurity.org/) / <Icon href="https://github.com/cgsecurity/testdisk" src="github" />
+- [**Rescuezilla**](https://rescuezilla.com/) - Disk image / <Icon href="https://github.com/rescuezilla/rescuezilla" src="github" />
+- **RecoverPy** / <Icon src="terminal-fill" /> / <Icon href="https://github.com/PabloLec/RecoverPy" src="github" />
+- **Digler** / <Icon href="https://github.com/ostafen/digler" src="github" />
+
+::: details
+
+1. [data-recovery · GitHub Topics](https://github.com/topics/data-recovery)
+2. [Data recovery - Wikipedia](https://en.wikipedia.org/wiki/Data_recovery)
+3. [Category:Data recovery software - Wikipedia](https://en.wikipedia.org/wiki/Category:Data_recovery_software)
+   :::
+
 ## Disk Cleaners
 
 Deletes unnecessary or unwanted files to free up disk space.
 
-- [**WinDirStat**](https://windirstat.net/) / <Icon src="windows" /> / <Icon href="https://github.com/windirstat/windirstat" src="github" />
 - [**BleachBit**](https://www.bleachbit.org/) / <Icon href="https://github.com/bleachbit/bleachbit" src="github" />
+- [**WinDirStat**](https://windirstat.net/) / <Icon src="windows" /> / <Icon href="https://github.com/windirstat/windirstat" src="github" />
 - [**Windows Cleaner**](https://wc.dyblog.online/) / <Icon src="windows" /> / <Icon href="https://github.com/darkmatter2048/WindowsCleaner" src="github" />
 - [**AppPorts**](https://appports.shimoko.com/) / <Icon src="apple" /> / <Icon href="https://github.com/wzh4869/AppPorts" src="github" />
 
@@ -22,7 +66,6 @@ Utility software that combines files into a single archive file.
 - [**7-Zip**](https://www.7-zip.org/) / <Icon href="https://github.com/ip7z/7zip" src="github" /> | [**NanaZip**](https://nanazip.org/) - Modern UI / <Icon href="https://github.com/M2Team/NanaZip" src="github" /> | [**7-Zip ZS**](https://mcmilk.de/projects/7-Zip-zstd/) - Enhanced edition / <Icon href="https://github.com/mcmilk/7-Zip-zstd/" src="github" /> ... <Icon src="windows" />
 - [**PeaZip**](https://peazip.github.io/) / <Icon href="https://github.com/peazip/PeaZip/" src="github" />
 - [**Keka**](https://www.keka.io/) / <Icon src="apple" /> / <Icon href="https://github.com/aonez/Keka" src="github" />
-- [**Ark**](https://apps.kde.org/ark/) / <Icon href="https://github.com/KDE/ark" src="github" />
 
 ::: details
 
@@ -32,19 +75,22 @@ Utility software that combines files into a single archive file.
 4. [Category:File archivers - Wikipedia](https://en.wikipedia.org/wiki/Category:File_archivers)
    :::
 
-## Activator
+## Input methods
 
-One of the methods to activate Microsoft Windows and Microsoft Office.
+An operating system component that translates keyboard keystrokes or mouse movements into characters for input.
 
-- [**Microsoft Activation Scripts**](https://github.com/massgravel/microsoft-activation-scripts) / <Icon src="terminal-fill" /> / <Icon href="https://github.com/massgravel/Microsoft-Activation-Scripts" src="github" />
-- **HEU KMS Activator** / <Icon src="windows" /> / <Icon href="https://github.com/zbezj/HEU_KMS_Activator" src="github" />
-- [**CMWTAT Digital Edition**](https://cmwtat.cloudmoe.com/en.html) / <Icon src="windows" /> / <Icon href="https://github.com/TGSAN/CMWTAT_Digital_Edition" src="github" />
+- [**Rime**](https://rime.im/) - Chinese input method engine / <Icon href="https://github.com/rime" src="github" /> | **Weasel** / <Icon src="windows" /> / <Icon href="https://github.com/rime/weasel" src="github" /> | **Squirrel** / <Icon src="apple" /> / <Icon href="https://github.com/rime/squirrel" src="github" /> | **Trime** / <Icon src="android" /> / <Icon href="https://github.com/osfans/trime" src="github" /> ... Details<sup>[2]</sup>
+- [**FlorisBoard**](https://florisboard.org/) / <Icon src="android" /> / <Icon href="https://github.com/florisboard/florisboard" src="github" />
+- [**Fcitx**](https://fcitx-im.org/wiki/Fcitx_5) - Input Method Framework / <Icon src="tux" /> / <Icon href="https://github.com/fcitx" src="github" /> | [**Fcitx 5**](https://fcitx5-android.github.io/en/) / <Icon src="android" /> / <Icon href="https://github.com/fcitx5-android/fcitx5-android" src="github" />
+- **YuyanIme** - Chinese input method / <Icon src="android" /> / <Icon href="https://github.com/gurecn/YuyanIme" src="github" />
+- **hallelujahIM** / <Icon src="apple" /> / <Icon href="https://github.com/dongyuwei/hallelujahIM" src="github" />
 
 ::: details
 
-1. [kms · GitHub Topics](https://github.com/topics/kms)
-2. [activator · GitHub Topics](https://github.com/topics/activator)
-3. [Key Management Service - Simple English Wikipedia](https://simple.wikipedia.org/wiki/Key_Management_Service)
+1. [input-method · GitHub Topics](https://github.com/topics/input-method)
+2. [下載及安裝 | RIME | 中州韻輸入法引擎](https://rime.im/download/)
+3. [Input method - Wikipedia](https://en.wikipedia.org/wiki/Input_method)
+4. [https://en.wikipedia.org/wiki/Category:Input_methods](https://en.wikipedia.org/wiki/Category:Input_methods)
    :::
 
 ## Password managers
@@ -53,7 +99,6 @@ A software program that prevents password fatigue by automatically generating.
 
 - [**Bitwarden**](https://bitwarden.com/) - Free version / <Icon href="https://github.com/bitwarden" src="github" />
 - [**KeePass**](https://keepass.info/) / <Icon href="https://sourceforge.net/projects/keepass/" src="sourceforge" /> | [**KeePassXC**](https://keepassxc.org/) - Cross-platform / <Icon href="https://github.com/keepassxreboot/keepassxc" src="github" /> | [**MacPass**](https://macpassapp.org/) / <Icon src="apple" /> / <Icon href="https://github.com/MacPass/MacPass" src="github" /> ...Details<sup>[2]</sup>
-- [**Proton Pass**](https://proton.me/pass) - Free version / <Icon href="https://proton.me/pass" src="github" />
 - [**LessPass**](https://www.lesspass.com/) - Stateless password manager / <Icon href="https://github.com/lesspass/lesspass" src="github" />
 
 ::: details
@@ -66,7 +111,7 @@ A software program that prevents password fatigue by automatically generating.
 
 ## Uninstallers
 
-A variety of utility software designed to remove other software or parts of it from a computer.
+Designed to remove other software or specific components thereof from a computer.
 
 - [**Bulk Crap Uninstaller**](https://www.bcuninstaller.com/) / <Icon src="windows" /> / <Icon href="https://github.com/Klocman/Bulk-Crap-Uninstaller" src="github" />
 - [Pearcleaner](https://itsalin.com/appInfo/?id=pearcleaner) / <Icon src="apple" /> / <Icon href="https://github.com/alienator88/Pearcleaner" src="github" />

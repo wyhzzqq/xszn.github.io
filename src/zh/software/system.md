@@ -1,11 +1,56 @@
 # 系统软件
 
+## 激活工具
+
+激活 Microsoft Windows 和 Microsoft Office 的方法之一。
+
+- [**Microsoft Activation Scripts**](https://github.com/massgravel/microsoft-activation-scripts) / <Icon src="terminal-fill" /> / <Icon href="https://github.com/massgravel/Microsoft-Activation-Scripts" src="github" />
+- **HEU KMS Activator** / <Icon src="windows" /> / <Icon href="https://github.com/zbezj/HEU_KMS_Activator" src="github" />
+- [**CMWTAT Digital Edition**](https://cmwtat.cloudmoe.com/cn.html) / <Icon src="windows" /> / <Icon href="https://github.com/TGSAN/CMWTAT_Digital_Edition" src="github" />
+
+::: details 详情信息
+
+1. [kms · GitHub Topics](https://github.com/topics/kms)
+2. [activator · GitHub Topics](https://github.com/topics/activator)
+3. [Key Management Service - Simple English Wikipedia](https://simple.wikipedia.org/wiki/Key_Management_Service)
+   :::
+
+## 启动盘制作工具
+
+里面含有完整的操作系统，可以被用来开机。
+
+- [**Ventoy**](https://www.ventoy.net/) / <Icon href="https://github.com/ventoy/Ventoy" src="github" />
+- [**Rufus**](https://rufus.ie/) / <Icon src="windows" /> / <Icon href="https://github.com/pbatard/rufus" src="github" />
+- [**balenaEtcher**](https://etcher.balena.io/) / <Icon href="https://github.com/balena-io/etcher" src="github" />
+
+::: details
+
+1. [bootable-usb · GitHub Topics](https://github.com/topics/bootable-usb)
+2. [List of tools to create bootable USB - Wikipedia](https://en.wikipedia.org/wiki/List_of_tools_to_create_bootable_USB)
+3. [Live USB - Wikipedia](https://en.wikipedia.org/wiki/Live_USB)
+4. [Category:Live USB - Wikipedia](https://en.wikipedia.org/wiki/Category:Live_USB)
+   :::
+
+## 数据恢复软件
+
+- [**TestDisk & PhotoRec**](https://www.cgsecurity.org/) / <Icon href="https://github.com/cgsecurity/testdisk" src="github" />
+- [**Rescuezilla**](https://rescuezilla.com/) - 磁盘映像 / <Icon href="https://github.com/rescuezilla/rescuezilla" src="github" />
+- **RecoverPy** / <Icon src="terminal-fill" /> / <Icon href="https://github.com/PabloLec/RecoverPy" src="github" />
+- **Digler** / <Icon href="https://github.com/ostafen/digler" src="github" />
+
+::: details 详情信息
+
+1. [data-recovery · GitHub Topics](https://github.com/topics/data-recovery)
+2. [数据恢复 - 维基百科](https://zh.wikipedia.org/wiki/%E8%B3%87%E6%96%99%E6%81%A2%E5%BE%A9)
+3. [分类:数据恢复软件 - 维基百科](https://zh.wikipedia.org/wiki/Category:%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D%E8%BD%AF%E4%BB%B6)
+   :::
+
 ## 磁盘清理工具
 
 删除不必要或不需要的文件。
 
-- [**WinDirStat**](https://windirstat.net/) / <Icon src="windows" /> / <Icon href="https://github.com/windirstat/windirstat" src="github" />
 - [**BleachBit**](https://www.bleachbit.org/) / <Icon href="https://github.com/bleachbit/bleachbit" src="github" />
+- [**WinDirStat**](https://windirstat.net/) / <Icon src="windows" /> / <Icon href="https://github.com/windirstat/windirstat" src="github" />
 - [**Windows Cleaner**](https://wc.dyblog.online/) / <Icon src="windows" /> / <Icon href="https://github.com/darkmatter2048/WindowsCleaner" src="github" />
 - [**AppPorts**](https://appports.shimoko.com/zh) / <Icon src="apple" /> / <Icon href="https://github.com/wzh4869/AppPorts" src="github" />
 
@@ -22,7 +67,6 @@
 - [**7-Zip**](https://sparanoid.com/lab/7z/) / <Icon href="https://github.com/sparanoid/7z" src="github" /> | [**NanaZip**](https://nanazip.org/) - 现代 UI / <Icon href="https://github.com/M2Team/NanaZip" src="github" /> | [**7-Zip ZS**](https://mcmilk.de/projects/7-Zip-zstd/) - 增强版 / <Icon href="https://github.com/mcmilk/7-Zip-zstd/" src="github" /> …… <Icon src="windows" />
 - [**PeaZip**](https://peazip.github.io/) / <Icon href="https://github.com/peazip/PeaZip/" src="github" />
 - [**Keka**](https://www.keka.io/zh-cn/) / <Icon src="apple" /> / <Icon href="https://github.com/aonez/Keka" src="github" />
-- [**Ark**](https://apps.kde.org/zh-cn/ark/) / <Icon href="https://github.com/KDE/ark" src="github" />
 
 ::: details 详情信息
 
@@ -32,19 +76,22 @@
 4. [分类:文件归档器 - 维基百科](https://zh.wikipedia.org/wiki/Category:%E6%96%87%E4%BB%B6%E5%BD%92%E6%A1%A3%E5%99%A8)
    :::
 
-## 激活工具
+## 输入法
 
-激活 Microsoft Windows 和 Microsoft Office 的方法之一。
+指键盘击键或鼠标移动翻译成字符来输入的操作系统组件。
 
-- [**Microsoft Activation Scripts**](https://github.com/massgravel/microsoft-activation-scripts) / <Icon src="terminal-fill" /> / <Icon href="https://github.com/massgravel/Microsoft-Activation-Scripts" src="github" />
-- **HEU KMS Activator** / <Icon src="windows" /> / <Icon href="https://github.com/zbezj/HEU_KMS_Activator" src="github" />
-- [**CMWTAT Digital Edition**](https://cmwtat.cloudmoe.com/cn.html) / <Icon src="windows" /> / <Icon href="https://github.com/TGSAN/CMWTAT_Digital_Edition" src="github" />
+- [**Rime**](https://rime.im/) - 输入法引擎 / <Icon href="https://github.com/rime" src="github" /> | **小狼毫** / <Icon src="windows" /> / <Icon href="https://github.com/rime/weasel" src="github" /> | **鼠须管** / <Icon src="apple" /> / <Icon href="https://github.com/rime/squirrel" src="github" /> | **同文** / <Icon src="android" /> / <Icon href="https://github.com/osfans/trime" src="github" /> ……详情信息<sup>[2]</sup>
+- [**FlorisBoard**](https://florisboard.org/) - 英文输入法 / <Icon src="android" /> / <Icon href="https://github.com/florisboard/florisboard" src="github" />
+- [**Fcitx**](https://fcitx-im.org/wiki/Fcitx_5) - 输入法框架 / <Icon src="tux" /> / <Icon href="https://github.com/fcitx" src="github" /> | [**小企鹅输入法 5**](https://fcitx5-android.github.io/) / <Icon src="android" /> / <Icon href="https://github.com/fcitx5-android/fcitx5-android" src="github" />
+- **YuyanIme** / <Icon src="android" /> / <Icon href="https://github.com/gurecn/YuyanIme" src="github" />
+- **hallelujahIM** - 英文输入法 / <Icon src="apple" /> / <Icon href="https://github.com/dongyuwei/hallelujahIM" src="github" />
 
 ::: details 详情信息
 
-1. [kms · GitHub Topics](https://github.com/topics/kms)
-2. [activator · GitHub Topics](https://github.com/topics/activator)
-3. [Key Management Service - Simple English Wikipedia](https://simple.wikipedia.org/wiki/Key_Management_Service)
+1. [input-method · GitHub Topics](https://github.com/topics/input-method)
+2. [下載及安裝 | RIME | 中州韻輸入法引擎](https://rime.im/download/)
+3. [输入法 - 维基百科](https://zh.wikipedia.org/wiki/%E8%BE%93%E5%85%A5%E6%B3%95)
+4. [分类:输入法 - 维基百科](https://zh.wikipedia.org/wiki/Category:%E8%BC%B8%E5%85%A5%E6%B3%95)
    :::
 
 ## 密码管理器
@@ -53,7 +100,6 @@
 
 - [**Bitwarden**](https://bitwarden.com/) - 免费版 / <Icon href="https://github.com/bitwarden" src="github" />
 - [**KeePass**](https://keepass.info/) / <Icon href="https://sourceforge.net/projects/keepass/" src="sourceforge" /> | [**KeePassXC**](https://keepassxc.org/) - 跨平台 / <Icon href="https://github.com/keepassxreboot/keepassxc" src="github" /> | [**MacPass**](https://macpassapp.org/) / <Icon src="apple" /> / <Icon href="https://github.com/MacPass/MacPass" src="github" /> ……详情信息<sup>[2]</sup>
-- [**Proton Pass**](https://proton.me/pass) - 免费版 / <Icon href="https://proton.me/pass" src="github" />
 - [**LessPass**](https://www.lesspass.com/) - 无状态密码管理器 / <Icon href="https://github.com/lesspass/lesspass" src="github" />
 
 ::: details 详情信息
@@ -83,11 +129,11 @@
 
 用于帮助分析、配置、优化、维护计算机的系统软件。
 
-- [**Microsoft PowerToys**](https://learn.microsoft.com/windows/powertoys/) - Windows Utilities / <Icon src="windows" /> / <Icon href="https://github.com/microsoft/powertoys" src="github" />
-- [WinUtil](https://winutil.christitus.com/) - Windows Toolbox / <Icon src="windows" /> / <Icon href="https://github.com/christitustech/winutil" src="github" />
-- [Ice](https://icemenubar.app/) - Menu Bar Manager / <Icon src="apple" /> / <Icon href="https://github.com/jordanbaird/Ice" src="github" />
-- [AltTab](https://alt-tab-macos.netlify.app/) - Windows alt-tab on macOS / <Icon src="apple" /> / <Icon href="https://github.com/lwouis/alt-tab-macos" src="github" />
-- [Mac Mouse Fix](https://macmousefix.com/) / <Icon src="apple" /> / <Icon href="https://github.com/noah-nuebling/mac-mouse-fix" src="github" />
+- [**Microsoft PowerToys**](https://learn.microsoft.com/windows/powertoys/) - Windows 实用工具集/ <Icon src="windows" /> / <Icon href="https://github.com/microsoft/powertoys" src="github" />
+- [WinUtil](https://winutil.christitus.com/) - Windows 工具箱 / <Icon src="windows" /> / <Icon href="https://github.com/christitustech/winutil" src="github" />
+- [Ice](https://icemenubar.app/) - 菜单管理 / <Icon src="apple" /> / <Icon href="https://github.com/jordanbaird/Ice" src="github" />
+- [AltTab](https://alt-tab-macos.netlify.app/) - 在 macOS 上使用 Windows 的 Alt+Tab 键 / <Icon src="apple" /> / <Icon href="https://github.com/lwouis/alt-tab-macos" src="github" />
+- [Mac Mouse Fix](https://macmousefix.com/) - 鼠标修复 / <Icon src="apple" /> / <Icon href="https://github.com/noah-nuebling/mac-mouse-fix" src="github" />
 
 ::: details 详情信息
 
