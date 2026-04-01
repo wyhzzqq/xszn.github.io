@@ -44,6 +44,23 @@ a portable USB-attached external data storage device containing a full operating
 3. [Category:Data recovery software - Wikipedia](https://en.wikipedia.org/wiki/Category:Data_recovery_software)
    :::
 
+## Desktop customization software
+
+Desktop environments are much more dynamic and customizable to meet user needs.
+
+- [**ExplorerPatcher**](https://explorerpatcher.net/) - Restore Windows 10 Style / <Icon src="windows" /> / <Icon href="https://github.com/valinet/ExplorerPatcher" src="github" />
+- [**Seelen UI**](https://seelen.io/) / <Icon src="windows" /> / <Icon href="https://github.com/eythaann/seelen-ui" src="github" />
+- [**Winhance**](https://winhance.net/) / <Icon src="windows" /> / <Icon href="https://github.com/memstechtips/Winhance" src="github" />
+- [**Windhawk**](https://windhawk.net/) - System Customization and Enhancement Tools / <Icon src="windows" /> / <Icon href="https://github.com/ramensoftware/windhawk" src="github" />
+- [**Rainmeter**](https://www.rainmeter.net/) / <Icon src="windows" /> / <Icon href="https://github.com/rainmeter/rainmeter" src="github" />
+
+::: details
+
+1. [customization · GitHub Topics](https://github.com/topics/customization)
+2. [Desktop environment - Wikipedia](https://en.wikipedia.org/wiki/Desktop_environment)
+3. [Category:Desktop environments - Wikipedia](https://en.wikipedia.org/wiki/Category:Desktop_environments)
+   :::
+
 ## Disk Cleaners
 
 Deletes unnecessary or unwanted files to free up disk space.
@@ -114,7 +131,7 @@ A software program that prevents password fatigue by automatically generating.
 Designed to remove other software or specific components thereof from a computer.
 
 - [**Bulk Crap Uninstaller**](https://www.bcuninstaller.com/) / <Icon src="windows" /> / <Icon href="https://github.com/Klocman/Bulk-Crap-Uninstaller" src="github" />
-- [Pearcleaner](https://itsalin.com/appInfo/?id=pearcleaner) / <Icon src="apple" /> / <Icon href="https://github.com/alienator88/Pearcleaner" src="github" />
+- [**Pearcleaner**](https://itsalin.com/appInfo/?id=pearcleaner) / <Icon src="apple" /> / <Icon href="https://github.com/alienator88/Pearcleaner" src="github" />
 - **Remove MS Edge** - Uninstall Microsoft Edge / <Icon src="windows" /> / <Icon href="https://github.com/ShadowWhisperer/Remove-MS-Edge" src="github" />
 
 ::: details
@@ -129,14 +146,28 @@ Designed to remove other software or specific components thereof from a computer
 Software that supports the management of computer infrastructure.
 
 - [**Microsoft PowerToys**](https://learn.microsoft.com/windows/powertoys/) - Windows Utilities / <Icon src="windows" /> / <Icon href="https://github.com/microsoft/powertoys" src="github" />
-- [WinUtil](https://winutil.christitus.com/) - Windows Toolbox / <Icon src="windows" /> / <Icon href="https://github.com/christitustech/winutil" src="github" />
-- [Ice](https://icemenubar.app/) - Menu Bar Manager / <Icon src="apple" /> / <Icon href="https://github.com/jordanbaird/Ice" src="github" />
-- [AltTab](https://alt-tab-macos.netlify.app/) - Windows alt-tab on macOS / <Icon src="apple" /> / <Icon href="https://github.com/lwouis/alt-tab-macos" src="github" />
-- [Mac Mouse Fix](https://macmousefix.com/) / <Icon src="apple" /> / <Icon href="https://github.com/noah-nuebling/mac-mouse-fix" src="github" />
+- [**WinUtil**](https://winutil.christitus.com/) - Windows Toolbox / <Icon src="windows" /> / <Icon href="https://github.com/christitustech/winutil" src="github" />
+- [**Ice**](https://icemenubar.app/) - Menu Bar Manager / <Icon src="apple" /> / <Icon href="https://github.com/jordanbaird/Ice" src="github" />
+- [**AltTab**](https://alt-tab-macos.netlify.app/) - Windows alt-tab on macOS / <Icon src="apple" /> / <Icon href="https://github.com/lwouis/alt-tab-macos" src="github" />
+- [**Mac Mouse Fix**](https://macmousefix.com/) / <Icon src="apple" /> / <Icon href="https://github.com/noah-nuebling/mac-mouse-fix" src="github" />
 
 ::: details
 
 1. [utility · GitHub Topics](https://github.com/topics/utility)
 2. [Utility software - Wikipedia](https://en.wikipedia.org/wiki/Utility_software)
 3. [Category:Utility software - Wikipedia](https://en.wikipedia.org/wiki/Category:Utility_software)
+   :::
+
+## Virtualization software
+
+- [**VirtualBox**](https://www.virtualbox.org/) / <Icon href="https://github.com/VirtualBox/virtualbox" src="github" />
+- [QEMU](https://github.com/qemu/QEMU) / <Icon href="https://github.com/qemu/QEMU" src="github" /> | [Quickemu](https://quickemu-project.github.io/) / <Icon href="https://github.com/quickemu-project/quickemu" src="github" />
+- [**UTM**](https://getutm.app/) / <Icon src="apple" /> / <Icon href="https://github.com/utmapp/UTM" src="github" />
+
+::: details
+
+1. [virtual-machines · GitHub Topics](https://github.com/topics/virtual-machines)
+2. [virtualization · GitHub Topics](https://github.com/topics/virtualization)
+3. [Virtual machine - Wikipedia](https://en.wikipedia.org/wiki/Virtual_machine)
+4. [Category:Virtual machines - Wikipedia](https://en.wikipedia.org/wiki/Category:Virtual_machines)
    :::

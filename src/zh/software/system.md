@@ -45,6 +45,23 @@
 3. [分类:数据恢复软件 - 维基百科](https://zh.wikipedia.org/wiki/Category:%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D%E8%BD%AF%E4%BB%B6)
    :::
 
+## 桌面美化软件
+
+一类用于个性化定制计算机操作系统界面视觉元素的工具软件。
+
+- [**ExplorerPatcher**](https://explorerpatcher.net/) - 恢复 Windows 10 风格 / <Icon src="windows" /> / <Icon href="https://github.com/valinet/ExplorerPatcher" src="github" />
+- [**Seelen UI**](https://seelen.io/) / <Icon src="windows" /> / <Icon href="https://github.com/eythaann/seelen-ui" src="github" />
+- [**Winhance**](https://winhance.net/) / <Icon src="windows" /> / <Icon href="https://github.com/memstechtips/Winhance" src="github" />
+- [**Windhawk**](https://windhawk.net/) - 系统自定义增强工具 / <Icon src="windows" /> / <Icon href="https://github.com/ramensoftware/windhawk" src="github" />
+- [**Rainmeter**](https://www.rainmeter.net/) / <Icon src="windows" /> / <Icon href="https://github.com/rainmeter/rainmeter" src="github" />
+
+::: details 详情信息
+
+1. [customization · GitHub Topics](https://github.com/topics/customization)
+2. [桌面美化\_百度百科](https://baike.baidu.com/item/%E6%A1%8C%E9%9D%A2%E7%BE%8E%E5%8C%96/2148399)
+3. [桌面美化软件\_百度百科](https://baike.baidu.com/item/%E6%A1%8C%E9%9D%A2%E7%BE%8E%E5%8C%96%E8%BD%AF%E4%BB%B6/6322337)
+   :::
+
 ## 磁盘清理工具
 
 删除不必要或不需要的文件。
