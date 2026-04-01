@@ -158,3 +158,22 @@
 2. [实用程序 - 维基百科](https://zh.wikipedia.org/wiki/%E5%85%AC%E7%94%A8%E7%A8%8B%E5%BC%8F)
 3. [分类:实用程序 - 维基百科](https://zh.wikipedia.org/wiki/Category:%E5%AE%9E%E7%94%A8%E7%A8%8B%E5%BA%8F)
    :::
+
+## 虚拟机软件
+
+允许单个主机创建和运行一个或多个虚拟环境。
+
+- [**VirtualBox**](https://www.virtualbox.org/) / <Icon href="https://github.com/VirtualBox/virtualbox" src="github" />
+- [QEMU](https://github.com/qemu/QEMU) / <Icon href="https://github.com/qemu/QEMU" src="github" /> | [Quickemu](https://quickemu-project.github.io/) / <Icon href="https://github.com/quickemu-project/quickemu" src="github" />
+- [**UTM**](https://getutm.app/) / <Icon src="apple" /> / <Icon href="https://github.com/utmapp/UTM" src="github" />
+- **OSX-KVM** - OS X Machines / <Icon src="tux" /> / <Icon href="https://github.com/kholia/OSX-KVM" src="github" />
+- [**Lima**](https://lima-vm.io/) - Linux Machines / <Icon href="https://github.com/lima-vm/lima" src="github" />
+- [**Multipass**](https://canonical.com/multipass) - Ubuntu Machines / <Icon href="https://github.com/canonical/multipass" src="github" />
+
+::: details 详情信息
+
+1. [virtual-machines · GitHub Topics](https://github.com/topics/virtual-machines)
+2. [virtualization · GitHub Topics](https://github.com/topics/virtualization)
+3. [虚拟机 - 维基百科](https://zh.wikipedia.org/wiki/%E8%99%9B%E6%93%AC%E6%A9%9F%E5%99%A8)
+4. [分类:虚拟机器 - 维基百科](https://zh.wikipedia.org/wiki/Category:%E8%99%9B%E6%93%AC%E6%A9%9F%E5%99%A8)
+   :::

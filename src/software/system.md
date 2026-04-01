@@ -160,9 +160,14 @@ Software that supports the management of computer infrastructure.
 
 ## Virtualization software
 
+Allows a single host computer to create and run one or more virtual environments.
+
 - [**VirtualBox**](https://www.virtualbox.org/) / <Icon href="https://github.com/VirtualBox/virtualbox" src="github" />
 - [QEMU](https://github.com/qemu/QEMU) / <Icon href="https://github.com/qemu/QEMU" src="github" /> | [Quickemu](https://quickemu-project.github.io/) / <Icon href="https://github.com/quickemu-project/quickemu" src="github" />
 - [**UTM**](https://getutm.app/) / <Icon src="apple" /> / <Icon href="https://github.com/utmapp/UTM" src="github" />
+- **OSX-KVM** - OS X Machines / <Icon src="tux" /> / <Icon href="https://github.com/kholia/OSX-KVM" src="github" />
+- [**Lima**](https://lima-vm.io/) - Linux Machines / <Icon href="https://github.com/lima-vm/lima" src="github" />
+- [**Multipass**](https://canonical.com/multipass) - Ubuntu Machines / <Icon href="https://github.com/canonical/multipass" src="github" />
 
 ::: details
 
