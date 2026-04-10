@@ -20,6 +20,7 @@ We update and recommend software periodically and also welcome user submissions 
 
 For content submissions, advertising collaboration, or partnership inquiries, please feel free to reach out to us at any time.
 
-- [E-mail](mailto:xsznorg@gmail.com)
+- <Icon text="Telegram" href="https://t.me/xsznChatBot" src="telegram" />
+- <Icon text="E-mail" href="mailto:xsznorg@gmail.com" src="envelope-fill" />
 
 Thank you for visiting our website.

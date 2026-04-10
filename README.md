@@ -1,0 +1,4 @@
+- [ ] 中英 SEO
+  - [ ] .vitepress\config\head.js
+  - [ ] .vitepress\config\index.js
+  - [ ] src\index.md

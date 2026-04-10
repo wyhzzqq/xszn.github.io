@@ -20,6 +20,6 @@
 
 投稿内容、合作广告和申请友链，如果您有任何问题，请随时与我们联系。
 
-- [E-Mail](mailto:xsznorg@gmail.com)
+<!--@include: ../about.md{23,24}-->
 
 感谢您访问我们的网站。

@@ -1,7 +1,7 @@
 export default [
   { text: "Home", link: "/" },
   {
-    text: "Operating system",
+    text: "OS software",
     items: [
       {
         text: "System software",
@@ -14,43 +14,43 @@ export default [
     ],
   },
   {
-    text: "Internet",
+    text: "Internet software",
     items: [
       {
-        text: "Educational",
+        text: "Educational software",
         link: "/software/educational/",
       },
       {
-        text: "Social media",
+        text: "Social media software",
         link: "/software/social-media",
       },
       {
-        text: "Video game",
+        text: "Video game software",
         link: "/software/video-game",
       },
       {
-        text: "Productivity",
+        text: "Productivity software",
         link: "/software/productivity",
       },
     ],
   },
   {
-    text: "File",
+    text: "File software",
     items: [
       {
-        text: "Text",
+        text: "Text software",
         link: "/software/text",
       },
       {
-        text: "Graphics",
+        text: "Graphics software",
         link: "/software/graphics",
       },
       {
-        text: "Audio",
+        text: "Audio software",
         link: "/software/audio",
       },
       {
-        text: "Video",
+        text: "Video software",
         link: "/software/video",
       },
     ],
