@@ -15,5 +15,15 @@ export default {
         { text: "📹 Video software", link: "/software/video" },
       ],
     },
+    {
+      text: "Icon legend",
+      items: [
+        { text: `<i class="bi bi-folder-fill"></i> indexes` },
+        { text: `<i class="bi bi-browser-chrome"></i> Browser extension` },
+        { text: `<i class="bi bi-terminal-fill"></i> CLI` },
+        { text: `<i class="bi bi-apple"></i> Apple OS` },
+        { text: `...` },
+      ],
+    },
   ],
 };

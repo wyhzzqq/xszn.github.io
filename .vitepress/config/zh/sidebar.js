@@ -15,5 +15,15 @@ export default {
         { text: "📹 视频软件", link: "/zh/software/video" },
       ],
     },
+    {
+      text: "图标说明",
+      items: [
+        { text: `<i class="bi bi-folder-fill"></i> 索引目录` },
+        { text: `<i class="bi bi-browser-chrome"></i> 浏览器扩展` },
+        { text: `<i class="bi bi-terminal-fill"></i> 命令行界面` },
+        { text: `<i class="bi bi-apple"></i> 苹果操作系统` },
+        { text: `...` },
+      ],
+    },
   ],
 };
