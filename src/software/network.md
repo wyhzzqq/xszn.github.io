@@ -23,7 +23,21 @@
 2. [Category:Download managers - Wikipedia](https://en.wikipedia.org/wiki/Category:Download_managers)
    :::
 
-## FTP clients
+## File sharing software
+
+- [**LocalSend**](https://localsend.org/) / <Icon href="https://github.com/localsend/localsend" src="github" />
+- [**Croc**](https://infinitedigits.co/croc/) / <Icon src="terminal-fill" /> / <Icon href="https://github.com/schollz/croc" src="github" />
+- **B0Pass** / <Icon src="terminal-fill" /> / <Icon href="https://github.com/jinsi-ai/b0pass" src="github" />
+- **FlyingCarpet** / <Icon src="android2" /> / <Icon href="https://github.com/spieglt/FlyingCarpet" src="github" />
+
+::: details
+
+1. [file-sharing · GitHub Topics](https://github.com/topics/file-sharing)
+2. [file-transfer · GitHub Topics](https://github.com/topics/file-transfer)
+3. [Category:File sharing software - Wikipedia](https://en.wikipedia.org/wiki/Category:File_sharing_software)
+   :::
+
+### FTP clients
 
 - [**FileZilla**](https://filezilla-project.org/)
 - [**WinSCP**](https://winscp.net/) / <Icon src="windows" /> / <Icon href="https://github.com/winscp/winscp" src="github" />
@@ -35,6 +49,17 @@
 
 1. [ftp-client · GitHub Topics](https://github.com/topics/ftp-client)
 2. [Category:FTP clients - Wikipedia](https://en.wikipedia.org/wiki/Category:FTP_clients)
+   :::
+
+## Home automation software
+
+- [**Home Assistant**](https://www.home-assistant.io/) / <Icon href="https://github.com/home-assistant" src="github" />
+- [**openHAB**](https://www.openhab.org/) / <Icon href="https://github.com/openhab" src="github" />
+
+::: details
+
+1. [home-automation · GitHub Topics](https://github.com/topics/home-automation)
+2. [List of home automation software - Wikipedia](https://en.wikipedia.org/wiki/List_of_home_automation_software)
    :::
 
 ## Proxy software
