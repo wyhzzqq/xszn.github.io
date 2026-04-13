@@ -1,14 +1,21 @@
 # Network software
 
+## AI assistants
+
+- [**Tabby**](https://www.tabbyml.com/) / <Icon href="https://github.com/TabbyML/tabby" src="github" />
+- [**QwenPaw**](https://qwenpaw.agentscope.io/) / <Icon href="https://github.com/agentscope-ai/QwenPaw" src="github" />
+- [**Page Assist**](https://pageassist.xyz/) / <Icon href="https://github.com/n4ze3m/page-assist" src="github" />
+- [**AingDesk**](https://www.aingdesk.com/) / <Icon href="https://github.com/aingdesk/AingDesk" src="github" />
+
+::: details
+
+1. [ai-assistant · GitHub Topics](https://github.com/topics/ai-assistant)
+   :::
+
 ## Captcha solvers
 
 - **Buster** / <Icon src="browser-chrome" /> / <Icon href="https://github.com/dessant/buster" src="github" />
 - [**NopeCHA**](https://nopecha.com/) / <Icon src="browser-chrome" /> / <Icon href="https://github.com/NopeCHALLC/nopecha-extension" src="github" />
-
-::: details
-
-1. [CAPTCHA - Wikipedia](https://en.wikipedia.org/wiki/CAPTCHA)
-   :::
 
 ## Download managers
 
@@ -74,6 +81,21 @@
 
 1. [Repository search results for proxy](https://github.com/search?q=proxy&type=repositories&s=stars&o=desc)
 2. [分类:代理软件 - 维基百科](https://zh.wikipedia.org/wiki/Category:%E4%BB%A3%E7%90%86%E8%BD%AF%E4%BB%B6)
+   :::
+
+## Remote desktop software
+
+- [**RustDesk**](https://rustdesk.com/) / <Icon href="https://github.com/rustdesk/rustdesk" src="github" />
+- [**FreeRDP**](https://www.freerdp.com/) / <Icon src="terminal-fill" /> / <Icon href="https://github.com/FreeRDP/FreeRDP" src="github" /> | [**Remmina**](https://remmina.org/) / <Icon src="tux" /> / <Icon href="https://github.com/freerdp/remmina" src="github" />
+- [**TightVNC**](https://www.tightvnc.com/) / <Icon href="https://sourceforge.net/projects/vnc-tight/" src="sourceforge" />
+- [**BilldDesk**](https://desk.hsslive.cn/) / <Icon href="https://github.com/galaxy-s10/billd-desk" src="github" />
+- [**CrossDesk**](https://www.crossdesk.cn/) / <Icon href="https://github.com/kunkundi/crossdesk" src="github" />
+- [**HopToDesk**](https://www.hoptodesk.com/) / <Icon href="https://gitlab.com/hoptodesk/hoptodesk" src="gitlab" />
+
+::: details
+
+1. [remote-desktop · GitHub Topics](https://github.com/topics/remote-desktop)
+2. [Remote desktop software - Wikipedia](https://en.wikipedia.org/wiki/Remote_desktop_software)
    :::
 
 ## RSS readers
