@@ -1,5 +1,18 @@
 # Network software
 
+## Ad blockers
+
+- [**AdBlock**](https://getadblock.com/) | [**Adblock Plus**](https://adblockplus.org/) / <Icon src="browser-chrome" /> / <Icon href="https://gitlab.com/eyeo/browser-extensions-and-premium/extensions/extensions" src="gitlab" />
+- [**uBlock Origin**](https://ublockorigin.com/) / <Icon src="browser-chrome" /> / <Icon href="https://github.com/gorhill/uBlock" src="github" />
+- [**SponsorBlock**](https://sponsor.ajay.app/) / <Icon src="browser-chrome" /> / <Icon href="https://github.com/ajayyy/SponsorBlock" src="github" />
+- [**AdAway**](https://adaway.org/) / <Icon src="android2" /> / <Icon href="https://github.com/AdAway/AdAway" src="github" />
+
+::: details
+
+1. [adblock · GitHub Topics](https://github.com/topics/adblock)
+2. [Category:Ad blocking software - Wikipedia](https://en.wikipedia.org/wiki/Category:Ad_blocking_software)
+   :::
+
 ## AI assistants
 
 - [**Tabby**](https://www.tabbyml.com/) / <Icon href="https://github.com/TabbyML/tabby" src="github" />
@@ -88,8 +101,6 @@
 - [**RustDesk**](https://rustdesk.com/) / <Icon href="https://github.com/rustdesk/rustdesk" src="github" />
 - [**FreeRDP**](https://www.freerdp.com/) / <Icon src="terminal-fill" /> / <Icon href="https://github.com/FreeRDP/FreeRDP" src="github" /> | [**Remmina**](https://remmina.org/) / <Icon src="tux" /> / <Icon href="https://github.com/freerdp/remmina" src="github" />
 - [**TightVNC**](https://www.tightvnc.com/) / <Icon href="https://sourceforge.net/projects/vnc-tight/" src="sourceforge" />
-- [**BilldDesk**](https://desk.hsslive.cn/) / <Icon href="https://github.com/galaxy-s10/billd-desk" src="github" />
-- [**CrossDesk**](https://www.crossdesk.cn/) / <Icon href="https://github.com/kunkundi/crossdesk" src="github" />
 - [**HopToDesk**](https://www.hoptodesk.com/) / <Icon href="https://gitlab.com/hoptodesk/hoptodesk" src="gitlab" />
 
 ::: details
@@ -109,4 +120,16 @@
 
 1. [rss-reader · GitHub Topics](https://github.com/topics/rss-reader)
 2. [RSS - Wikipedia](https://en.wikipedia.org/wiki/RSS)
+   :::
+
+## Screen mirroring software
+
+- **Scrcpy** / <Icon src="terminal-fill" /> / <Icon href="https://github.com/genymobile/scrcpy" src="github" /> | **QtScrcpy** / <Icon href="https://github.com/barry-ran/qtscrcpy" src="github" /> | [**Escrcpy**](https://viarotel.eu.org/) / <Icon href="https://github.com/viarotel-org/escrcpy" src="github" />
+- **Weylus** / <Icon href="https://github.com/H-M-H/Weylus" src="github" />
+- [**PlainApp**](https://plainapp.app/) / <Icon src="android2" /> / <Icon href="https://github.com/plainhub/plain-app" src="github" />
+
+::: details
+
+1. [mirroring · GitHub Topics](https://github.com/topics/mirroring)
+2. [https://github.com/topics/screen-mirroring](https://github.com/topics/screen-mirroring)
    :::
