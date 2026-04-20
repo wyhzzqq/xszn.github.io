@@ -10,6 +10,9 @@ export default {
   },
   nav,
   sidebar,
+  outline: {
+    level: [2, 3],
+  },
   socialLinks,
   footer: {
     message: `<a href="/about">About</a> | <a href="/link-exchange">Link exchange</a> | <a href="/disclaimer">Disclaimer</a> | <a href="/privacy-policy">Privacy policy</a>`,
