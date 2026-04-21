@@ -70,7 +70,9 @@
 1. [youtube-music · GitHub Topics](https://github.com/topics/youtube-music)
    :::
 
-## 流媒体聚合器
+## Other software?
 
 - https://github.com/krtirtho/spotube
-- https://github.com/futo-org
+- https://grayjay.app/
+- https://github.com/futo-org/grayjay-android
+- https://github.com/leaperone/MultiPost-Extension
