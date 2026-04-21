@@ -15,7 +15,9 @@ export default createContentLoader("audio-software/**/*.md", {
         return a.url.localeCompare(b.url);
       })
       .map((page) => {
-        return {};
+        return {
+          ...page,
+        };
       });
   },
 });
