@@ -5,8 +5,10 @@ next: false
 
 # 更新日志
 
-::: info
 增加新软件记录。
+
+::: tip
+2026 年 5 月初增加国际化支持、文档列表布局，将添加多个软件列表，敬请期待。
 :::
 
 <ul v-for="log of changelog.filter(item => 
