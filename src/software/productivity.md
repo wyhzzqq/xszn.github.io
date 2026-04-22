@@ -13,3 +13,16 @@
 1. [automation · GitHub Topics](https://github.com/topics/automation)
 2. [Category:Automation software - Wikipedia](https://en.wikipedia.org/wiki/Category:Automation_software)
    :::
+
+## Development tools
+
+- [**DevToys**](https://devtoys.app/) / <Icon href="https://github.com/DevToys-app/DevToys" src="github" />
+- [**OmniTools**](https://omnitools.app/) / <Icon src="globe2" /> / <Icon href="https://github.com/iib0011/omni-tools" src="github" />
+- [**IT Tools**](https://it-tools.tech/) / <Icon src="globe2" /> / <Icon href="https://github.com/corentinth/it-tools" src="github" />
+- **Dev Toolbox** / <Icon src="tux" /> / <Icon href="https://github.com/aleiepure/devtoolbox" src="github" />
+
+::: details
+
+1. [developer-tools · GitHub Topics](https://github.com/topics/developer-tools)
+2. [Web development tools - Wikipedia](https://en.wikipedia.org/wiki/Web_development_tools)
+   :::
