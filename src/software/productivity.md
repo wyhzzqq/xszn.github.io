@@ -14,6 +14,14 @@
 2. [Category:Automation software - Wikipedia](https://en.wikipedia.org/wiki/Category:Automation_software)
    :::
 
+## Desktop search tools
+
+- [**Everything**](https://www.voidtools.com/) - nonfree / <Icon src="windows" />
+- [**DocFetcher**](https://docfetcher.sourceforge.io/) / <Icon href="https://sourceforge.net/projects/docfetcher/" src="sourceforge" />
+- [**dnGrep**](https://dngrep.github.io/) / <Icon src="windows" /> / <Icon href="https://github.com/dnGrep/dnGrep" src="github" />
+- [**AnyTXT Searcher**](https://anytxt.net/) - nonfree / <Icon src="windows" />
+- [**XiaoyaoSearch**](https://project.xiaoyaosai.com/product/xiaoyaosearch/) / <Icon href="https://github.com/dtsola/xiaoyaosearch" src="github" />
+
 ## Development tools
 
 - [**DevToys**](https://devtoys.app/) / <Icon href="https://github.com/DevToys-app/DevToys" src="github" />
@@ -25,4 +33,19 @@
 
 1. [developer-tools · GitHub Topics](https://github.com/topics/developer-tools)
 2. [Web development tools - Wikipedia](https://en.wikipedia.org/wiki/Web_development_tools)
+   :::
+
+## Diagramming software
+
+- [**draw.io**](https://www.drawio.com/) / <Icon href="https://github.com/jgraph/drawio" src="github" /> | [**Next AI Draw.io**](https://next-ai-drawio.jiang.jp/) / <Icon href="https://github.com/DayuanJiang/next-ai-draw-io" src="github" />
+- [**Mermaid**](https://mermaid.ai/open-source/) / <Icon src="globe2" /> / <Icon href="https://github.com/mermaid-js/mermaid" src="github" />
+- [**Excalidraw**](https://excalidraw.com/) / <Icon src="globe2" /> / <Icon href="https://github.com/excalidraw/excalidraw" src="github" />
+- [**JSON Crack**](https://jsoncrack.com/) / <Icon src="globe2" /> /<Icon href="https://github.com/AykutSarac/jsoncrack.com" src="github" />
+
+::: details
+
+1. [diagram · GitHub Topics](https://github.com/topics/diagram)
+2. [diagrams · GitHub Topics](https://github.com/topics/diagrams)
+3. [flowchart · GitHub Topics](https://github.com/topics/flowchart)
+4. [Category:Diagramming software - Wikipedia](https://en.wikipedia.org/wiki/Category:Diagramming_software)
    :::
