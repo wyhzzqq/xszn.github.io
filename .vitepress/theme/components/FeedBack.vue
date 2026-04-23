@@ -188,26 +188,11 @@ defineExpose({
     transition: all 0.2s ease;
     vertical-align: middle;
     line-height: 1;
+    color: var(--hero-alt)
 }
 
 .feedback-btn:hover {
+    color: var(--hero-brand);
     opacity: 1;
-}
-
-.feedback-btn:focus {
-    outline: 2px solid #3b82f6;
-    outline-offset: 2px;
-    opacity: 1;
-}
-
-.feedback-icon {
-    width: 16px;
-    height: 16px;
-    color: currentColor;
-    transition: color 0.2s ease;
-}
-
-.feedback-btn:hover .feedback-icon {
-    color: #3b82f6;
 }
 </style>
