@@ -49,3 +49,24 @@
 3. [flowchart · GitHub Topics](https://github.com/topics/flowchart)
 4. [Category:Diagramming software - Wikipedia](https://en.wikipedia.org/wiki/Category:Diagramming_software)
    :::
+
+## File converter
+
+- [**File Converter**](https://file-converter.io/) / <Icon src="windows" /> / <Icon href="https://github.com/Tichau/FileConverter" src="github" />
+- [**Pandoc**](https://pandoc.org/) / <Icon href="https://github.com/jgm/pandoc" src="github" />
+- [**VERT**](https://vert.sh/) / <Icon src="globe2" /> / <Icon href="https://github.com/VERT-sh/vert" src="github" />
+- [**Convert to it!**](https://p2r3.github.io/convert/) / <Icon src="globe2" /> / <Icon href="https://github.com/p2r3/convert" src="github" />
+
+## File synchronization software
+
+- [**Syncthing**](https://syncthing.net/) / <Icon href="https://github.com/syncthing/syncthing" src="github" />
+- [**Unison**](https://www.cis.upenn.edu/~bcpierce/unison/) / <Icon href="https://github.com/bcpierce00/unison" src="github" />
+- [**FreeFileSync**](https://freefilesync.org/) / <Icon href="https://github.com/hkneptune/FreeFileSync" src="github" />
+- **TaoSync** - Sync for OpenList/AList / <Icon href="https://github.com/dr34m-cn/taosync" src="github" />
+- [**Seafile**](https://www.seafile.com/) / <Icon href="https://github.com/haiwen/seafile" src="github" />
+
+::: details
+
+1. [file-sync · GitHub Topics](https://github.com/topics/file-sync)
+2. [Comparison of file synchronization software - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_file_synchronization_software)
+   :::
