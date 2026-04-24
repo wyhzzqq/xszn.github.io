@@ -7,11 +7,6 @@
 <script setup>
 import { onMounted, onBeforeUnmount, ref } from 'vue'
 
-/**
- * =========================
- * CONFIG
- * =========================
- */
 const CONFIG = {
     selectors: ['.vp-doc h2'],
     debounce: 120,
@@ -19,31 +14,16 @@ const CONFIG = {
         'https://docs.google.com/forms/d/e/1FAIpQLSdR9RXzyHJEt_D90EXNZ4js_kLPKttM7iW-usL15eXm2A3ydA/viewform?usp=pp_url',
 }
 
-/**
- * =========================
- * STATE
- * =========================
- */
 let observer = null
 let debounceTimer = null
 const injected = new WeakSet()
 
 const feedbackContainer = ref(null)
 
-/**
- * =========================
- * NO ENCODING (按你的要求)
- * =========================
- */
 function safeValue(value = '') {
     return String(value)
 }
 
-/**
- * =========================
- * OPEN FORM
- * =========================
- */
 function openFeedbackForm(h2) {
     const pageUrl = window.location.origin + window.location.pathname
 
@@ -63,11 +43,6 @@ function openFeedbackForm(h2) {
     window.open(url, '_blank', 'noopener,noreferrer')
 }
 
-/**
- * =========================
- * BUTTON CREATE
- * =========================
- */
 function createButton(h2) {
     if (!h2) return null
     if (injected.has(h2)) return null
@@ -94,24 +69,11 @@ function createButton(h2) {
 
     btn.addEventListener('click', handler)
 
-    // 键盘支持（可用性）
-    btn.addEventListener('keydown', (e) => {
-        if (e.key === 'Enter' || e.key === ' ') {
-            e.preventDefault()
-            openFeedbackForm(h2)
-        }
-    })
-
     injected.add(h2)
 
     return btn
 }
 
-/**
- * =========================
- * INJECT LOGIC
- * =========================
- */
 function inject() {
     const headers = document.querySelectorAll(CONFIG.selectors.join(','))
 
@@ -132,11 +94,6 @@ function inject() {
     })
 }
 
-/**
- * =========================
- * OBSERVER (优化范围)
- * =========================
- */
 function createObserver() {
     const root = document.querySelector('.vp-doc') || document.body
 
@@ -154,11 +111,6 @@ function createObserver() {
     })
 }
 
-/**
- * =========================
- * LIFECYCLE
- * =========================
- */
 onMounted(() => {
     setTimeout(inject, 100)
     createObserver()
@@ -188,7 +140,7 @@ defineExpose({
     transition: all 0.2s ease;
     vertical-align: middle;
     line-height: 1;
-    color: var(--hero-alt)
+    color: var(--hero-alt);
 }
 
 .feedback-btn:hover {
