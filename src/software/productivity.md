@@ -70,3 +70,15 @@
 1. [file-sync · GitHub Topics](https://github.com/topics/file-sync)
 2. [Comparison of file synchronization software - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_file_synchronization_software)
    :::
+
+## Speech recognition software
+
+- [**Handy**](https://handy.computer/) / <Icon href="https://github.com/cjpais/handy" src="github" />
+- [**pyVideoTrans**](https://pyvideotrans.com/) / <Icon src="windows" /> / <Icon href="https://github.com/jianchang512/stt" src="github" />
+- [**Vibe**](https://thewh1teagle.github.io/vibe/) / <Icon href="https://github.com/thewh1teagle/vibe" src="github" />
+
+::: details
+
+1. [speech-to-text · GitHub Topics](https://github.com/topics/speech-to-text)
+2. [List of speech recognition software - Wikipedia](https://en.wikipedia.org/wiki/List_of_speech_recognition_software)
+   :::
