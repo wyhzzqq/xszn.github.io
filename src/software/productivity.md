@@ -71,6 +71,18 @@
 2. [Comparison of file synchronization software - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_file_synchronization_software)
    :::
 
+## Office suites
+
+- [**OnlyOffice**](https://www.onlyoffice.com/) / <Icon href="https://github.com/ONLYOFFICE/DesktopEditors" src="github" />
+- [**LibreOffice**](https://www.libreoffice.org/) / <Icon href="https://github.com/LibreOffice/core" src="github" />
+- [**OpenOffice**](https://www.openoffice.org/) / <Icon href="https://github.com/apache/openoffice" src="github" />
+- [**Collabora Office**](https://collaboraonline.github.io/) / <Icon href="https://github.com/CollaboraOnline/online" src="github" />
+
+::: details
+
+1. [Category:Office suites - Wikipedia](https://en.wikipedia.org/wiki/Category:Office_suites)
+   :::
+
 ## Speech recognition software
 
 - [**Handy**](https://handy.computer/) / <Icon href="https://github.com/cjpais/handy" src="github" />
@@ -81,4 +93,35 @@
 
 1. [speech-to-text · GitHub Topics](https://github.com/topics/speech-to-text)
 2. [List of speech recognition software - Wikipedia](https://en.wikipedia.org/wiki/List_of_speech_recognition_software)
+   :::
+
+## Local LLM tools
+
+- [**Ollama**](https://ollama.com/) / <Icon href="" src="github" />
+- [**AnythingLLM**](https://anythingllm.com/) / <Icon href="https://github.com/Mintplex-Labs/anything-llm" src="github" />
+- [**Jan**](https://www.jan.ai/) / <Icon href="https://github.com/janhq/jan" src="github" />
+- [**LM Studio**](https://lmstudio.ai/) / <Icon href="https://github.com/lmstudio-ai" src="github" />
+- [**LocalAI**](https://localai.io/) / <Icon href="https://github.com/mudler/localai" src="github" />
+- [**llamafile**](https://docs.mozilla.ai/llamafile) / <Icon href="https://github.com/mozilla-ai/llamafile" src="github" />
+
+::: details
+
+1. [llm · GitHub Topics](https://github.com/topics/llm)
+2. [local-llm · GitHub Topics](https://github.com/topics/local-llm)
+   :::
+
+## PDF software
+
+- [**BentoPDF**](https://bentopdf.com/) / <Icon src="globe2" /> / <Icon href="https://github.com/alam00000/bentopdf" src="github" />
+
+### Creators
+
+- [**Stirling PDF**](https://www.stirling.com/) / <Icon href="https://github.com/Stirling-Tools/stirling-pdf" src="github" />
+- [**PDF Craft**](https://inkora.oomol.com/) / <Icon href="https://github.com/oomol-lab/pdf-craft" src="github" />
+- [**PDFPatcher**](https://www.cnblogs.com/pdfpatcher) / <Icon src="windows" /> / <Icon href="https://github.com/wmjordan/PDFPatcher" src="github" />
+
+::: details
+
+1. [pdf-generation · GitHub Topics](https://github.com/topics/pdf-generation)
+2. [List of PDF software - Wikipedia](https://en.wikipedia.org/wiki/List_of_PDF_software)
    :::
