@@ -114,14 +114,23 @@
 
 - [**BentoPDF**](https://bentopdf.com/) / <Icon src="globe2" /> / <Icon href="https://github.com/alam00000/bentopdf" src="github" />
 
-### Creators
+### PDF Creators
 
 - [**Stirling PDF**](https://www.stirling.com/) / <Icon href="https://github.com/Stirling-Tools/stirling-pdf" src="github" />
 - [**PDF Craft**](https://inkora.oomol.com/) / <Icon href="https://github.com/oomol-lab/pdf-craft" src="github" />
 - [**PDFPatcher**](https://www.cnblogs.com/pdfpatcher) / <Icon src="windows" /> / <Icon href="https://github.com/wmjordan/PDFPatcher" src="github" />
 
+### PDF Viewers
+
+- [**Sumatra PDF**](https://www.sumatrapdfreader.org/) / <Icon src="windows" /> / <Icon href="https://github.com/sumatrapdfreader/sumatrapdf" src="github" />
+- [**Okular**](https://okular.kde.org/) / <Icon href="https://github.com/KDE/okular" src="github" />
+- [**Pympress**](https://pympress.github.io/) / <Icon href="https://github.com/Cimbali/pympress" src="github" />
+- **PdfViewer** / <Icon src="android2" /> / <Icon href="https://github.com/GrapheneOS/PdfViewer" src="github" />
+- [**Sioyek**](https://sioyek.info/) / <Icon href="https://github.com/ahrm/sioyek" src="github" />
+
 ::: details
 
 1. [pdf-generation · GitHub Topics](https://github.com/topics/pdf-generation)
-2. [List of PDF software - Wikipedia](https://en.wikipedia.org/wiki/List_of_PDF_software)
+2. [pdf-viewer · GitHub Topics](https://github.com/topics/pdf-viewer)
+3. [List of PDF software - Wikipedia](https://en.wikipedia.org/wiki/List_of_PDF_software)
    :::
