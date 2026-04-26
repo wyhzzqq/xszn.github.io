@@ -188,3 +188,14 @@
 1. [email-client · GitHub Topics](https://github.com/topics/email-client)
 2. [Category:Email clients - Wikipedia](https://en.wikipedia.org/wiki/Category:Email_clients)
    :::
+
+## OCR software
+
+- [**PaddleOCR**](https://aistudio.baidu.com/paddleocr) / <Icon href="https://github.com/PaddlePaddle/PaddleOCR" src="github" />
+- **Umi-ORC** / <Icon href="https://github.com/hiroi-sora/Umi-OCR" src="github" />
+
+::: details
+
+1. [ocr · GitHub Topics](https://github.com/topics/ocr)
+2. [ocr文字识别软件\_百度百科](https://baike.baidu.com/item/ocr%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB%E8%BD%AF%E4%BB%B6/9462517)
+   :::
