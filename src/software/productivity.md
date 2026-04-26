@@ -113,6 +113,8 @@
 ## PDF software
 
 - [**BentoPDF**](https://bentopdf.com/) / <Icon src="globe2" /> / <Icon href="https://github.com/alam00000/bentopdf" src="github" />
+- [**PDF24 Tools**](https://tools.pdf24.org/) - nonfree
+- [**pdfforge**](https://www.pdfforge.org/) / <Icon href="windows" src="github" /> / <Icon href="https://github.com/pdfforge/pdfcreator" src="github" />
 
 ### PDF Creators
 
@@ -128,9 +130,26 @@
 - **PdfViewer** / <Icon src="android2" /> / <Icon href="https://github.com/GrapheneOS/PdfViewer" src="github" />
 - [**Sioyek**](https://sioyek.info/) / <Icon href="https://github.com/ahrm/sioyek" src="github" />
 
+### PDF editors
+
+- [**PDF4QT**](https://jakubmelka.github.io/) / <Icon href="https://github.com/JakubMelka/PDF4QT" src="github" />
+- [**KillerPDF**](https://pdf.killertools.net/) / <Icon src="windows" /> /<Icon href="https://github.com/SteveTheKiller/KillerPDF" src="github" />
+- [PaperKnife](https://potatameister.github.io/PaperKnife/) / <Icon href="https://github.com/potatameister/PaperKnife" src="github" />
+
+## PDF converters
+
+- [**MinerU**](https://mineru.net/) / <Icon href="https://github.com/opendatalab/mineru" src="github" />
+- **Every PDF** / <Icon href="https://github.com/DDULDDUCK/every-pdf" src="github" />
+- **Images To PDF** / <Icon src="android2" /> / <Icon href="https://github.com/Swati4star/Images-to-PDF" src="github" />
+- [**MarkPDFDown**](https://markdown.fit/) / <Icon href="https://github.com/MarkPDFdown/markpdfdown-desktop" src="github" />
+- [**PDFMathTranslate**](https://pdf2zh.com/) / <Icon href="https://github.com/PDFMathTranslate/PDFMathTranslate" src="github" />
+
 ::: details
 
 1. [pdf-generation · GitHub Topics](https://github.com/topics/pdf-generation)
 2. [pdf-viewer · GitHub Topics](https://github.com/topics/pdf-viewer)
-3. [List of PDF software - Wikipedia](https://en.wikipedia.org/wiki/List_of_PDF_software)
+3. [pdf-editor · GitHub Topics](https://github.com/topics/pdf-editor)
+4. [pdf-tools · GitHub Topics](https://github.com/topics/pdf-tools)
+5. [pdf-converter · GitHub Topics](https://github.com/topics/pdf-converter)
+6. [List of PDF software - Wikipedia](https://en.wikipedia.org/wiki/List_of_PDF_software)
    :::
