@@ -18,6 +18,7 @@
 
 - [**Everything**](https://www.voidtools.com/) - nonfree / <Icon src="windows" />
 - [**DocFetcher**](https://docfetcher.sourceforge.io/) / <Icon href="https://sourceforge.net/projects/docfetcher/" src="sourceforge" />
+- **Cardinal** / <Icon src="apple" /> / <Icon href="https://github.com/cardisoft/cardinal" src="github" />
 - [**dnGrep**](https://dngrep.github.io/) / <Icon src="windows" /> / <Icon href="https://github.com/dnGrep/dnGrep" src="github" />
 - [**AnyTXT Searcher**](https://anytxt.net/) - nonfree / <Icon src="windows" />
 - [**XiaoyaoSearch**](https://project.xiaoyaosai.com/product/xiaoyaosearch/) / <Icon href="https://github.com/dtsola/xiaoyaosearch" src="github" />
@@ -71,6 +72,21 @@
 2. [Comparison of file synchronization software - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_file_synchronization_software)
    :::
 
+## Local LLM tools
+
+- [**Ollama**](https://ollama.com/) / <Icon href="" src="github" />
+- [**AnythingLLM**](https://anythingllm.com/) / <Icon href="https://github.com/Mintplex-Labs/anything-llm" src="github" />
+- [**Jan**](https://www.jan.ai/) / <Icon href="https://github.com/janhq/jan" src="github" />
+- [**LM Studio**](https://lmstudio.ai/) / <Icon href="https://github.com/lmstudio-ai" src="github" />
+- [**LocalAI**](https://localai.io/) / <Icon href="https://github.com/mudler/localai" src="github" />
+- [**llamafile**](https://docs.mozilla.ai/llamafile) / <Icon href="https://github.com/mozilla-ai/llamafile" src="github" />
+
+::: details
+
+1. [llm · GitHub Topics](https://github.com/topics/llm)
+2. [local-llm · GitHub Topics](https://github.com/topics/local-llm)
+   :::
+
 ## Office suites
 
 - [**OnlyOffice**](https://www.onlyoffice.com/) / <Icon href="https://github.com/ONLYOFFICE/DesktopEditors" src="github" />
@@ -93,21 +109,6 @@
 
 1. [speech-to-text · GitHub Topics](https://github.com/topics/speech-to-text)
 2. [List of speech recognition software - Wikipedia](https://en.wikipedia.org/wiki/List_of_speech_recognition_software)
-   :::
-
-## Local LLM tools
-
-- [**Ollama**](https://ollama.com/) / <Icon href="" src="github" />
-- [**AnythingLLM**](https://anythingllm.com/) / <Icon href="https://github.com/Mintplex-Labs/anything-llm" src="github" />
-- [**Jan**](https://www.jan.ai/) / <Icon href="https://github.com/janhq/jan" src="github" />
-- [**LM Studio**](https://lmstudio.ai/) / <Icon href="https://github.com/lmstudio-ai" src="github" />
-- [**LocalAI**](https://localai.io/) / <Icon href="https://github.com/mudler/localai" src="github" />
-- [**llamafile**](https://docs.mozilla.ai/llamafile) / <Icon href="https://github.com/mozilla-ai/llamafile" src="github" />
-
-::: details
-
-1. [llm · GitHub Topics](https://github.com/topics/llm)
-2. [local-llm · GitHub Topics](https://github.com/topics/local-llm)
    :::
 
 ## PDF software
@@ -152,4 +153,23 @@
 4. [pdf-tools · GitHub Topics](https://github.com/topics/pdf-tools)
 5. [pdf-converter · GitHub Topics](https://github.com/topics/pdf-converter)
 6. [List of PDF software - Wikipedia](https://en.wikipedia.org/wiki/List_of_PDF_software)
+   :::
+
+## Translation software
+
+- [**Pot**](https://pot-app.com/) / <Icon href="https://github.com/pot-app/pot-desktop" src="github" />
+- [**CopyTranslator**](https://copytranslator.github.io/) / <Icon href="https://github.com/CopyTranslator/CopyTranslator" src="github" />
+- **Easydict** / <Icon src="apple" /> / <Icon href="https://github.com/tisfeng/Easydict" src="github" />
+- **RTranslator** / <Icon src="android2" /> / <Icon href="https://github.com/niedev/RTranslator" src="github" />
+- **NextAI Translator** / <Icon href="https://github.com/nextai-translator/nextai-translator" src="github" />
+- [**FluentRead**](https://fluent.thinkstu.com/) / <Icon src="browser-chrome" /> / <Icon href="https://github.com/Bistutu/FluentRead" src="github" />
+- **KISS Translator** / <Icon src="browser-chrome" /> / <Icon href="https://github.com/fishjar/kiss-translator" src="github" />
+- [**LunaTranslator**](https://docs.lunatranslator.org/) / <Icon src="windows" /> / <Icon href="https://github.com/HIllya51/LunaTranslator" src="github" />
+- **Caption Translator** / <Icon href="https://github.com/cddqssc/Caption-Trans" src="github" />
+- [**Bob**](https://bobtranslate.com/) / <Icon src="apple" /> / <Icon href="https://github.com/ripperhe/Bob" src="github" />
+
+::: details
+
+1. [translator · GitHub Topics](https://github.com/topics/translator)
+2. [Category:Translation software - Wikipedia](https://en.wikipedia.org/wiki/Category:Translation_software)
    :::
