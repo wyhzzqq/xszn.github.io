@@ -137,7 +137,7 @@
 - [**KillerPDF**](https://pdf.killertools.net/) / <Icon src="windows" /> /<Icon href="https://github.com/SteveTheKiller/KillerPDF" src="github" />
 - [PaperKnife](https://potatameister.github.io/PaperKnife/) / <Icon href="https://github.com/potatameister/PaperKnife" src="github" />
 
-## PDF converters
+### PDF converters
 
 - [**MinerU**](https://mineru.net/) / <Icon href="https://github.com/opendatalab/mineru" src="github" />
 - **Every PDF** / <Icon href="https://github.com/DDULDDUCK/every-pdf" src="github" />
@@ -172,4 +172,19 @@
 
 1. [translator · GitHub Topics](https://github.com/topics/translator)
 2. [Category:Translation software - Wikipedia](https://en.wikipedia.org/wiki/Category:Translation_software)
+   :::
+
+## Email clients
+
+- [**Thunderbird**](https://www.thunderbird.net/) / <Icon href="https://github.com/thunderbird" src="github" />
+- [**Mailspring**](https://www.getmailspring.com/) / <Icon href="https://github.com/foundry376/mailspring" src="github" />
+- [**Tuta Mail**](https://tuta.com/) / <Icon href="https://github.com/tutao/tutanota" src="github" />
+- [**Kanmail**](https://kanmail.io/) / <Icon href="https://github.com/Oxygem/Kanmail" src="github" />
+- [**Velo**](https://velomail.app/) / <Icon href="https://github.com/avihaymenahem/velo" src="github" />
+- [**EmailEngine**](https://emailengine.app/) - Headless email client / <Icon href="https://github.com/postalsys/emailengine" src="github" />
+
+::: details
+
+1. [email-client · GitHub Topics](https://github.com/topics/email-client)
+2. [Category:Email clients - Wikipedia](https://en.wikipedia.org/wiki/Category:Email_clients)
    :::
