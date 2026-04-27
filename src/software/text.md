@@ -68,7 +68,7 @@
 5. [Category:Text editors - Wikipedia](https://en.wikipedia.org/wiki/Category:Text_editors)
    :::
 
-## TeX editors
+### TeX editors
 
 - [**TeXstudio**](https://www.texstudio.org/) / <Icon href="https://github.com/texstudio-org/texstudio" src="github" />
 - [**Fresh**](https://getfresh.dev/) / <Icon src="terminal-fill" /> / <Icon href="https://github.com/sinelaw/fresh" src="github" />
