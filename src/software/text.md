@@ -67,3 +67,18 @@
 4. [Collection: Text editors](https://github.com/collections/text-editors)
 5. [Category:Text editors - Wikipedia](https://en.wikipedia.org/wiki/Category:Text_editors)
    :::
+
+## TeX editors
+
+- [**TeXstudio**](https://www.texstudio.org/) / <Icon href="https://github.com/texstudio-org/texstudio" src="github" />
+- [**Fresh**](https://getfresh.dev/) / <Icon src="terminal-fill" /> / <Icon href="https://github.com/sinelaw/fresh" src="github" />
+- [**LyX**](https://www.lyx.org/)
+- [**TeXnicCenter**](https://www.texniccenter.org/) / <Icon href="https://github.com/texniccenter/TeXnicCenter" src="github" />
+- [**MiKTeX**](https://miktex.org/) / <Icon href="https://github.com/miktex/miktex/" src="github" />
+- [**TeXworks**](https://tug.org/texworks/) / <Icon href="https://github.com/TeXworks/texworks" src="github" />
+
+::: details
+
+1. [latex-editor · GitHub Topics](https://github.com/topics/latex-editor)
+2. [Category:TeX editors - Wikipedia](https://en.wikipedia.org/wiki/Category:TeX_editors)
+   :::
