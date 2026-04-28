@@ -77,6 +77,7 @@
 - [**Ollama**](https://ollama.com/) / <Icon href="" src="github" />
 - [**AnythingLLM**](https://anythingllm.com/) / <Icon href="https://github.com/Mintplex-Labs/anything-llm" src="github" />
 - [**Jan**](https://www.jan.ai/) / <Icon href="https://github.com/janhq/jan" src="github" />
+- [**Cherry Studio**](https://www.cherry-ai.com/) / <Icon href="https://github.com/CherryHQ/cherry-studio" src="github" />
 - [**LM Studio**](https://lmstudio.ai/) / <Icon href="https://github.com/lmstudio-ai" src="github" />
 - [**LocalAI**](https://localai.io/) / <Icon href="https://github.com/mudler/localai" src="github" />
 - [**llamafile**](https://docs.mozilla.ai/llamafile) / <Icon href="https://github.com/mozilla-ai/llamafile" src="github" />
