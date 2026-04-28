@@ -193,6 +193,7 @@
 
 - [**PaddleOCR**](https://aistudio.baidu.com/paddleocr) / <Icon href="https://github.com/PaddlePaddle/PaddleOCR" src="github" />
 - **Umi-ORC** / <Icon href="https://github.com/hiroi-sora/Umi-OCR" src="github" />
+- [**Text Grab**](https://textgrab.net/) / <Icon href="https://github.com/TheJoeFin/Text-Grab" src="github" />
 
 ::: details
 
