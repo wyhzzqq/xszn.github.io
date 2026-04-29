@@ -62,9 +62,9 @@ provide('toggle-appearance', async ({ clientX: x, clientY: y }: MouseEvent) => {
         <template #doc-before>
             <FeedBack v-if="page.frontmatter.feedback !== false" />
         </template>
-        <template #aside-ads-after>
+        <!-- <template #aside-ads-after>
             <Ads />
-        </template>
+        </template> -->
     </DefaultTheme.Layout>
 </template>
 

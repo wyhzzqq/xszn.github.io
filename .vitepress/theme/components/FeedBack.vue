@@ -10,8 +10,11 @@ import { onMounted, onBeforeUnmount, ref } from 'vue'
 const CONFIG = {
     selectors: ['.vp-doc h2'],
     debounce: 120,
-    formBase:
-        'https://docs.google.com/forms/d/e/1FAIpQLSdR9RXzyHJEt_D90EXNZ4js_kLPKttM7iW-usL15eXm2A3ydA/viewform?usp=pp_url',
+    formLinks: {
+        en: 'https://docs.google.com/forms/d/e/1FAIpQLSdR9RXzyHJEt_D90EXNZ4js_kLPKttM7iW-usL15eXm2A3ydA/viewform?usp=pp_url', // 英文表单链接
+        zh: 'https://docs.google.com/forms/d/e/1FAIpQLSfbRwMDxNzAFzLa6ZSWeH3IhHwS9Lii_tPmr2bAIx8o8kE6vg/viewform?usp=pp_url', // 中文表单链接
+        // 你可以继续添加其他语言的表单链接
+    },
 }
 
 let observer = null
@@ -20,35 +23,70 @@ const injected = new WeakSet()
 
 const feedbackContainer = ref(null)
 
+// Helper function to safely handle values (avoid XSS)
 function safeValue(value = '') {
-    return String(value)
+    return String(value).replace(/<[^>]+>/g, '')  // Strip any HTML tags
 }
 
-function openFeedbackForm(h2) {
-    const pageUrl = window.location.origin + window.location.pathname
+// Get the current language setting from the browser
+function getLanguage() {
+    // 优先级1：HTML lang 属性
+    const htmlLang = document.documentElement.lang
+    if (htmlLang) {
+        const lang = htmlLang.toLowerCase()
+        if (lang.startsWith('zh')) return 'zh'
+        if (lang.startsWith('en')) return 'en'
+    }
 
+    // 优先级2：浏览器语言
+    const browserLang = navigator.language || navigator.userLanguage
+    if (browserLang) {
+        if (browserLang.startsWith('zh')) return 'zh'
+        if (browserLang.startsWith('en')) return 'en'
+    }
+
+    // 默认英文
+    return 'en'
+}
+
+// Construct the feedback form URL based on current language
+function getFeedbackFormUrl(h2) {
+    const language = getLanguage()  // Get language from browser
+    const formBase = CONFIG.formLinks[language]  // Choose the form link based on language
+
+    const pageUrl = window.location.origin + window.location.pathname
     const titleText = h2?.innerText?.trim() || 'Untitled'
     const id = h2.id || titleText.replace(/\s+/g, '-').toLowerCase()
-
     const fullUrl = `${pageUrl}#${id}`
 
+    // Prepare common params
     const params = new URLSearchParams({
         'entry.303459280': safeValue(titleText),
         'entry.186312065': safeValue(fullUrl),
         t: Date.now(),
     })
 
-    const url = `${CONFIG.formBase}&${params.toString()}`
+    // Add language-specific params for zh
+    if (language === 'zh') {
+        // 中文表单特有的字段
+        params.append('entry.1013056495', safeValue(titleText))  // 中文标题的字段
+        params.append('entry.1238370452', safeValue(fullUrl))    // 中文反馈内容字段
+    }
 
-    window.open(url, '_blank', 'noopener,noreferrer')
+    return `${formBase}&${params.toString()}`  // Return the full form URL with params
 }
 
+// Open the feedback form in a new window
+function openFeedbackForm(h2) {
+    const url = getFeedbackFormUrl(h2)  // Get the appropriate URL based on language
+    window.open(url, '_blank', 'noopener,noreferrer')  // Open in new tab with security
+}
+
+// Create a feedback button and attach it to the heading element
 function createButton(h2) {
-    if (!h2) return null
-    if (injected.has(h2)) return null
+    if (!h2 || injected.has(h2)) return null
 
     const btn = document.createElement('span')
-
     btn.className = 'feedback-btn'
     btn.setAttribute('role', 'button')
     btn.setAttribute('tabindex', '0')
@@ -61,19 +99,17 @@ function createButton(h2) {
 </svg>
 `
 
-    const handler = (e) => {
+    btn.addEventListener('click', (e) => {
         e.preventDefault()
         e.stopPropagation()
         openFeedbackForm(h2)
-    }
-
-    btn.addEventListener('click', handler)
+    })
 
     injected.add(h2)
-
     return btn
 }
 
+// Inject feedback buttons into the headers
 function inject() {
     const headers = document.querySelectorAll(CONFIG.selectors.join(','))
 
@@ -85,7 +121,6 @@ function inject() {
         if (!btn) return
 
         const anchor = h2.querySelector('.header-anchor')
-
         if (anchor) {
             anchor.insertAdjacentElement('afterend', btn)
         } else {
@@ -94,9 +129,9 @@ function inject() {
     })
 }
 
+// Create an observer to handle dynamic content injection
 function createObserver() {
     const root = document.querySelector('.vp-doc') || document.body
-
     observer = new MutationObserver(() => {
         clearTimeout(debounceTimer)
 
@@ -105,10 +140,7 @@ function createObserver() {
         }, CONFIG.debounce)
     })
 
-    observer.observe(root, {
-        childList: true,
-        subtree: true,
-    })
+    observer.observe(root, { childList: true, subtree: true })
 }
 
 onMounted(() => {

@@ -69,10 +69,3 @@
 
 1. [youtube-music · GitHub Topics](https://github.com/topics/youtube-music)
    :::
-
-## Other software?
-
-- https://github.com/krtirtho/spotube
-- https://grayjay.app/
-- https://github.com/futo-org/grayjay-android
-- https://github.com/leaperone/MultiPost-Extension

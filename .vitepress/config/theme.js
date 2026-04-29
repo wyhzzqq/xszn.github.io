@@ -15,7 +15,7 @@ export default {
   },
   socialLinks,
   footer: {
-    message: `<a href="/about">About</a> | <a href="/link-exchange">Link exchange</a> | <a href="/disclaimer">Disclaimer</a> | <a href="/privacy-policy">Privacy policy</a>`,
+    message: `<a href="/about">About</a> | <a href="/disclaimer">Disclaimer</a> | <a href="/privacy-policy">Privacy policy</a>`,
     copyright: `© ${new Date().getFullYear()} Xingshu CC BY-NC-ND 4.0`,
   },
   editLink: {
