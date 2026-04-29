@@ -7,13 +7,33 @@
 <script setup>
 import { onMounted, onBeforeUnmount, ref } from 'vue'
 
+const I18N = {
+    zh: {
+        label: '点击反馈此章节内容',
+        title: '反馈此章节',
+    },
+    en: {
+        label: 'Click to give feedback on this section',
+        title: 'Give feedback',
+    },
+}
+
 const CONFIG = {
     selectors: ['.vp-doc h2'],
     debounce: 120,
     formLinks: {
-        en: 'https://docs.google.com/forms/d/e/1FAIpQLSdR9RXzyHJEt_D90EXNZ4js_kLPKttM7iW-usL15eXm2A3ydA/viewform?usp=pp_url', // 英文表单链接
-        zh: 'https://docs.google.com/forms/d/e/1FAIpQLSfbRwMDxNzAFzLa6ZSWeH3IhHwS9Lii_tPmr2bAIx8o8kE6vg/viewform?usp=pp_url', // 中文表单链接
-        // 你可以继续添加其他语言的表单链接
+        en: 'https://docs.google.com/forms/d/e/1FAIpQLSdR9RXzyHJEt_D90EXNZ4js_kLPKttM7iW-usL15eXm2A3ydA/viewform?usp=pp_url',
+        zh: 'https://docs.google.com/forms/d/e/1FAIpQLSfbRwMDxNzAFzLa6ZSWeH3IhHwS9Lii_tPmr2bAIx8o8kE6vg/viewform?usp=pp_url',
+    },
+    fieldMapping: {
+        en: {
+            title: 'entry.303459280',
+            url: 'entry.186312065',
+        },
+        zh: {
+            title: 'entry.1013056495',
+            url: 'entry.1238370452',
+        },
     },
 }
 
@@ -23,14 +43,11 @@ const injected = new WeakSet()
 
 const feedbackContainer = ref(null)
 
-// Helper function to safely handle values (avoid XSS)
 function safeValue(value = '') {
-    return String(value).replace(/<[^>]+>/g, '')  // Strip any HTML tags
+    return String(value).replace(/<[^>]+>/g, '')
 }
 
-// Get the current language setting from the browser
 function getLanguage() {
-    // 优先级1：HTML lang 属性
     const htmlLang = document.documentElement.lang
     if (htmlLang) {
         const lang = htmlLang.toLowerCase()
@@ -38,60 +55,59 @@ function getLanguage() {
         if (lang.startsWith('en')) return 'en'
     }
 
-    // 优先级2：浏览器语言
     const browserLang = navigator.language || navigator.userLanguage
     if (browserLang) {
         if (browserLang.startsWith('zh')) return 'zh'
         if (browserLang.startsWith('en')) return 'en'
     }
 
-    // 默认英文
     return 'en'
 }
 
-// Construct the feedback form URL based on current language
 function getFeedbackFormUrl(h2) {
-    const language = getLanguage()  // Get language from browser
-    const formBase = CONFIG.formLinks[language]  // Choose the form link based on language
+    const language = getLanguage()
+    const formBase = CONFIG.formLinks[language]
 
     const pageUrl = window.location.origin + window.location.pathname
     const titleText = h2?.innerText?.trim() || 'Untitled'
     const id = h2.id || titleText.replace(/\s+/g, '-').toLowerCase()
     const fullUrl = `${pageUrl}#${id}`
 
-    // Prepare common params
-    const params = new URLSearchParams({
-        'entry.303459280': safeValue(titleText),
-        'entry.186312065': safeValue(fullUrl),
-        t: Date.now(),
+    const params = new URLSearchParams()
+    const mapping = CONFIG.fieldMapping[language] || CONFIG.fieldMapping.en
+
+    Object.entries(mapping).forEach(([key, entryId]) => {
+        if (key === 'title') {
+            params.append(entryId, safeValue(titleText))
+        } else if (key === 'url') {
+            params.append(entryId, safeValue(fullUrl))
+        } else {
+            params.append(entryId, safeValue(titleText))
+        }
     })
 
-    // Add language-specific params for zh
-    if (language === 'zh') {
-        // 中文表单特有的字段
-        params.append('entry.1013056495', safeValue(titleText))  // 中文标题的字段
-        params.append('entry.1238370452', safeValue(fullUrl))    // 中文反馈内容字段
-    }
+    params.append('t', Date.now())
 
-    return `${formBase}&${params.toString()}`  // Return the full form URL with params
+    return `${formBase}&${params.toString()}`
 }
 
-// Open the feedback form in a new window
 function openFeedbackForm(h2) {
-    const url = getFeedbackFormUrl(h2)  // Get the appropriate URL based on language
-    window.open(url, '_blank', 'noopener,noreferrer')  // Open in new tab with security
+    const url = getFeedbackFormUrl(h2)
+    if (url) {
+        window.open(url, '_blank', 'noopener,noreferrer')
+    }
 }
 
-// Create a feedback button and attach it to the heading element
 function createButton(h2) {
     if (!h2 || injected.has(h2)) return null
 
+    const i18n = I18N[getLanguage()] || I18N.en
     const btn = document.createElement('span')
     btn.className = 'feedback-btn'
     btn.setAttribute('role', 'button')
     btn.setAttribute('tabindex', '0')
-    btn.setAttribute('aria-label', '反馈此章节')
-    btn.title = '反馈此章节'
+    btn.setAttribute('aria-label', i18n.label)
+    btn.title = i18n.title
 
     btn.innerHTML = `
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chat-left-text-fill" viewBox="0 0 16 16">
@@ -109,7 +125,6 @@ function createButton(h2) {
     return btn
 }
 
-// Inject feedback buttons into the headers
 function inject() {
     const headers = document.querySelectorAll(CONFIG.selectors.join(','))
 
@@ -129,12 +144,10 @@ function inject() {
     })
 }
 
-// Create an observer to handle dynamic content injection
 function createObserver() {
     const root = document.querySelector('.vp-doc') || document.body
     observer = new MutationObserver(() => {
         clearTimeout(debounceTimer)
-
         debounceTimer = setTimeout(() => {
             inject()
         }, CONFIG.debounce)
