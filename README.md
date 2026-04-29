@@ -48,8 +48,8 @@ npm run dev
 
 We welcome your recommendations and encourage you to reach out to us with any questions. - ![discussions](https://xszn.org/images/icons/chat-text-fill.svg) [Discussions](https://xszn.org/bulletin-board.html)
 
-- ![Gmail](https://xszn.org/images/icons/envelope-fill.svg) [Gmail](mailto:xsznorg@gmail.com)
-- ![Telegram](https://xszn.org/images/icons/telegram.svg) [Telegram](https://t.me/xsznChatBot)
+- [Gmail](mailto:xsznorg@gmail.com)
+- [Telegram](https://t.me/xsznChatBot)
 
 ## :scroll: permission
 
