@@ -5,8 +5,8 @@ layout: home
 
 hero:
   name: 行书指南
-  text: 免费和开源软件列表
-  tagline: 从这里挑选你的第一款软件
+  text: 免费及开源软件列表
+  tagline: 从这里挑选你的第一个软件
   image:
     src: /images/hero-image.webp
     alt: 行书指南
@@ -17,9 +17,6 @@ hero:
     - theme: alt
       text: 更新日志
       link: /zh/changelog
-    - theme: alt
-      text: 留言板
-      link: /zh/bulletin-board
 
 features:
   - icon: <i class="bi bi-gear-fill"></i>

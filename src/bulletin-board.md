@@ -1,4 +1,0 @@
-# Bulletin board
-
-<p></p>
-<Giscus />

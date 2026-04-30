@@ -1,15 +1,15 @@
 ---
 # https://vitepress.dev/zh/reference/default-theme-home-page
-titleTemplate: Software Resource Sharing
+titleTemplate: List of Free and Open-Source Software
 layout: home
 
 hero:
-  name: Xingshu Guide
+  name: Xingshu
   text: List of Free and Open-Source Software
   tagline: Choose your first software here
   image:
     src: /images/hero-image.webp
-    alt: Xingshu Guide
+    alt: Xingshu
   actions:
     - theme: brand
       text: Reading
@@ -17,9 +17,6 @@ hero:
     - theme: alt
       text: Changelog
       link: /changelog
-    - theme: alt
-      text: Bulletin board
-      link: /bulletin-board
 
 features:
   - icon: <i class="bi bi-gear-fill"></i>

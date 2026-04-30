@@ -14,7 +14,7 @@ defineProps({
     <i v-else :class="'bi bi-' + src"></i>
 </template>
 
-<style module>
+<style scoped>
 a {
     text-decoration: none !important;
 }
