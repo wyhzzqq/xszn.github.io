@@ -10,6 +10,6 @@ Includes records of content changes, such as software additions, deletions, and 
 
 29th
 
-- Added a feedback feature
+- Added feedback feature and internationalization
 - Updated content formatting and website framework
 - Removed select advertisements and obsolete content
