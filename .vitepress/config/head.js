@@ -19,11 +19,11 @@ export default [
     "meta",
     {
       property: "og:og:image:alt",
-      content: "Xingshu Guide: A Software Resource Sharing Website",
+      content: "Xingshu: A Software Resource Sharing Website",
     },
   ],
   ["meta", { property: "og:locale", content: "zh_CN" }],
-  ["meta", { property: "og:site_name", content: "Xingshu Guide" }],
+  ["meta", { property: "og:site_name", content: "Xingshu" }],
   ["meta", { property: "twitter:card", content: "summary_large_image" }],
   ["meta", { property: "twitter:site", content: "@xszn_org" }],
   ["meta", { property: "twitter:creator", content: "@xszn_org" }],

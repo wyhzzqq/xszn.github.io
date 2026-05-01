@@ -1,70 +1,48 @@
-# Xingshu Guide
+# Xingshu
 
-![Xingshu Guide](https://xszn.org/images/ogp.webp)
+Xingshu is a list of free and open-source software that recommends high-quality free and open-source software, reducing the time and cost of finding software for you.
 
-[Xingshu Guide](https://xszn.org/) is a Free and Open Source Software (FOSS) directory project dedicated to recommending high-quality, free, and open-source software, thereby reducing the time users spend searching for applications.
+## INSTALL
 
-## :information_source: About the Project
-
-### How We Select Software
-
-- **Free:** Proprietary software with no price tag or paid versions.
-- **Open Source:** Projects that are actively maintained and feature a modern user interface.
-- **Trending:** Rising search interest and a high number of GitHub repository "Stars."
-- **Impact:** High website traffic and a rich surrounding ecosystem.
-- **Ease of Use:** Ready to use right out of the box, requiring no additional configuration.
-
-These factors are considered comprehensively during the selection process.
-
-### Who Is It For?
-
-This project is designed for users of Windows, Android, and Chromium-based systems.
-
-## :package: Installation
-
-### 1. Prerequisites
-
-[Node.js](https://nodejs.org/zh-cn) version 18 or higher.
-
-### 2. Clone the Project
+### Clone Project
 
 ```
 git clone git@github.com:xszn/xszn.github.io.git
 ```
 
-### 3. Install Dependencies
+### Install Dependencies
 
 ```
 npm i
 ```
 
-### 4. Launch and Run
+### Up and Running
 
 ```
 npm run dev
 ```
 
-## :handshake: How to Contribute
+## CONTRIBUTING
 
-We welcome your recommendations and encourage you to reach out to us with any questions.
+Contributing to Xingshu documentation
 
-- [Gmail](mailto:xsznorg@gmail.com)
-- [Telegram](https://t.me/xsznChatBot)
+- [Google Forms](https://forms.gle/XRJRh3ihLqd3yYcX6)
 
-## :scroll: permission
+Or send to according to the following format
 
-<div v-if="page.frontmatter.license !== false"> 
-Licensed&nbsp;<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>&nbsp;License&nbsp;<img 
-src="src/public/images/icons/cc.svg" alt="" 
-style="max-width: 1em;max-height:1em;margin-left: .2em;">&nbsp;<img 
-src="src/public/images/icons/by.svg" alt="" 
-style="max-width: 1em;max-height:1em;margin-left: .2em;">&nbsp;<img 
-src="src/public/images/icons/nc.svg" alt="" 
-style="max-width: 1em;max-height:1em;margin-left: .2em;">&nbsp;<img 
-src="src/public/images/icons/nd.svg" alt="" 
-style="max-width: 1em;max-height:1em;margin-left: .2em;">
-</div>
+```
+Software name *:
+Software category *:
+Official website *:
+Source code website:
+```
 
-## :chart_with_upwards_trend: Star History
+- [E-mail](mailto:xsznorg@gmail.com)
 
-[![Star History Chart](https://api.star-history.com/svg?repos=xszn/xszn.github.io&type=timeline&logscale&legend=top-left)](https://www.star-history.com/#xszn/xszn.github.io&type=timeline&logscale&legend=top-left)
+## THANKS
+
+We would like to thank the contributors and community members for their support and contributions to this project.
+
+## COPYING
+
+This project is licensed under the terms of the MIT license.

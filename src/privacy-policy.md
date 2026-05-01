@@ -4,7 +4,7 @@ feedback: false
 
 # Privacy Policy
 
-This Privacy Policy sets forth how the “[Xingshu Guide](/)” website (hereinafter referred to as “this Website”) gathers, utilizes, and discloses your personal information. The provisions herein apply to all data collected through this Website. Should you have any inquiries concerning this Privacy Policy, please [contact us](/about#contact-us).
+This Privacy Policy sets forth how the “[Xingshu](/)” website (hereinafter referred to as “this Website”) gathers, utilizes, and discloses your personal information. The provisions herein apply to all data collected through this Website. Should you have any inquiries concerning this Privacy Policy, please [contact us](/about#contact-us).
 
 ## Information Collection
 

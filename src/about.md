@@ -6,7 +6,7 @@ feedback: false
 
 ## Who We Are
 
-**Xingshu Guide** is a Free and Open Source Software (FOSS) catalog project dedicated to curating and recommending high-quality, free, and open-source applications. Our mission is to help users save time in discovering reliable software solutions.
+**Xingshu** is a Free and Open Source Software (FOSS) catalog project dedicated to curating and recommending high-quality, free, and open-source applications. Our mission is to help users save time in discovering reliable software solutions.
 
 We aim to highlight intuitive, widely adopted, and universally beneficial tools that enhance efficiency in everyday life, learning, and work.
 
