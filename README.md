@@ -46,7 +46,7 @@ npm run dev
 
 ## :handshake: How to Contribute
 
-We welcome your recommendations and encourage you to reach out to us with any questions. - ![discussions](https://xszn.org/images/icons/chat-text-fill.svg) [Discussions](https://xszn.org/bulletin-board.html)
+We welcome your recommendations and encourage you to reach out to us with any questions.
 
 - [Gmail](mailto:xsznorg@gmail.com)
 - [Telegram](https://t.me/xsznChatBot)

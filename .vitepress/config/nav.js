@@ -59,8 +59,4 @@ export default [
     text: "Changelog",
     link: "/changelog",
   },
-  {
-    text: "Bulletin board",
-    link: "/bulletin-board",
-  },
 ];

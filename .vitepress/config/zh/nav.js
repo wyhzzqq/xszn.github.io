@@ -59,8 +59,4 @@ export default [
     text: "更新日志",
     link: "/zh/changelog",
   },
-  {
-    text: "留言板",
-    link: "/zh/bulletin-board",
-  },
 ];
