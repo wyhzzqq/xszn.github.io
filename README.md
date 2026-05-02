@@ -1,5 +1,7 @@
 # Xingshu
 
+![Xingshu Open Graph](src/public/images/ogp.webp)
+
 Xingshu is a list of free and open-source software that recommends high-quality free and open-source software, reducing the time and cost of finding software for you.
 
 ## INSTALL
@@ -24,11 +26,9 @@ npm run dev
 
 ## CONTRIBUTING
 
-Contributing to Xingshu documentation
+Participate in improving Xingshu documentation through [Google Forms](https://forms.gle/XRJRh3ihLqd3yYcX6).
 
-- [Google Forms](https://forms.gle/XRJRh3ihLqd3yYcX6)
-
-Or send to according to the following format
+Or send to according to the following format [E-mail](mailto:xsznorg@gmail.com).
 
 ```
 Software name *:
@@ -37,12 +37,10 @@ Official website *:
 Source code website:
 ```
 
-- [E-mail](mailto:xsznorg@gmail.com)
-
 ## THANKS
 
 We would like to thank the contributors and community members for their support and contributions to this project.
 
-## COPYING
+## LICENSE
 
 This project is licensed under the terms of the MIT license.
