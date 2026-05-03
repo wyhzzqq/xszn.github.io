@@ -1,5 +1,5 @@
 <template>
-    <div class="vp-raw px-6 md:px-12 lg:px-14">
+    <div class="vp-raw px-6 md:px-12 lg:px-16">
         <fwb-jumbotron
             class="bg-center bg-no-repeat bg-[url('/images/ogp-zh.webp')] dark:bg-gray-700 bg-gray-700 bg-blend-multiply rounded-xl"
             header-classes="text-white" sub-text-classes="text-gray-300 dark:text-gray-300"
