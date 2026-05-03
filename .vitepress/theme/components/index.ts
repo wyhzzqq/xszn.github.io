@@ -1,5 +1,1 @@
-export { default as FwbAvatar } from "./FwbAvatar/FwbAvatar.vue";
-export { default as FwbAvatarStack } from "./FwbAvatar/FwbAvatarStack.vue";
-export { default as FwbAvatarStackCounter } from "./FwbAvatar/FwbAvatarStackCounter.vue";
-export { default as FwbCard } from "./FwbCard/FwbCard.vue";
 export { default as FwbJumbotron } from "./FwbJumbotron/FwbJumbotron.vue";
