@@ -3,20 +3,20 @@
 titleTemplate: List of Free and Open-Source Software
 layout: home
 
-hero:
-  name: Xingshu
-  text: List of Free and Open-Source Software
-  tagline: Choose your first software here
-  image:
-    src: /images/hero-image.webp
-    alt: Xingshu
-  actions:
-    - theme: brand
-      text: Reading
-      link: /software/system
-    - theme: alt
-      text: Changelog
-      link: /changelog
+# hero:
+#   name: Xingshu
+#   text: List of Free and Open-Source Software
+#   tagline: Choose your first software here
+#   image:
+#     src: /images/hero-image.webp
+#     alt: Xingshu
+#   actions:
+#     - theme: brand
+#       text: Reading
+#       link: /software/system
+#     - theme: alt
+#       text: Changelog
+#       link: /changelog/
 
 features:
   - icon: <i class="bi bi-gear-fill"></i>

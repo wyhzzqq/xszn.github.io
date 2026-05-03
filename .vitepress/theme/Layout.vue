@@ -63,8 +63,13 @@ provide('toggle-appearance', async ({ clientX: x, clientY: y }: MouseEvent) => {
             <FeedBack v-if="page.frontmatter.feedback !== false" />
         </template>
         <!-- <template #aside-ads-after>
-            <Ads />
+            <Ads v-if="page.frontmatter.ads !== false" />
         </template> -->
+        <template #home-hero-before v-if="!page.relativePath.startsWith('zh/')">
+            <br>
+            <Jumbotron />
+            <br>
+        </template>
     </DefaultTheme.Layout>
 </template>
 

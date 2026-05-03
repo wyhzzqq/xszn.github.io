@@ -16,7 +16,7 @@ hero:
       link: /zh/software/system
     - theme: alt
       text: 更新日志
-      link: /zh/changelog
+      link: /zh/changelog/
 
 features:
   - icon: <i class="bi bi-gear-fill"></i>

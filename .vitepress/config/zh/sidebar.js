@@ -56,4 +56,15 @@ export default {
       ],
     },
   ],
+  "/zh/changelog/": [
+    {
+      text: "更新日志",
+      items: [
+        {
+          text: "2026 年",
+          link: "/zh/changelog/2026",
+        },
+      ],
+    },
+  ],
 };

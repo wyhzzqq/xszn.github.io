@@ -6,6 +6,11 @@ Xingshu is a list of free and open-source software that recommends high-quality 
 
 ## INSTALL
 
+## Prerequisites
+
+- [Node.js](https://nodejs.org/) version 20 or higher.
+- Terminal for accessing VitePress via its command line interface (CLI).
+
 ### Clone Project
 
 ```
@@ -24,18 +29,11 @@ npm i
 npm run dev
 ```
 
+The dev server should be running at `http://localhost:5173`. Visit the URL in your browser to see your new site in action!
+
 ## CONTRIBUTING
 
 Participate in improving Xingshu documentation through [Google Forms](https://forms.gle/XRJRh3ihLqd3yYcX6).
-
-Or send to according to the following format [E-mail](mailto:xsznorg@gmail.com).
-
-```
-Software name *:
-Software category *:
-Official website *:
-Source code website:
-```
 
 ## THANKS
 

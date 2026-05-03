@@ -2,18 +2,12 @@
 feedback: false
 ---
 
-# Disclaimer
+# DISCLAIMER
 
-## External Links
+## WEBSITE DISCLAIMER
 
-This Website may contain links to third-party websites that are neither operated nor controlled by us. We disclaim any responsibility for the content, legality, security, availability, or consequences arising from the use of such external sites. Users who choose to access third-party websites do so entirely at their own risk.
+The information provided by Xingshu ("we," "us," or "our") on [xszn.org](/) (the "Site") is for general informational purposes only. All information on the Site is provided in good faith, however we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability, or completeness of any information on the Site. UNDER NO CIRCUMSTANCE SHALL WE HAVE ANY LIABILITY TO YOU FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF THE SITE OR RELIANCE ON ANY INFORMATION PROVIDED ON THE SITE. YOUR USE OF THE SITE AND YOUR RELIANCE ON ANY INFORMATION ON THE SITE IS SOLELY AT YOUR OWN RISK.
 
-## Expression of Opinions
+## EXTERNAL LINKS DISCLAIMER
 
-The views and opinions expressed on this Website reflect solely those of the respective authors and do not represent the official stance or policies of the Website’s operator or any affiliated institution, organization, company, or employer.
-
-## Visitor Conduct
-
-Visitors are solely responsible for the comments, messages, or any other content they post on this Website and shall bear full responsibility for the authenticity and legality of such content. Any disputes, claims, or legal actions arising from user-generated content or related conduct shall be borne exclusively by the individual who published such material. This Website assumes no direct or indirect liability in these matters.
-
-This Website reserves the right to delete, block, or restrict access to content or user accounts found to be infringing, inappropriate, or gravely improper.
+The Site may contain (or you may be sent through the Site) links to other websites or content belonging to or originating from third parties or links to websites and features in banners or other advertising. Such external links are not investigated, monitored, or checked for accuracy, adequacy, validity, reliability, availability, or completeness by us. WE DO NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR THE ACCURACY OR RELIABILITY OF ANY INFORMATION OFFERED BY THIRD-PARTY WEBSITES LINKED THROUGH THE SITE OR ANY WEBSITE OR FEATURE LINKED IN ANY BANNER OR OTHER ADVERTISING. WE WILL NOT BE A PARTY TO OR IN ANY WAY BE RESPONSIBLE FOR MONITORING ANY TRANSACTION BETWEEN YOU AND THIRD-PARTY PROVIDERS OF PRODUCTS OR SERVICES.

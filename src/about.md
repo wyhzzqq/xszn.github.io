@@ -6,25 +6,21 @@ feedback: false
 
 ## Who We Are
 
-**Xingshu** is a Free and Open Source Software (FOSS) catalog project dedicated to curating and recommending high-quality, free, and open-source applications. Our mission is to help users save time in discovering reliable software solutions.
+Xingshu is a list of free and open-source software. We recommend high-quality, free, and open-source tools to help you save time when searching for software.
 
-We aim to highlight intuitive, widely adopted, and universally beneficial tools that enhance efficiency in everyday life, learning, and work.
+By selecting user-friendly, popular, and versatile products, you can make your daily life, studies, and work more efficient.
 
-The name _Xingshu_ originates from the Chinese script style meaning “a simplified form of regular script—practical, balanced, and elegant in flow,” symbolizing our pursuit of simplicity and accessibility.
+> Origin of the Name: "Xingshu" (Running Script) is a slightly simplified variation of "Zhengshu" (Regular Script); it prioritizes simplicity and fluidity, flowing naturally between strokes—hence the name "Xingshu."
 
-## Content Management
+## Contribute
 
-Software featured on this site is categorized by purpose, showcasing the finest and most reputable selections in each field.
-
-Our platform primarily serves users of **Windows**, **Android**, and **Chromium** systems.
-
-We update and recommend software periodically and also welcome user submissions through comments or recommendations.
+Please use this [Google Form](https://forms.gle/XRJRh3ihLqd3yYcX6) to help improve the Xingshu documentation.
 
 ## Contact Us
 
-For content submissions, advertising collaboration, or partnership inquiries, please feel free to reach out to us at any time.
+If you have any questions, please feel free to contact us.
 
-- <Icon text="Telegram" href="https://t.me/xsznChatBot" src="telegram" />
-- <Icon text="E-mail" href="mailto:xsznorg@gmail.com" src="envelope-fill" />
+- [Telegram](https://t.me/xsznChatBot)
+- [E-mail](mailto:xsznorg@gmail.com)
 
 Thank you for visiting our website.
