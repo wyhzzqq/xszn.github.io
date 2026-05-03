@@ -1,6 +1,6 @@
 export default [
   ["link", { rel: "icon", href: "/favicon.ico" }],
-  ["meta", { property: "og:title", content: "软件资源分享" }],
+  ["meta", { property: "og:title", content: "自由及开放源代码软件列表" }],
   [
     "meta",
     {
@@ -11,7 +11,7 @@ export default [
   ],
   ["meta", { property: "og:type", content: "website" }],
   ["meta", { property: "og:url", content: "https://xszn.org/zh/" }],
-  ["meta", { property: "og:image", content: "/images/ogp.webp" }],
+  ["meta", { property: "og:image", content: "/images/ogp-zh.webp" }],
   ["meta", { property: "og:image:type", content: "image/webp" }],
   ["meta", { property: "og:image:width", content: "1920" }],
   ["meta", { property: "og:image:height", content: "1080" }],
@@ -19,7 +19,7 @@ export default [
     "meta",
     {
       property: "og:og:image:alt",
-      content: "行书指南，一个软件资源分享网站。",
+      content: "行书指南：自由及开放源代码软件列表。",
     },
   ],
   ["meta", { property: "og:locale", content: "zh_CN" }],

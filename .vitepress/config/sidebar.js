@@ -48,10 +48,10 @@ export default {
     {
       text: "Icon legend",
       items: [
-        { text: `<i class="bi bi-folder-fill"></i> indexes` },
+        { text: `<i class="bi bi-apple"></i> Apple OS` },
         { text: `<i class="bi bi-browser-chrome"></i> Browser extension` },
         { text: `<i class="bi bi-terminal-fill"></i> CLI` },
-        { text: `<i class="bi bi-apple"></i> Apple OS` },
+        { text: `<i class="bi bi-folder-fill"></i> Indexes` },
         { text: `<i class="bi bi-globe2"></i> Web` },
       ],
     },

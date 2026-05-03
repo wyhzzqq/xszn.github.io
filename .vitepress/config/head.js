@@ -1,12 +1,18 @@
 export default [
   ["link", { rel: "icon", href: "/favicon.ico" }],
-  ["meta", { property: "og:title", content: "Software Resource Sharing" }],
+  [
+    "meta",
+    {
+      property: "og:title",
+      content: "List of Free and Open-Source Software",
+    },
+  ],
   [
     "meta",
     {
       property: "og:description",
       content:
-        "A curated list of Free and Open Source Software, recommending high-quality free and open-source tools to help you save time on your software search.",
+        "List of free and open-source software. We recommend high-quality, free, and open-source tools to help you save time when searching for software.",
     },
   ],
   ["meta", { property: "og:type", content: "website" }],
@@ -19,7 +25,7 @@ export default [
     "meta",
     {
       property: "og:og:image:alt",
-      content: "Xingshu: A Software Resource Sharing Website",
+      content: "Xingshu: List of Free and Open-Source Software.",
     },
   ],
   ["meta", { property: "og:locale", content: "zh_CN" }],

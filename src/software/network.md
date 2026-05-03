@@ -2,10 +2,10 @@
 
 ## Ad blockers
 
-- [**AdBlock**](https://getadblock.com/) | [**Adblock Plus**](https://adblockplus.org/) / <Icon src="browser-chrome" /> / <Icon href="https://gitlab.com/eyeo/browser-extensions-and-premium/extensions/extensions" src="gitlab" />
-- [**uBlock Origin**](https://ublockorigin.com/) / <Icon src="browser-chrome" /> / <Icon href="https://github.com/gorhill/uBlock" src="github" />
-- [**SponsorBlock**](https://sponsor.ajay.app/) / <Icon src="browser-chrome" /> / <Icon href="https://github.com/ajayyy/SponsorBlock" src="github" />
-- [**AdAway**](https://adaway.org/) / <Icon src="android2" /> / <Icon href="https://github.com/AdAway/AdAway" src="github" />
+- [AdBlock](https://getadblock.com/) | [Adblock Plus](https://adblockplus.org/) / <Icon src="browser-chrome" /> / <Icon href="https://gitlab.com/eyeo/browser-extensions-and-premium/extensions/extensions" src="gitlab" />
+- [uBlock Origin](https://ublockorigin.com/) / <Icon src="browser-chrome" /> / <Icon href="https://github.com/gorhill/uBlock" src="github" />
+- [SponsorBlock](https://sponsor.ajay.app/) / <Icon src="browser-chrome" /> / <Icon href="https://github.com/ajayyy/SponsorBlock" src="github" />
+- [AdAway](https://adaway.org/) / <Icon src="android2" /> / <Icon href="https://github.com/AdAway/AdAway" src="github" />
 
 ::: details
 
@@ -15,10 +15,10 @@
 
 ## AI assistants
 
-- [**Tabby**](https://www.tabbyml.com/) / <Icon href="https://github.com/TabbyML/tabby" src="github" />
-- [**QwenPaw**](https://qwenpaw.agentscope.io/) / <Icon href="https://github.com/agentscope-ai/QwenPaw" src="github" />
-- [**Page Assist**](https://pageassist.xyz/) / <Icon href="https://github.com/n4ze3m/page-assist" src="github" />
-- [**AingDesk**](https://www.aingdesk.com/) / <Icon href="https://github.com/aingdesk/AingDesk" src="github" />
+- [Tabby](https://www.tabbyml.com/) / <Icon href="https://github.com/TabbyML/tabby" src="github" />
+- [QwenPaw](https://qwenpaw.agentscope.io/) / <Icon href="https://github.com/agentscope-ai/QwenPaw" src="github" />
+- [Page Assist](https://pageassist.xyz/) / <Icon href="https://github.com/n4ze3m/page-assist" src="github" />
+- [AingDesk](https://www.aingdesk.com/) / <Icon href="https://github.com/aingdesk/AingDesk" src="github" />
 
 ::: details
 
@@ -27,15 +27,15 @@
 
 ## Captcha solvers
 
-- **Buster** / <Icon src="browser-chrome" /> / <Icon href="https://github.com/dessant/buster" src="github" />
-- [**NopeCHA**](https://nopecha.com/) / <Icon src="browser-chrome" /> / <Icon href="https://github.com/NopeCHALLC/nopecha-extension" src="github" />
+- Buster / <Icon src="browser-chrome" /> / <Icon href="https://github.com/dessant/buster" src="github" />
+- [NopeCHA](https://nopecha.com/) / <Icon src="browser-chrome" /> / <Icon href="https://github.com/NopeCHALLC/nopecha-extension" src="github" />
 
 ## Download managers
 
-- [**JDownloader**](https://jdownloader.org/)
-- [**Motrix**](https://motrix.app/) / <Icon href="https://github.com/agalwood/Motrix" src="github" /> | [**Motrix Next**](https://motrix-next.pages.dev/) / <Icon href="https://github.com/AnInsomniacy/motrix-next" src="github" />
-- [**AB Download Manager**](https://abdownloadmanager.com/) / <Icon href="https://github.com/amir1376/ab-download-manager" src="github" />
-- [**Gopeed**](https://gopeed.com/) / <Icon href="https://github.com/GopeedLab/gopeed" src="github" />
+- [JDownloader](https://jdownloader.org/)
+- [Motrix](https://motrix.app/) / <Icon href="https://github.com/agalwood/Motrix" src="github" /> | [Motrix Next](https://motrix-next.pages.dev/) / <Icon href="https://github.com/AnInsomniacy/motrix-next" src="github" />
+- [AB Download Manager](https://abdownloadmanager.com/) / <Icon href="https://github.com/amir1376/ab-download-manager" src="github" />
+- [Gopeed](https://gopeed.com/) / <Icon href="https://github.com/GopeedLab/gopeed" src="github" />
 
 ::: details
 
@@ -45,10 +45,10 @@
 
 ## File sharing software
 
-- [**LocalSend**](https://localsend.org/) / <Icon href="https://github.com/localsend/localsend" src="github" />
-- [**Croc**](https://infinitedigits.co/croc/) / <Icon src="terminal-fill" /> / <Icon href="https://github.com/schollz/croc" src="github" />
-- **B0Pass** / <Icon src="terminal-fill" /> / <Icon href="https://github.com/jinsi-ai/b0pass" src="github" />
-- **FlyingCarpet** / <Icon src="android2" /> / <Icon href="https://github.com/spieglt/FlyingCarpet" src="github" />
+- [LocalSend](https://localsend.org/) / <Icon href="https://github.com/localsend/localsend" src="github" />
+- [Croc](https://infinitedigits.co/croc/) / <Icon src="terminal-fill" /> / <Icon href="https://github.com/schollz/croc" src="github" />
+- B0Pass / <Icon src="terminal-fill" /> / <Icon href="https://github.com/jinsi-ai/b0pass" src="github" />
+- FlyingCarpet / <Icon src="android2" /> / <Icon href="https://github.com/spieglt/FlyingCarpet" src="github" />
 
 ::: details
 
@@ -59,11 +59,11 @@
 
 ### FTP clients
 
-- [**FileZilla**](https://filezilla-project.org/)
-- [**WinSCP**](https://winscp.net/) / <Icon src="windows" /> / <Icon href="https://github.com/winscp/winscp" src="github" />
-- [**Cyberduck**](https://cyberduck.io/) / <Icon href="https://github.com/iterate-ch/cyberduck" src="github" />
-- [**File Centipede**](https://filecxx.com/) / <Icon href="https://github.com/filecxx/FileCentipede" src="github" />
-- **Termscp** / <Icon src="terminal-fill" /> / <Icon href="https://github.com/veeso/termscp" src="github" />
+- [FileZilla](https://filezilla-project.org/)
+- [WinSCP](https://winscp.net/) / <Icon src="windows" /> / <Icon href="https://github.com/winscp/winscp" src="github" />
+- [Cyberduck](https://cyberduck.io/) / <Icon href="https://github.com/iterate-ch/cyberduck" src="github" />
+- [File Centipede](https://filecxx.com/) / <Icon href="https://github.com/filecxx/FileCentipede" src="github" />
+- Termscp / <Icon src="terminal-fill" /> / <Icon href="https://github.com/veeso/termscp" src="github" />
 
 ::: details
 
@@ -73,8 +73,8 @@
 
 ## Home automation software
 
-- [**Home Assistant**](https://www.home-assistant.io/) / <Icon href="https://github.com/home-assistant" src="github" />
-- [**openHAB**](https://www.openhab.org/) / <Icon href="https://github.com/openhab" src="github" />
+- [Home Assistant](https://www.home-assistant.io/) / <Icon href="https://github.com/home-assistant" src="github" />
+- [openHAB](https://www.openhab.org/) / <Icon href="https://github.com/openhab" src="github" />
 
 ::: details
 
@@ -84,11 +84,11 @@
 
 ## Proxy software
 
-- [**Mihomo**](https://wiki.metacubex.one/) / <Icon href="https://wiki.metacubex.one/startup/client/client/" src="folder-fill" /> / <Icon href="https://github.com/MetaCubeX/mihomo" src="github" />
-- [**Xray**](https://xtls.github.io/) / <Icon href="https://xtls.github.io/en/document/install.html#graphical-clients" src="folder-fill" /> / <Icon href="https://github.com/XTLS/Xray-core" src="github" />
-- [**Hysteria**](https://v2.hysteria.network/) / <Icon href="https://v2.hysteria.network/docs/getting-started/3rd-party-apps/" src="folder-fill" /> / <Icon href="https://github.com/apernet/hysteria" src="github" />
-- [**V2Ray**](https://www.v2fly.org/) / <Icon href="https://www.v2fly.org/en_US/awesome/tools.html" src="folder-fill" /> / <Icon href="https://github.com/v2fly" src="github" />
-- [**Shadowsocks**](https://shadowsocks.org/) / <Icon href="https://shadowsocks.org/doc/getting-started.html#gui-clients" src="folder-fill" /> / <Icon href="https://github.com/shadowsocks" src="github" />
+- [Mihomo](https://wiki.metacubex.one/) / <Icon href="https://wiki.metacubex.one/startup/client/client/" src="folder-fill" /> / <Icon href="https://github.com/MetaCubeX/mihomo" src="github" />
+- [Xray](https://xtls.github.io/) / <Icon href="https://xtls.github.io/en/document/install.html#graphical-clients" src="folder-fill" /> / <Icon href="https://github.com/XTLS/Xray-core" src="github" />
+- [Hysteria](https://v2.hysteria.network/) / <Icon href="https://v2.hysteria.network/docs/getting-started/3rd-party-apps/" src="folder-fill" /> / <Icon href="https://github.com/apernet/hysteria" src="github" />
+- [V2Ray](https://www.v2fly.org/) / <Icon href="https://www.v2fly.org/en_US/awesome/tools.html" src="folder-fill" /> / <Icon href="https://github.com/v2fly" src="github" />
+- [Shadowsocks](https://shadowsocks.org/) / <Icon href="https://shadowsocks.org/doc/getting-started.html#gui-clients" src="folder-fill" /> / <Icon href="https://github.com/shadowsocks" src="github" />
 
 ::: details
 
@@ -98,10 +98,10 @@
 
 ## Remote desktop software
 
-- [**RustDesk**](https://rustdesk.com/) / <Icon href="https://github.com/rustdesk/rustdesk" src="github" />
-- [**FreeRDP**](https://www.freerdp.com/) / <Icon src="terminal-fill" /> / <Icon href="https://github.com/FreeRDP/FreeRDP" src="github" /> | [**Remmina**](https://remmina.org/) / <Icon src="tux" /> / <Icon href="https://github.com/freerdp/remmina" src="github" />
-- [**TightVNC**](https://www.tightvnc.com/) / <Icon href="https://sourceforge.net/projects/vnc-tight/" src="sourceforge" />
-- [**HopToDesk**](https://www.hoptodesk.com/) / <Icon href="https://gitlab.com/hoptodesk/hoptodesk" src="gitlab" />
+- [RustDesk](https://rustdesk.com/) / <Icon href="https://github.com/rustdesk/rustdesk" src="github" />
+- [FreeRDP](https://www.freerdp.com/) / <Icon src="terminal-fill" /> / <Icon href="https://github.com/FreeRDP/FreeRDP" src="github" /> | [Remmina](https://remmina.org/) / <Icon src="tux" /> / <Icon href="https://github.com/freerdp/remmina" src="github" />
+- [TightVNC](https://www.tightvnc.com/) / <Icon href="https://sourceforge.net/projects/vnc-tight/" src="sourceforge" />
+- [HopToDesk](https://www.hoptodesk.com/) / <Icon href="https://gitlab.com/hoptodesk/hoptodesk" src="gitlab" />
 
 ::: details
 
@@ -111,10 +111,10 @@
 
 ## RSS readers
 
-- [**Folo**](https://folo.is/) / <Icon href="https://github.com/RSSNext/folo" src="github" />
-- [**NetNewsWire**](https://netnewswire.com/) / <Icon src="apple" /> / <Icon href="https://github.com/Ranchero-Software/NetNewsWire/" src="github" />
+- [Folo](https://folo.is/) / <Icon href="https://github.com/RSSNext/folo" src="github" />
+- [NetNewsWire](https://netnewswire.com/) / <Icon src="apple" /> / <Icon href="https://github.com/Ranchero-Software/NetNewsWire/" src="github" />
 - [Fluent Reader](https://hyliu.me/fluent-reader/) / <Icon href="https://github.com/yang991178/fluent-reader" src="github" />
-- **Glance** / <Icon src="terminal-fill" /> / <Icon href="https://github.com/glanceapp/glance" src="github" />
+- Glance / <Icon src="terminal-fill" /> / <Icon href="https://github.com/glanceapp/glance" src="github" />
 
 ::: details
 
@@ -124,9 +124,9 @@
 
 ## Screen mirroring software
 
-- **Scrcpy** / <Icon src="terminal-fill" /> / <Icon href="https://github.com/genymobile/scrcpy" src="github" /> | **QtScrcpy** / <Icon href="https://github.com/barry-ran/qtscrcpy" src="github" /> | [**Escrcpy**](https://viarotel.eu.org/) / <Icon href="https://github.com/viarotel-org/escrcpy" src="github" />
-- **Weylus** / <Icon href="https://github.com/H-M-H/Weylus" src="github" />
-- [**PlainApp**](https://plainapp.app/) / <Icon src="android2" /> / <Icon href="https://github.com/plainhub/plain-app" src="github" />
+- Scrcpy / <Icon src="terminal-fill" /> / <Icon href="https://github.com/genymobile/scrcpy" src="github" /> | QtScrcpy / <Icon href="https://github.com/barry-ran/qtscrcpy" src="github" /> | [Escrcpy](https://viarotel.eu.org/) / <Icon href="https://github.com/viarotel-org/escrcpy" src="github" />
+- Weylus / <Icon href="https://github.com/H-M-H/Weylus" src="github" />
+- [PlainApp](https://plainapp.app/) / <Icon src="android2" /> / <Icon href="https://github.com/plainhub/plain-app" src="github" />
 
 ::: details
 

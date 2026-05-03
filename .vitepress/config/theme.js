@@ -6,7 +6,7 @@ export default {
   // https://vitepress.dev/zh/reference/default-theme-config
   logo: {
     src: "/images/logo.webp",
-    alt: "Xingshu Logo",
+    alt: "Xingshu logo",
   },
   nav,
   sidebar,

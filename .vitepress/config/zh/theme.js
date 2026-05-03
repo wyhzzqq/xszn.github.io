@@ -6,7 +6,7 @@ export default {
   // https://vitepress.dev/zh/reference/default-theme-config
   logo: {
     src: "/images/logo.webp",
-    alt: "行书指南 Logo",
+    alt: "行书指南图标",
   },
   nav,
   sidebar,

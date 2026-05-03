@@ -8,7 +8,7 @@ import zhConfig from "./zh/zhConfig";
 export default defineConfig({
   title: "Xingshu",
   description:
-    "A curated list of Free and Open Source Software, recommending high-quality free and open-source tools to help you save time on your software search.",
+    "List of free and open-source software. We recommend high-quality, free, and open-source tools to help you save time when searching for software.",
   head,
   ...shared,
   themeConfig,
