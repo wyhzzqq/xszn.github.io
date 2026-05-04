@@ -14,7 +14,14 @@ By selecting user-friendly, popular, and versatile products, you can make your d
 
 ## Contribute
 
-Please use this [Google Form](https://forms.gle/XRJRh3ihLqd3yYcX6) to help improve the Xingshu documentation.
+You can contribute to improving the Cursive Writing Guide document via [Google Forms](https://forms.gle/RaxoXNsXibcVUGTZ9) in the following ways:
+
+- Add software
+- Delete software
+- Update software
+- Provide improvement suggestions
+
+We would like to take this opportunity to thank the contributors and community members for their support of and contributions to this project.
 
 ## Contact Us
 

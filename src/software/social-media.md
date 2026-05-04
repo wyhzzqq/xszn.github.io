@@ -31,7 +31,7 @@
 
 ## Stream ripping tools
 
-- yt-dlp / <Icon src="terminal-fill" /> / <Icon href="https://github.com/yt-dlp/yt-dlp" src="github" /> | Seal / <Icon src="android2" /> / <Icon href="https://github.com/JunkFood02/Seal" src="github" /> | [ytDownloader](https://aandrew-me.github.io/ytDownloader/) / <Icon href="https://github.com/aandrew-me/ytDownloader" src="github" /> |
+- yt-dlp / <Icon src="terminal-fill" /> / <Icon href="https://github.com/yt-dlp/yt-dlp" src="github" />, Seal / <Icon src="android2" /> / <Icon href="https://github.com/JunkFood02/Seal" src="github" />, [ytDownloader](https://aandrew-me.github.io/ytDownloader/) / <Icon href="https://github.com/aandrew-me/ytDownloader" src="github" /> |
 - [res-downloader](https://res.putyy.com/) / <Icon href="https://github.com/putyy/res-downloader" src="github" />
 - [Cat Catch](https://o2bmm.gitbook.io/cat-catch) / <Icon href="https://github.com/xifangczy/cat-catch" src="github" />
 - [MediaGo](https://downloader.caorushizi.cn/) / <Icon href="https://github.com/caorushizi/mediago" src="github" />

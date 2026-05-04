@@ -2,7 +2,7 @@
 
 ## 广告拦截器
 
-- [**AdBlock**](https://getadblock.com/) | [**Adblock Plus**](https://adblockplus.org/) / <Icon src="browser-chrome" /> / <Icon href="https://gitlab.com/eyeo/browser-extensions-and-premium/extensions/extensions" src="gitlab" />
+- [**AdBlock**](https://getadblock.com/), [**Adblock Plus**](https://adblockplus.org/) / <Icon src="browser-chrome" /> / <Icon href="https://gitlab.com/eyeo/browser-extensions-and-premium/extensions/extensions" src="gitlab" />
 - [**uBlock Origin**](https://ublockorigin.com/) / <Icon src="browser-chrome" /> / <Icon href="https://github.com/gorhill/uBlock" src="github" />
 - [**SponsorBlock**](https://sponsor.ajay.app/) / <Icon src="browser-chrome" /> / <Icon href="https://github.com/ajayyy/SponsorBlock" src="github" />
 - [**AdAway**](https://adaway.org/) / <Icon src="android2" /> / <Icon href="https://github.com/AdAway/AdAway" src="github" />
@@ -33,7 +33,7 @@
 ## 下载管理器
 
 - [**JDownloader**](https://jdownloader.org/)
-- [**Motrix**](https://motrix.app/) / <Icon href="https://github.com/agalwood/Motrix" src="github" /> | [**Motrix Next**](https://motrix-next.pages.dev/) / <Icon href="https://github.com/AnInsomniacy/motrix-next" src="github" />
+- [**Motrix**](https://motrix.app/) / <Icon href="https://github.com/agalwood/Motrix" src="github" />, [**Motrix Next**](https://motrix-next.pages.dev/) / <Icon href="https://github.com/AnInsomniacy/motrix-next" src="github" />
 - [**AB Download Manager**](https://abdownloadmanager.com/) / <Icon href="https://github.com/amir1376/ab-download-manager" src="github" />
 - [**Gopeed**](https://gopeed.com/) / <Icon href="https://github.com/GopeedLab/gopeed" src="github" />
 
@@ -99,7 +99,7 @@
 ## 远程桌面软件
 
 - [**RustDesk**](https://rustdesk.com/) / <Icon href="https://github.com/rustdesk/rustdesk" src="github" />
-- [**FreeRDP**](https://www.freerdp.com/) / <Icon src="terminal-fill" /> / <Icon href="https://github.com/FreeRDP/FreeRDP" src="github" /> | [**Remmina**](https://remmina.org/) / <Icon src="tux" /> / <Icon href="https://github.com/freerdp/remmina" src="github" />
+- [**FreeRDP**](https://www.freerdp.com/) / <Icon src="terminal-fill" /> / <Icon href="https://github.com/FreeRDP/FreeRDP" src="github" />, [**Remmina**](https://remmina.org/) / <Icon src="tux" /> / <Icon href="https://github.com/freerdp/remmina" src="github" />
 - [**TightVNC**](https://www.tightvnc.com/) / <Icon href="https://sourceforge.net/projects/vnc-tight/" src="sourceforge" />
 - [**HopToDesk**](https://www.hoptodesk.com/) / <Icon href="https://gitlab.com/hoptodesk/hoptodesk" src="gitlab" />
 
@@ -124,7 +124,7 @@
 
 ## 投屏软件
 
-- **Scrcpy** / <Icon src="terminal-fill" /> / <Icon href="https://github.com/genymobile/scrcpy" src="github" /> | **QtScrcpy** / <Icon href="https://github.com/barry-ran/qtscrcpy" src="github" /> | [**Escrcpy**](https://viarotel.eu.org/) / <Icon href="https://github.com/viarotel-org/escrcpy" src="github" />
+- **Scrcpy** / <Icon src="terminal-fill" /> / <Icon href="https://github.com/genymobile/scrcpy" src="github" />, **QtScrcpy** / <Icon href="https://github.com/barry-ran/qtscrcpy" src="github" />, [**Escrcpy**](https://viarotel.eu.org/) / <Icon href="https://github.com/viarotel-org/escrcpy" src="github" />
 - **Weylus** / <Icon href="https://github.com/H-M-H/Weylus" src="github" />
 - [**PlainApp**](https://plainapp.app/) / <Icon src="android2" /> / <Icon href="https://github.com/plainhub/plain-app" src="github" />
 

@@ -12,11 +12,11 @@
 
 ## Media players
 
-- [mpv](https://mpv.io/) / <Icon src="terminal-fill" /> / <Icon href="https://github.com/mpv-player/mpv" src="github" /> | mpv.net - GUI / <Icon href="https://github.com/mpvnet-player/mpv.net" src="github" /> | [IINA](https://iina.io/) / <Icon src="apple" /> / <Icon href="https://github.com/iina/iina" src="github" />
+- [mpv](https://mpv.io/) / <Icon src="terminal-fill" /> / <Icon href="https://github.com/mpv-player/mpv" src="github" />, mpv.net - GUI / <Icon href="https://github.com/mpvnet-player/mpv.net" src="github" />, [IINA](https://iina.io/) / <Icon src="apple" /> / <Icon href="https://github.com/iina/iina" src="github" />
 - [Jellyfin](https://jellyfin.org/) / <Icon href="https://github.com/jellyfin/jellyfin" src="github" />
 - [Kodi](https://kodi.tv/) / <Icon href="https://kodi.tv/" src="github" />
 - [VLC media player](https://www.videolan.org/vlc/) / <Icon href="https://github.com/videolan/vlc" src="github" />
-- MPC-HC / <Icon href="https://github.com/clsid2/mpc-hc" src="github" /> | MPC-BE / <Icon href="https://github.com/Aleksoid1978/MPC-BE" src="github" />
+- MPC-HC / <Icon href="https://github.com/clsid2/mpc-hc" src="github" />, MPC-BE / <Icon href="https://github.com/Aleksoid1978/MPC-BE" src="github" />
 - [Syncplay](https://syncplay.pl/) / <Icon href="https://github.com/Syncplay/syncplay" src="github" />
 
 ::: details
@@ -60,7 +60,7 @@
 ## Video super-resolution
 
 - Waifu2x-Extension-GUI / <Icon src="windows" /> / <Icon href="https://github.com/AaronFeng753/Waifu2x-Extension-GUI" src="github" />
-- Real-ESRGAN / <Icon href="https://github.com/xinntao/Real-ESRGAN" src="github" /> | [Real-ESRGAN GUI](https://akarin.dev/realesrgan-gui/) / <Icon href="https://github.com/TransparentLC/realesrgan-gui" src="github" />
+- Real-ESRGAN / <Icon href="https://github.com/xinntao/Real-ESRGAN" src="github" />, [Real-ESRGAN GUI](https://akarin.dev/realesrgan-gui/) / <Icon href="https://github.com/TransparentLC/realesrgan-gui" src="github" />
 - [Video2x](https://docs.video2x.org/) / <Icon href="https://github.com/k4yt3x/video2x" src="github" />
 - REAL Video Enhancer / <Icon href="https://github.com/TNTwise/REAL-Video-Enhancer" src="github" />
 - RealSR-NCNN-Android / <Icon src="android2" /> / <Icon href="https://github.com/tumuyan/RealSR-NCNN-Android" src="github" />

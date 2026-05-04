@@ -3,7 +3,7 @@
 ## Automation software
 
 - [Automa](https://extension.automa.site/) / <Icon src="browser-chrome" /> / <Icon href="https://github.com/AutomaApp/automa" src="github" />
-- [AutoHotkey](https://www.autohotkey.com/) / <Icon src="windows" /> / <Icon href="https://github.com/AutoHotkey/AutoHotkey" src="github" /> | [RMT](https://zclucas.github.io/RMT/) / <Icon src="windows" /> / <Icon href="https://github.com/zclucas/RMT" src="github" />
+- [AutoHotkey](https://www.autohotkey.com/) / <Icon src="windows" /> / <Icon href="https://github.com/AutoHotkey/AutoHotkey" src="github" />, [RMT](https://zclucas.github.io/RMT/) / <Icon src="windows" /> / <Icon href="https://github.com/zclucas/RMT" src="github" />
 - [Ui.Vision](https://ui.vision/) - RPA / <Icon src="browser-chrome" /> / <Icon href="https://github.com/A9T9/RPA" src="github" />
 - Episode-ReName / <Icon href="https://github.com/Nriver/Episode-ReName" src="github" />
 - [Blur Auto Clicker](https://blur009.vercel.app/projects/blur-autoclicker) / <Icon src="windows" /> / <Icon href="https://github.com/Blur009/Blur-AutoClicker" src="github" />
@@ -38,7 +38,7 @@
 
 ## Diagramming software
 
-- [draw.io](https://www.drawio.com/) / <Icon href="https://github.com/jgraph/drawio" src="github" /> | [Next AI Draw.io](https://next-ai-drawio.jiang.jp/) / <Icon href="https://github.com/DayuanJiang/next-ai-draw-io" src="github" />
+- [draw.io](https://www.drawio.com/) / <Icon href="https://github.com/jgraph/drawio" src="github" />, [Next AI Draw.io](https://next-ai-drawio.jiang.jp/) / <Icon href="https://github.com/DayuanJiang/next-ai-draw-io" src="github" />
 - [Mermaid](https://mermaid.ai/open-source/) / <Icon src="globe2" /> / <Icon href="https://github.com/mermaid-js/mermaid" src="github" />
 - [Excalidraw](https://excalidraw.com/) / <Icon src="globe2" /> / <Icon href="https://github.com/excalidraw/excalidraw" src="github" />
 - [JSON Crack](https://jsoncrack.com/) / <Icon src="globe2" /> /<Icon href="https://github.com/AykutSarac/jsoncrack.com" src="github" />

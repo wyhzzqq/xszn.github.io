@@ -50,7 +50,7 @@
 
 ## 压缩软件
 
-- [**7-Zip**](https://www.7-zip.org/) / <Icon href="https://github.com/ip7z/7zip" src="github" /> | [**7-Zip ZS**](https://mcmilk.de/projects/7-Zip-zstd/) / <Icon src="windows" /> / <Icon href="https://github.com/mcmilk/7-Zip-zstd/" src="github" /> | **p7zip-zstd** / <Icon href="https://github.com/p7zip-project/p7zip" src="github" /> | [**NanaZip**](https://nanazip.org/) / <Icon src="windows" /> / <Icon href="https://github.com/M2Team/NanaZip" src="github" />
+- [**7-Zip**](https://www.7-zip.org/) / <Icon href="https://github.com/ip7z/7zip" src="github" />, [**7-Zip ZS**](https://mcmilk.de/projects/7-Zip-zstd/) / <Icon src="windows" /> / <Icon href="https://github.com/mcmilk/7-Zip-zstd/" src="github" />, **p7zip-zstd** / <Icon href="https://github.com/p7zip-project/p7zip" src="github" />, [**NanaZip**](https://nanazip.org/) / <Icon src="windows" /> / <Icon href="https://github.com/M2Team/NanaZip" src="github" />
 - [**PeaZip**](https://peazip.github.io/) / <Icon href="https://github.com/peazip/PeaZip/" src="github" />
 - [**Keka**](https://www.keka.io/) / <Icon src="apple" /> / <Icon href="https://github.com/aonez/Keka" src="github" />
 - **ZipXtract** / <Icon src="android2" /> / <Icon href="https://github.com/WirelessAlien/ZipXtract" src="github" />
@@ -64,8 +64,8 @@
 
 ## 输入法
 
-- [**Rime**](https://rime.im/) / <Icon href="https://github.com/rime" src="github" /> | **Weasel** / <Icon src="windows" /> / <Icon href="https://github.com/rime/weasel" src="github" /> | **Squirrel** / <Icon src="apple" /> / <Icon href="https://github.com/rime/squirrel" src="github" /> | **Trime** / <Icon src="android2" /> / <Icon href="https://github.com/osfans/trime" src="github" /> [...](https://rime.im/download/)
-- [**Fcitx**](https://fcitx-im.org/wiki/Fcitx_5) / <Icon src="tux" /> / <Icon href="https://github.com/fcitx" src="github" /> | [**Fcitx 5**](https://fcitx5-android.github.io/) / <Icon src="android2" /> / <Icon href="https://github.com/fcitx5-android/fcitx5-android" src="github" />
+- [**Rime**](https://rime.im/) / <Icon href="https://github.com/rime" src="github" />, **Weasel** / <Icon src="windows" /> / <Icon href="https://github.com/rime/weasel" src="github" />, **Squirrel** / <Icon src="apple" /> / <Icon href="https://github.com/rime/squirrel" src="github" />, **Trime** / <Icon src="android2" /> / <Icon href="https://github.com/osfans/trime" src="github" /> [...](https://rime.im/download/)
+- [**Fcitx**](https://fcitx-im.org/wiki/Fcitx_5) / <Icon src="tux" /> / <Icon href="https://github.com/fcitx" src="github" />, [**Fcitx 5**](https://fcitx5-android.github.io/) / <Icon src="android2" /> / <Icon href="https://github.com/fcitx5-android/fcitx5-android" src="github" />
 - [**FlorisBoard**](https://florisboard.org/) / <Icon src="android2" /> / <Icon href="https://github.com/florisboard/florisboard" src="github" />
 
 ::: details
@@ -89,7 +89,7 @@
 ## 密码管理器
 
 - [**Bitwarden**](https://bitwarden.com/) / <Icon href="https://github.com/bitwarden" src="github" />
-- [**KeePass**](https://keepass.info/) / <Icon href="https://sourceforge.net/projects/keepass/" src="sourceforge" /> | [**KeePassXC**](https://keepassxc.org/) / <Icon href="https://github.com/keepassxreboot/keepassxc" src="github" /> | [**MacPass**](https://macpassapp.org/) / <Icon src="apple" /> / <Icon href="https://github.com/MacPass/MacPass" src="github" /> [...](https://keepass.info/download.html)
+- [**KeePass**](https://keepass.info/) / <Icon href="https://sourceforge.net/projects/keepass/" src="sourceforge" />, [**KeePassXC**](https://keepassxc.org/) / <Icon href="https://github.com/keepassxreboot/keepassxc" src="github" />, [**MacPass**](https://macpassapp.org/) / <Icon src="apple" /> / <Icon href="https://github.com/MacPass/MacPass" src="github" /> [...](https://keepass.info/download.html)
 - [**Pass**](https://www.passwordstore.org/) / [**QtPass**](https://qtpass.org/) / <Icon href="https://github.com/IJHack/QtPass" src="github" /> / [**Pass for iOS**](https://mssun.github.io/passforios/) / <Icon src="apple" /> / <Icon href="https://github.com/mssun/passforios" src="github" /> [...](https://www.passwordstore.org/#download)
 - [**LessPass**](https://www.lesspass.com/) / <Icon href="https://github.com/lesspass/lesspass" src="github" />
 - [**AliasVault**](https://www.aliasvault.net/) / <Icon href="https://github.com/aliasvault/aliasvault" src="github" />
@@ -121,6 +121,7 @@
 - [**Ice**](https://icemenubar.app/) / <Icon src="apple" /> / <Icon href="https://github.com/jordanbaird/Ice" src="github" />
 - [**AltTab**](https://alt-tab-macos.netlify.app/) / <Icon src="apple" /> / <Icon href="https://github.com/lwouis/alt-tab-macos" src="github" />
 - [**Mac Mouse Fix**](https://macmousefix.com/) / <Icon src="apple" /> / <Icon href="https://github.com/noah-nuebling/mac-mouse-fix" src="github" />
+- [ZTools](https://ztoolscenter.github.io/ZTools-doc/) / <Icon href="https://github.com/ZToolsCenter/ZTools" src="github" />
 
 ::: details
 
@@ -131,7 +132,7 @@
 ## 虚拟机
 
 - [**VirtualBox**](https://www.virtualbox.org/) / <Icon href="https://github.com/VirtualBox/virtualbox" src="github" />
-- [**QEMU**](https://github.com/qemu/QEMU) / <Icon href="https://github.com/qemu/QEMU" src="github" /> | [**Quickemu**](https://quickemu-project.github.io/) / <Icon href="https://github.com/quickemu-project/quickemu" src="github" />
+- [**QEMU**](https://github.com/qemu/QEMU) / <Icon href="https://github.com/qemu/QEMU" src="github" />, [**Quickemu**](https://quickemu-project.github.io/) / <Icon href="https://github.com/quickemu-project/quickemu" src="github" />
 - [**UTM**](https://getutm.app/) / <Icon src="apple" /> / <Icon href="https://github.com/utmapp/UTM" src="github" />
 
 ::: details

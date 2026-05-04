@@ -5,7 +5,7 @@ layout: home
 
 hero:
   name: 行书指南
-  text: 免费及开源软件列表
+  text: 免费和开源软件列表
   tagline: 从这里挑选你的第一个软件
   image:
     src: /images/hero-image.webp

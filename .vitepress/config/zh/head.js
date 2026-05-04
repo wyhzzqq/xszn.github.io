@@ -1,12 +1,12 @@
 export default [
   ["link", { rel: "icon", href: "/favicon.ico" }],
-  ["meta", { property: "og:title", content: "自由及开放源代码软件列表" }],
+  ["meta", { property: "og:title", content: "免费和开源软件列表" }],
   [
     "meta",
     {
       property: "og:description",
       content:
-        "自由及开放源代码软件列表，推荐高质量免费与开源软件，降低你寻找软件的时间成本。",
+        "免费和开源软件列表，推荐高质量免费与开源软件，降低你寻找软件的时间成本。",
     },
   ],
   ["meta", { property: "og:type", content: "website" }],
@@ -19,7 +19,7 @@ export default [
     "meta",
     {
       property: "og:og:image:alt",
-      content: "行书指南：自由及开放源代码软件列表。",
+      content: "行书指南开放图。",
     },
   ],
   ["meta", { property: "og:locale", content: "zh_CN" }],

@@ -2,7 +2,7 @@
 
 ## 图片压缩工具
 
-- [**Caesium Image Compressor**](https://saerasoft.com/caesium/) / <Icon href="https://github.com/Lymphatus/caesium-image-compressor" src="github" /> | [**CaesiumCLT**](https://saerasoft.com/caesiumclt/) / <Icon src="terminal-fill" /> / <Icon href="https://github.com/Lymphatus/caesium-clt" src="github" />
+- [**Caesium Image Compressor**](https://saerasoft.com/caesium/) / <Icon href="https://github.com/Lymphatus/caesium-image-compressor" src="github" />, [**CaesiumCLT**](https://saerasoft.com/caesiumclt/) / <Icon src="terminal-fill" /> / <Icon href="https://github.com/Lymphatus/caesium-clt" src="github" />
 - **Tiny Image** / <Icon src="apple" /> / <Icon href="https://github.com/kyleduo/tinypng4mac" src="github" />
 - [**CompressO**](https://compresso.codeforreal.com/) / <Icon href="https://github.com/codeforreal1/compressO" src="github" />
 - [**Oxipng**](https://op111.net/posts/2025/09/png-compression-oxipng-optipng-fileoptimizer-cwebp/) / <Icon src="terminal-fill" /> / <Icon href="https://github.com/oxipng/oxipng" src="github" />
