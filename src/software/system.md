@@ -2,9 +2,11 @@
 
 ## Bootable USB
 
-- [Rufus](https://rufus.ie/) / <Icon src="windows" /> / <Icon href="https://github.com/pbatard/rufus" src="github" />
 - [Ventoy](https://www.ventoy.net/) / <Icon href="https://github.com/ventoy/Ventoy" src="github" />
-- [balenaEtcher](https://etcher.balena.io/) / <Icon href="https://github.com/balena-io/etcher" src="github" />
+- [Rufus](https://rufus.ie/) / <Icon src="windows" /> / <Icon href="https://github.com/pbatard/rufus" src="github" />
+- [BalenaEtcher](https://etcher.balena.io/) / <Icon href="https://github.com/balena-io/etcher" src="github" />
+- [WinDiskWriter](https://windiskwriter.com/) / <Icon src="apple" /> / <Icon href="https://github.com/TechUnRestricted/windiskwriter" src="github" />
+- [WoeUSB](https://woeusb.github.io/WoeUSB/) / <Icon src="tux" /> / <Icon href="https://woeusb.github.io/WoeUSB/" src="github" />, [WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) / <Icon src="tux" />
 
 ::: details
 
