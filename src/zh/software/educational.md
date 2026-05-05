@@ -2,8 +2,8 @@
 
 ## 课堂管理软件
 
-- [Veyon](https://veyon.io/) / <Icon href="https://github.com/veyon/veyon" src="github" />
-- [ClassIsland](https://classisland.tech/) / <Icon href="https://github.com/ClassIsland/ClassIsland" src="github" />
+- [Veyon](https://veyon.io/) / [github](https://github.com/veyon/veyon)
+- [ClassIsland](https://classisland.tech/) / [github](https://github.com/ClassIsland/ClassIsland)
 
 ::: details
 
@@ -12,11 +12,11 @@
 
 ## 电子书阅读器
 
-- [Legado](https://gedoor.github.io/) / <Icon src="android2" /> / <Icon href="https://github.com/gedoor/legado" src="github" />
-- [Koodo Reader](https://koodoreader.com/) / <Icon href="https://github.com/koodo-reader/koodo-reader" src="github" />
-- [KOReader](https://koreader.rocks/) / <Icon href="https://github.com/koreader/koreader" src="github" />
-- [calibre](https://calibre-ebook.com/) / <Icon href="https://github.com/kovidgoyal/calibre" src="github" />
-- [Readest](https://readest.com/) / <Icon href="https://github.com/readest/readest" src="github" />
+- [Legado](https://gedoor.github.io/) / [android] / [github](https://github.com/gedoor/legado)
+- [Koodo Reader](https://koodoreader.com/) / [github](https://github.com/koodo-reader/koodo-reader)
+- [KOReader](https://koreader.rocks/) / [github](https://github.com/koreader/koreader)
+- [calibre](https://calibre-ebook.com/) / [github](https://github.com/kovidgoyal/calibre)
+- [Readest](https://readest.com/) / [github](https://github.com/readest/readest)
 - [FBReader](https://fbreader.org/)
 
 ::: details
@@ -26,9 +26,9 @@
 
 ## 闪卡软件
 
-- [Anki](https://apps.ankiweb.net/) / <Icon href="https://github.com/ankitects/anki" src="github" />
-- [Mnemosyne](https://mnemosyne-proj.org/) / <Icon src="windows" /> / <Icon href="https://github.com/mnemosyne-proj/mnemosyne" src="github" />
-- Hashcards / <Icon src="terminal-fill" /> / <Icon href="https://github.com/eudoxia0/hashcards" src="github" />
+- [Anki](https://apps.ankiweb.net/) / [github](https://github.com/ankitects/anki)
+- [Mnemosyne](https://mnemosyne-proj.org/) / [windows] / [github](https://github.com/mnemosyne-proj/mnemosyne)
+- Hashcards / [cli] / [github](https://github.com/eudoxia0/hashcards)
 
 ::: details
 
@@ -40,11 +40,11 @@
 
 ### 语法检查器
 
-- [LanguageTool](https://languagetool.org/) / <Icon href="https://github.com/languagetool-org/languagetool" src="github" />
-- [Harper](https://github.com/automattic/harper) / <Icon href="https://github.com/automattic/harper" src="github" />
-- Scramble / <Icon src="browser-chrome" /> / <Icon href="https://github.com/zlwaterfield/scramble" src="github" />
-- Writing Tools / <Icon href="https://github.com/theJayTea/WritingTools" src="github" />
-- [AutoCorrect](https://huacnlee.github.io/autocorrect/) / <Icon href="https://github.com/huacnlee/autocorrect" src="github" />
+- [LanguageTool](https://languagetool.org/) / [github](https://github.com/languagetool-org/languagetool)
+- [Harper](https://github.com/automattic/harper) / [github](https://github.com/automattic/harper)
+- Scramble / [extension] / [github](https://github.com/zlwaterfield/scramble)
+- Writing Tools / [github](https://github.com/theJayTea/WritingTools)
+- [AutoCorrect](https://huacnlee.github.io/autocorrect/) / [github](https://github.com/huacnlee/autocorrect)
 
 ::: details
 
@@ -55,16 +55,16 @@
 
 ### 语言学习软件
 
-- [Enjoy](https://enjoy.bot/) / <Icon href="https://github.com/ZuodaoTech/everyone-can-use-english" src="github" />
-- [Read Frog](https://www.readfrog.app/) / <Icon src="browser-chrome" /> / <Icon href="https://github.com/mengxi-ream/read-frog" src="github" />
-- [MuJing](https://mujingx.com/) / <Icon href="https://github.com/tangshimin/MuJing" src="github" />
-- [LLPlayer](https://llplayer.com/) / <Icon src="windows" /> / <Icon href="https://github.com/umlx5h/LLPlayer" src="github" />
-- Immersive Language Learning Assistant / <Icon src="browser-chrome" /> / <Icon href="https://github.com/xiao-zaiyi/illa-helper" src="github" />
-- [Yomitan](https://yomitan.wiki/) / <Icon src="browser-chrome" /> / <Icon href="https://github.com/yomidevs/yomitan" src="github" />
-- jidoujisho / <Icon src="android2" /> / <Icon href="https://github.com/arianneorpilla/jidoujisho" src="github" />
-- [Memento](https://ripose-jp.github.io/Memento/) / <Icon href="https://github.com/ripose-jp/Memento" src="github" />
-- [asbplayer](https://docs.asbplayer.dev/) / <Icon src="browser-chrome" /> / <Icon href="https://github.com/killergerbah/asbplayer" src="github" />
-- [Linguist](https://linguister.io/) / <Icon src="browser-chrome" /> / <Icon href="https://github.com/translate-tools/linguist" src="github" />
+- [Enjoy](https://enjoy.bot/) / [github](https://github.com/ZuodaoTech/everyone-can-use-english)
+- [Read Frog](https://www.readfrog.app/) / [extension] / [github](https://github.com/mengxi-ream/read-frog)
+- [MuJing](https://mujingx.com/) / [github](https://github.com/tangshimin/MuJing)
+- [LLPlayer](https://llplayer.com/) / [windows] / [github](https://github.com/umlx5h/LLPlayer)
+- Immersive Language Learning Assistant / [extension] / [github](https://github.com/xiao-zaiyi/illa-helper)
+- [Yomitan](https://yomitan.wiki/) / [extension] / [github](https://github.com/yomidevs/yomitan)
+- jidoujisho / [android] / [github](https://github.com/arianneorpilla/jidoujisho)
+- [Memento](https://ripose-jp.github.io/Memento/) / [github](https://github.com/ripose-jp/Memento)
+- [asbplayer](https://docs.asbplayer.dev/) / [extension] / [github](https://github.com/killergerbah/asbplayer)
+- [Linguist](https://linguister.io/) / [extension] / [github](https://github.com/translate-tools/linguist)
 
 ::: details
 
@@ -74,9 +74,9 @@
 
 ## 数学软件
 
-- [SageMath](https://www.sagemath.org/) / <Icon href="https://github.com/sagemath/sage" src="github" />
-- [Maxima](https://maxima.sourceforge.io/) / <Icon href="https://sourceforge.net/projects/maxima/" src="sourceforge" />
-- [GeoGebra](https://www.geogebra.org/) - Interactive geometry software / <Icon href="https://github.com/geogebra/geogebra" src="github" />
+- [SageMath](https://www.sagemath.org/) / [github](https://github.com/sagemath/sage)
+- [Maxima](https://maxima.sourceforge.io/) / [sourceforge](https://sourceforge.net/projects/maxima/)
+- [GeoGebra](https://www.geogebra.org/) - Interactive geometry software / [github](https://github.com/geogebra/geogebra)
 
 ::: details
 
@@ -86,12 +86,12 @@
 
 ## 思维导图软件
 
-- [Freeplane](https://github.com/freeplane/freeplane) / <Icon href="https://github.com/freeplane/freeplane" src="github" />
-- [SimpleMindMap](https://wanglin2.github.io/mind-map-docs/) / <Icon href="https://github.com/wanglin2/mind-map" src="github" />
-- [WiseMapping](https://www.wisemapping.com/) / <Icon href="https://github.com/wisemapping/wisemapping-open-source/tree/main" src="github" />
-- [Neurite](https://neurite.network/) / <Icon href="https://github.com/satellitecomponent/Neurite" src="github" />
-- [Minder](https://appcenter.elementary.io/com.github.phase1geo.minder/) / <Icon src="tux" /> / <Icon href="https://github.com/phase1geo/Minder" src="github" />
-- [Heimer](https://juzzlin.github.io/Heimer/) / <Icon href="https://github.com/juzzlin/Heimer" src="github" />
+- [Freeplane](https://github.com/freeplane/freeplane) / [github](https://github.com/freeplane/freeplane)
+- [SimpleMindMap](https://wanglin2.github.io/mind-map-docs/) / [github](https://github.com/wanglin2/mind-map)
+- [WiseMapping](https://www.wisemapping.com/) / [github](https://github.com/wisemapping/wisemapping-open-source/tree/main)
+- [Neurite](https://neurite.network/) / [github](https://github.com/satellitecomponent/Neurite)
+- [Minder](https://appcenter.elementary.io/com.github.phase1geo.minder/) / [linux] / [github](https://github.com/phase1geo/Minder)
+- [Heimer](https://juzzlin.github.io/Heimer/) / [github](https://github.com/juzzlin/Heimer)
 
 ::: details
 
@@ -101,14 +101,14 @@
 
 ## 打字软件
 
-- [Qwerty Learner](https://qwerty.kaiyi.cool/) / <Icon src="globe2" /> / <Icon href="https://github.com/RealKai42/qwerty-learner" src="github" />
-- [Monkeytype](https://monkeytype.com/) / <Icon href="https://github.com/monkeytypegame/monkeytype" src="github" />
-- [Type Words](https://typewords.cc/) / <Icon href="https://github.com/zyronon/TypeWords" src="github" />
-- [Keybr](https://www.keybr.com/) / <Icon href="https://github.com/aradzie/keybr.com" src="github" />
-- Smassh / <Icon src="terminal-fill" /> / <Icon href="https://github.com/kraanzu/smassh" src="github" />
-- ttyper / <Icon src="terminal-fill" /> / <Icon href="https://github.com/max-niederman/ttyper" src="github" />
-- GitType / <Icon src="terminal-fill" /> / <Icon href="https://github.com/unhappychoice/gittype" src="github" />
-- typioca / <Icon src="terminal-fill" /> / <Icon href="https://github.com/bloznelis/typioca" src="github" />
+- [Qwerty Learner](https://qwerty.kaiyi.cool/) / [web] / [github](https://github.com/RealKai42/qwerty-learner)
+- [Monkeytype](https://monkeytype.com/) / [github](https://github.com/monkeytypegame/monkeytype)
+- [Type Words](https://typewords.cc/) / [github](https://github.com/zyronon/TypeWords)
+- [Keybr](https://www.keybr.com/) / [github](https://github.com/aradzie/keybr.com)
+- Smassh / [cli] / [github](https://github.com/kraanzu/smassh)
+- ttyper / [cli] / [github](https://github.com/max-niederman/ttyper)
+- GitType / [cli] / [github](https://github.com/unhappychoice/gittype)
+- typioca / [cli] / [github](https://github.com/bloznelis/typioca)
 
 ::: details
 
@@ -119,10 +119,10 @@
 
 ## 白板
 
-- [Excalidraw](https://excalidraw.com/) / <Icon src="globe2" /> / <Icon href="https://github.com/excalidraw/excalidraw" src="github" />
-- [Drawnix](https://drawnix.com/) / <Icon src="globe2" /> / <Icon href="https://github.com/plait-board/drawnix" src="github" />
-- [OpenBoard](https://openboard.ch/) / <Icon href="https://github.com/openboard-org/openboard" src="github" />
-- [WBO](https://wbo.ophir.dev/) / <Icon src="globe2" /> / <Icon href="https://github.com/lovasoa/whitebophir" src="github" />
+- [Excalidraw](https://excalidraw.com/) / [web] / [github](https://github.com/excalidraw/excalidraw)
+- [Drawnix](https://drawnix.com/) / [web] / [github](https://github.com/plait-board/drawnix)
+- [OpenBoard](https://openboard.ch/) / [github](https://github.com/openboard-org/openboard)
+- [WBO](https://wbo.ophir.dev/) / [web] / [github](https://github.com/lovasoa/whitebophir)
 
 ::: details
 [whiteboard · GitHub Topics](https://github.com/topics/whiteboard)

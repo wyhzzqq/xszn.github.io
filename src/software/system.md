@@ -2,12 +2,12 @@
 
 ## Bootable USB
 
-- [Ventoy](https://www.ventoy.net/) / <Icon href="https://github.com/ventoy/Ventoy" src="github" />
-- [Rufus](https://rufus.ie/) / <Icon src="windows" /> / <Icon href="https://github.com/pbatard/rufus" src="github" />
-- [Etcher](https://etcher.balena.io/) / <Icon href="https://github.com/balena-io/etcher" src="github" />
-- [WinDiskWriter](https://windiskwriter.com/) / <Icon src="apple" /> / <Icon href="https://github.com/TechUnRestricted/windiskwriter" src="github" />
-- [WoeUSB](https://woeusb.github.io/WoeUSB/) / <Icon src="tux" /> / <Icon href="https://woeusb.github.io/WoeUSB/" src="github" />, [WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) / <Icon src="tux" />
-- [WEPE Tools](https://www.wepe.com.cn/) - Freeware / <Icon src="windows" />
+- [Ventoy](https://www.ventoy.net/) / [github](https://github.com/ventoy/Ventoy)
+- [Rufus](https://rufus.ie/) / [windows] / [github](https://github.com/pbatard/rufus)
+- [Etcher](https://etcher.balena.io/) / [github](https://github.com/balena-io/etcher)
+- [WinDiskWriter](https://windiskwriter.com/) / [apple] / [github](https://github.com/TechUnRestricted/windiskwriter)
+- [WoeUSB](https://woeusb.github.io/WoeUSB/) / [linux] / [github](https://woeusb.github.io/WoeUSB/), [WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) / [linux]
+- [WEPE Tools](https://www.wepe.com.cn/) - Freeware / [windows]
 
 ::: details
 
@@ -19,9 +19,9 @@
 
 ### Data recovery software
 
-- [TestDisk & PhotoRec](https://www.cgsecurity.org/) / <Icon href="https://github.com/cgsecurity/testdisk" src="github" />
-- RecoverPy / <Icon src="terminal-fill" /> / <Icon href="https://github.com/PabloLec/RecoverPy" src="github" />
-- Digler / <Icon href="https://github.com/ostafen/digler" src="github" />
+- [TestDisk & PhotoRec](https://www.cgsecurity.org/) / [github](https://github.com/cgsecurity/testdisk)
+- RecoverPy / [cli] / [github](https://github.com/PabloLec/RecoverPy)
+- Digler / [github](https://github.com/ostafen/digler)
 
 ::: details
 
@@ -32,9 +32,9 @@
 
 ## Desktop customization software
 
-- [Rainmeter](https://www.rainmeter.net/) / <Icon src="windows" /> / <Icon href="https://github.com/rainmeter/rainmeter" src="github" />
-- [ExplorerPatcher](https://explorerpatcher.net/) / <Icon src="windows" /> / <Icon href="https://github.com/valinet/ExplorerPatcher" src="github" />
-- [Seelen UI](https://seelen.io/) / <Icon src="windows" /> / <Icon href="https://github.com/eythaann/seelen-ui" src="github" />
+- [Rainmeter](https://www.rainmeter.net/) / [windows] / [github](https://github.com/rainmeter/rainmeter)
+- [ExplorerPatcher](https://explorerpatcher.net/) / [windows] / [github](https://github.com/valinet/ExplorerPatcher)
+- [Seelen UI](https://seelen.io/) / [windows] / [github](https://github.com/eythaann/seelen-ui)
 
 ::: details
 
@@ -43,10 +43,10 @@
 
 ## Disk Cleaners
 
-- [WinDirStat](https://windirstat.net/) / <Icon src="windows" /> / <Icon href="https://github.com/windirstat/windirstat" src="github" />
-- [BleachBit](https://www.bleachbit.org/) / <Icon href="https://github.com/bleachbit/bleachbit" src="github" />
-- [Windows Cleaner](https://wc.dyblog.online/) / <Icon src="windows" /> / <Icon href="https://github.com/darkmatter2048/WindowsCleaner" src="github" />
-- [AppPorts](https://appports.shimoko.com/) / <Icon src="apple" /> / <Icon href="https://github.com/wzh4869/AppPorts" src="github" />
+- [WinDirStat](https://windirstat.net/) / [windows] / [github](https://github.com/windirstat/windirstat)
+- [BleachBit](https://www.bleachbit.org/) / [github](https://github.com/bleachbit/bleachbit)
+- [Windows Cleaner](https://wc.dyblog.online/) / [windows] / [github](https://github.com/darkmatter2048/WindowsCleaner)
+- [AppPorts](https://appports.shimoko.com/) / [apple] / [github](https://github.com/wzh4869/AppPorts)
 
 ::: details
 
@@ -56,10 +56,10 @@
 
 ## File archivers
 
-- [7-Zip](https://www.7-zip.org/) / <Icon href="https://github.com/ip7z/7zip" src="github" />, [7-Zip ZS](https://mcmilk.de/projects/7-Zip-zstd/) / <Icon src="windows" /> / <Icon href="https://github.com/mcmilk/7-Zip-zstd/" src="github" />, p7zip-zstd / <Icon href="https://github.com/p7zip-project/p7zip" src="github" />, [NanaZip](https://nanazip.org/) / <Icon src="windows" /> / <Icon href="https://github.com/M2Team/NanaZip" src="github" />
-- [PeaZip](https://peazip.github.io/) / <Icon href="https://github.com/peazip/PeaZip/" src="github" />
-- [Keka](https://www.keka.io/) / <Icon src="apple" /> / <Icon href="https://github.com/aonez/Keka" src="github" />
-- ZipXtract / <Icon src="android2" /> / <Icon href="https://github.com/WirelessAlien/ZipXtract" src="github" />
+- [7-Zip](https://www.7-zip.org/) / [github](https://github.com/ip7z/7zip), [7-Zip ZS](https://mcmilk.de/projects/7-Zip-zstd/) / [windows] / [github](https://github.com/mcmilk/7-Zip-zstd/), p7zip-zstd / [github](https://github.com/p7zip-project/p7zip), [NanaZip](https://nanazip.org/) / [windows] / [github](https://github.com/M2Team/NanaZip)
+- [PeaZip](https://peazip.github.io/) / [github](https://github.com/peazip/PeaZip/)
+- [Keka](https://www.keka.io/) / [apple] / [github](https://github.com/aonez/Keka)
+- ZipXtract / [android] / [github](https://github.com/WirelessAlien/ZipXtract)
 
 ::: details
 
@@ -70,9 +70,9 @@
 
 ## Input methods
 
-- [Rime](https://rime.im/) / <Icon href="https://github.com/rime" src="github" />, Weasel / <Icon src="windows" /> / <Icon href="https://github.com/rime/weasel" src="github" />, Squirrel / <Icon src="apple" /> / <Icon href="https://github.com/rime/squirrel" src="github" />, Trime / <Icon src="android2" /> / <Icon href="https://github.com/osfans/trime" src="github" /> [...](https://rime.im/download/)
-- [Fcitx](https://fcitx-im.org/wiki/Fcitx_5) / <Icon src="tux" /> / <Icon href="https://github.com/fcitx" src="github" />, [Fcitx 5](https://fcitx5-android.github.io/) / <Icon src="android2" /> / <Icon href="https://github.com/fcitx5-android/fcitx5-android" src="github" />
-- [FlorisBoard](https://florisboard.org/) / <Icon src="android2" /> / <Icon href="https://github.com/florisboard/florisboard" src="github" />
+- [Rime](https://rime.im/) / [github](https://github.com/rime), Weasel / [windows] / [github](https://github.com/rime/weasel), Squirrel / [apple] / [github](https://github.com/rime/squirrel), Trime / [android] / [github](https://github.com/osfans/trime) [...](https://rime.im/download/)
+- [Fcitx](https://fcitx-im.org/wiki/Fcitx_5) / [linux] / [github](https://github.com/fcitx), [Fcitx 5](https://fcitx5-android.github.io/) / [android] / [github](https://github.com/fcitx5-android/fcitx5-android)
+- [FlorisBoard](https://florisboard.org/) / [android] / [github](https://github.com/florisboard/florisboard)
 
 ::: details
 
@@ -82,9 +82,9 @@
 
 ## KMS Activator
 
-- [Microsoft Activation Scripts](https://github.com/massgravel/microsoft-activation-scripts) / <Icon src="terminal-fill" /> / <Icon href="https://github.com/massgravel/Microsoft-Activation-Scripts" src="github" />
-- HEU KMS Activator / <Icon src="windows" /> / <Icon href="https://github.com/zbezj/HEU_KMS_Activator" src="github" />
-- [CMWTAT Digital Edition](https://cmwtat.cloudmoe.com/en.html) / <Icon src="windows" /> / <Icon href="https://github.com/TGSAN/CMWTAT_Digital_Edition" src="github" />
+- [Microsoft Activation Scripts](https://github.com/massgravel/microsoft-activation-scripts) / [cli] / [github](https://github.com/massgravel/Microsoft-Activation-Scripts)
+- HEU KMS Activator / [windows] / [github](https://github.com/zbezj/HEU_KMS_Activator)
+- [CMWTAT Digital Edition](https://cmwtat.cloudmoe.com/en.html) / [windows] / [github](https://github.com/TGSAN/CMWTAT_Digital_Edition)
 
 ::: details
 
@@ -94,12 +94,12 @@
 
 ## Password managers
 
-- [Bitwarden](https://bitwarden.com/) / <Icon href="https://github.com/bitwarden" src="github" />
-- [KeePass](https://keepass.info/) / <Icon href="https://sourceforge.net/projects/keepass/" src="sourceforge" />, [KeePassXC](https://keepassxc.org/) / <Icon href="https://github.com/keepassxreboot/keepassxc" src="github" />, [MacPass](https://macpassapp.org/) / <Icon src="apple" /> / <Icon href="https://github.com/MacPass/MacPass" src="github" /> [...](https://keepass.info/download.html)
-- [Pass](https://www.passwordstore.org/) / [QtPass](https://qtpass.org/) / <Icon href="https://github.com/IJHack/QtPass" src="github" /> / [Pass for iOS](https://mssun.github.io/passforios/) / <Icon src="apple" /> / <Icon href="https://github.com/mssun/passforios" src="github" /> [...](https://www.passwordstore.org/#download)
-- [LessPass](https://www.lesspass.com/) / <Icon href="https://github.com/lesspass/lesspass" src="github" />
-- [AliasVault](https://www.aliasvault.net/) / <Icon href="https://github.com/aliasvault/aliasvault" src="github" />
-- [AuthPass](https://authpass.app/) / <Icon href="https://github.com/authpass/authpass" src="github" />
+- [Bitwarden](https://bitwarden.com/) / [github](https://github.com/bitwarden)
+- [KeePass](https://keepass.info/) / [sourceforge](https://sourceforge.net/projects/keepass/), [KeePassXC](https://keepassxc.org/) / [github](https://github.com/keepassxreboot/keepassxc), [MacPass](https://macpassapp.org/) / [apple] / [github](https://github.com/MacPass/MacPass) [...](https://keepass.info/download.html)
+- [Pass](https://www.passwordstore.org/) / [QtPass](https://qtpass.org/) / [github](https://github.com/IJHack/QtPass) / [Pass for iOS](https://mssun.github.io/passforios/) / [apple] / [github](https://github.com/mssun/passforios) [...](https://www.passwordstore.org/#download)
+- [LessPass](https://www.lesspass.com/) / [github](https://github.com/lesspass/lesspass)
+- [AliasVault](https://www.aliasvault.net/) / [github](https://github.com/aliasvault/aliasvault)
+- [AuthPass](https://authpass.app/) / [github](https://github.com/authpass/authpass)
 
 ::: details
 
@@ -109,10 +109,10 @@
 
 ## Uninstallers
 
-- [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) / <Icon src="windows" /> / <Icon href="https://github.com/Klocman/Bulk-Crap-Uninstaller" src="github" />
-- [Pearcleaner](https://itsalin.com/appInfo/?id=pearcleaner) / <Icon src="apple" /> / <Icon href="https://github.com/alienator88/Pearcleaner" src="github" />
-- Remove MS Edge / <Icon src="windows" /> / <Icon href="https://github.com/ShadowWhisperer/Remove-MS-Edge" src="github" />
-- ShizuTools / <Icon src="android2" /> / <Icon href="https://github.com/legendsayantan/ShizuTools" src="github" />
+- [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) / [windows] / [github](https://github.com/Klocman/Bulk-Crap-Uninstaller)
+- [Pearcleaner](https://itsalin.com/appInfo/?id=pearcleaner) / [apple] / [github](https://github.com/alienator88/Pearcleaner)
+- Remove MS Edge / [windows] / [github](https://github.com/ShadowWhisperer/Remove-MS-Edge)
+- ShizuTools / [android] / [github](https://github.com/legendsayantan/ShizuTools)
 
 ::: details
 
@@ -122,12 +122,12 @@
 
 ## Utility software
 
-- [Microsoft PowerToys](https://learn.microsoft.com/windows/powertoys/) / <Icon src="windows" /> / <Icon href="https://github.com/microsoft/powertoys" src="github" />
-- [WinUtil](https://winutil.christitus.com/) / <Icon src="windows" /> / <Icon href="https://github.com/christitustech/winutil" src="github" />
-- [Ice](https://icemenubar.app/) / <Icon src="apple" /> / <Icon href="https://github.com/jordanbaird/Ice" src="github" />
-- [AltTab](https://alt-tab-macos.netlify.app/) / <Icon src="apple" /> / <Icon href="https://github.com/lwouis/alt-tab-macos" src="github" />
-- [Mac Mouse Fix](https://macmousefix.com/) / <Icon src="apple" /> / <Icon href="https://github.com/noah-nuebling/mac-mouse-fix" src="github" />
-- [ZTools](https://ztoolscenter.github.io/ZTools-doc/) / <Icon href="https://github.com/ZToolsCenter/ZTools" src="github" />
+- [Microsoft PowerToys](https://learn.microsoft.com/windows/powertoys/) / [windows] / [github](https://github.com/microsoft/powertoys)
+- [WinUtil](https://winutil.christitus.com/) / [windows] / [github](https://github.com/christitustech/winutil)
+- [Ice](https://icemenubar.app/) / [apple] / [github](https://github.com/jordanbaird/Ice)
+- [AltTab](https://alt-tab-macos.netlify.app/) / [apple] / [github](https://github.com/lwouis/alt-tab-macos)
+- [Mac Mouse Fix](https://macmousefix.com/) / [apple] / [github](https://github.com/noah-nuebling/mac-mouse-fix)
+- [ZTools](https://ztoolscenter.github.io/ZTools-doc/) / [github](https://github.com/ZToolsCenter/ZTools)
 
 ::: details
 
@@ -137,9 +137,9 @@
 
 ## Virtual machines
 
-- [VirtualBox](https://www.virtualbox.org/) / <Icon href="https://github.com/VirtualBox/virtualbox" src="github" />
-- [QEMU](https://github.com/qemu/QEMU) / <Icon href="https://github.com/qemu/QEMU" src="github" />, [Quickemu](https://quickemu-project.github.io/) / <Icon href="https://github.com/quickemu-project/quickemu" src="github" />
-- [UTM](https://getutm.app/) / <Icon src="apple" /> / <Icon href="https://github.com/utmapp/UTM" src="github" />
+- [VirtualBox](https://www.virtualbox.org/) / [github](https://github.com/VirtualBox/virtualbox)
+- [QEMU](https://github.com/qemu/QEMU) / [github](https://github.com/qemu/QEMU), [Quickemu](https://quickemu-project.github.io/) / [github](https://github.com/quickemu-project/quickemu)
+- [UTM](https://getutm.app/) / [apple] / [github](https://github.com/utmapp/UTM)
 
 ::: details
 

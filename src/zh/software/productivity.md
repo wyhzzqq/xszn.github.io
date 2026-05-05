@@ -2,11 +2,11 @@
 
 ## 自动化软件
 
-- [Automa](https://extension.automa.site/) / <Icon src="browser-chrome" /> / <Icon href="https://github.com/AutomaApp/automa" src="github" />
-- [AutoHotkey](https://www.autohotkey.com/) / <Icon src="windows" /> / <Icon href="https://github.com/AutoHotkey/AutoHotkey" src="github" />, [RMT](https://zclucas.github.io/RMT/) / <Icon src="windows" /> / <Icon href="https://github.com/zclucas/RMT" src="github" />
-- [Ui.Vision](https://ui.vision/) - RPA / <Icon src="browser-chrome" /> / <Icon href="https://github.com/A9T9/RPA" src="github" />
-- Episode-ReName / <Icon href="https://github.com/Nriver/Episode-ReName" src="github" />
-- [Blur Auto Clicker](https://blur009.vercel.app/projects/blur-autoclicker) / <Icon src="windows" /> / <Icon href="https://github.com/Blur009/Blur-AutoClicker" src="github" />
+- [Automa](https://extension.automa.site/) / [extension] / [github](https://github.com/AutomaApp/automa)
+- [AutoHotkey](https://www.autohotkey.com/) / [windows] / [github](https://github.com/AutoHotkey/AutoHotkey), [RMT](https://zclucas.github.io/RMT/) / [windows] / [github](https://github.com/zclucas/RMT)
+- [Ui.Vision](https://ui.vision/) - RPA / [extension] / [github](https://github.com/A9T9/RPA)
+- Episode-ReName / [github](https://github.com/Nriver/Episode-ReName)
+- [Blur Auto Clicker](https://blur009.vercel.app/projects/blur-autoclicker) / [windows] / [github](https://github.com/Blur009/Blur-AutoClicker)
 
 ::: details
 
@@ -16,19 +16,19 @@
 
 ## 桌面搜索工具
 
-- [Everything](https://www.voidtools.com/) - nonfree / <Icon src="windows" />
-- [DocFetcher](https://docfetcher.sourceforge.io/) / <Icon href="https://sourceforge.net/projects/docfetcher/" src="sourceforge" />
-- Cardinal / <Icon src="apple" /> / <Icon href="https://github.com/cardisoft/cardinal" src="github" />
-- [dnGrep](https://dngrep.github.io/) / <Icon src="windows" /> / <Icon href="https://github.com/dnGrep/dnGrep" src="github" />
-- [AnyTXT Searcher](https://anytxt.net/) - nonfree / <Icon src="windows" />
-- [XiaoyaoSearch](https://project.xiaoyaosai.com/product/xiaoyaosearch/) / <Icon href="https://github.com/dtsola/xiaoyaosearch" src="github" />
+- [Everything](https://www.voidtools.com/) - nonfree / [windows]
+- [DocFetcher](https://docfetcher.sourceforge.io/) / [sourceforge](https://sourceforge.net/projects/docfetcher/)
+- Cardinal / [apple] / [github](https://github.com/cardisoft/cardinal)
+- [dnGrep](https://dngrep.github.io/) / [windows] / [github](https://github.com/dnGrep/dnGrep)
+- [AnyTXT Searcher](https://anytxt.net/) - nonfree / [windows]
+- [XiaoyaoSearch](https://project.xiaoyaosai.com/product/xiaoyaosearch/) / [github](https://github.com/dtsola/xiaoyaosearch)
 
 ## 开发者工具
 
-- [DevToys](https://devtoys.app/) / <Icon href="https://github.com/DevToys-app/DevToys" src="github" />
-- [OmniTools](https://omnitools.app/) / <Icon src="globe2" /> / <Icon href="https://github.com/iib0011/omni-tools" src="github" />
-- [IT Tools](https://it-tools.tech/) / <Icon src="globe2" /> / <Icon href="https://github.com/corentinth/it-tools" src="github" />
-- Dev Toolbox / <Icon src="tux" /> / <Icon href="https://github.com/aleiepure/devtoolbox" src="github" />
+- [DevToys](https://devtoys.app/) / [github](https://github.com/DevToys-app/DevToys)
+- [OmniTools](https://omnitools.app/) / [web] / [github](https://github.com/iib0011/omni-tools)
+- [IT Tools](https://it-tools.tech/) / [web] / [github](https://github.com/corentinth/it-tools)
+- Dev Toolbox / [linux] / [github](https://github.com/aleiepure/devtoolbox)
 
 ::: details
 
@@ -38,10 +38,10 @@
 
 ## 流程图软件
 
-- [draw.io](https://www.drawio.com/) / <Icon href="https://github.com/jgraph/drawio" src="github" />, [Next AI Draw.io](https://next-ai-drawio.jiang.jp/) / <Icon href="https://github.com/DayuanJiang/next-ai-draw-io" src="github" />
-- [Mermaid](https://mermaid.ai/open-source/) / <Icon src="globe2" /> / <Icon href="https://github.com/mermaid-js/mermaid" src="github" />
-- [Excalidraw](https://excalidraw.com/) / <Icon src="globe2" /> / <Icon href="https://github.com/excalidraw/excalidraw" src="github" />
-- [JSON Crack](https://jsoncrack.com/) / <Icon src="globe2" /> /<Icon href="https://github.com/AykutSarac/jsoncrack.com" src="github" />
+- [draw.io](https://www.drawio.com/) / [github](https://github.com/jgraph/drawio), [Next AI Draw.io](https://next-ai-drawio.jiang.jp/) / [github](https://github.com/DayuanJiang/next-ai-draw-io)
+- [Mermaid](https://mermaid.ai/open-source/) / [web] / [github](https://github.com/mermaid-js/mermaid)
+- [Excalidraw](https://excalidraw.com/) / [web] / [github](https://github.com/excalidraw/excalidraw)
+- [JSON Crack](https://jsoncrack.com/) / [web] /[github](https://github.com/AykutSarac/jsoncrack.com)
 
 ::: details
 
@@ -53,18 +53,18 @@
 
 ## 文件转换器
 
-- [File Converter](https://file-converter.io/) / <Icon src="windows" /> / <Icon href="https://github.com/Tichau/FileConverter" src="github" />
-- [Pandoc](https://pandoc.org/) / <Icon href="https://github.com/jgm/pandoc" src="github" />
-- [VERT](https://vert.sh/) / <Icon src="globe2" /> / <Icon href="https://github.com/VERT-sh/vert" src="github" />
-- [Convert to it!](https://p2r3.github.io/convert/) / <Icon src="globe2" /> / <Icon href="https://github.com/p2r3/convert" src="github" />
+- [File Converter](https://file-converter.io/) / [windows] / [github](https://github.com/Tichau/FileConverter)
+- [Pandoc](https://pandoc.org/) / [github](https://github.com/jgm/pandoc)
+- [VERT](https://vert.sh/) / [web] / [github](https://github.com/VERT-sh/vert)
+- [Convert to it!](https://p2r3.github.io/convert/) / [web] / [github](https://github.com/p2r3/convert)
 
 ## 文件同步工具
 
-- [Syncthing](https://syncthing.net/) / <Icon href="https://github.com/syncthing/syncthing" src="github" />
-- [Unison](https://www.cis.upenn.edu/~bcpierce/unison/) / <Icon href="https://github.com/bcpierce00/unison" src="github" />
-- [FreeFileSync](https://freefilesync.org/) / <Icon href="https://github.com/hkneptune/FreeFileSync" src="github" />
-- TaoSync - Sync for OpenList/AList / <Icon href="https://github.com/dr34m-cn/taosync" src="github" />
-- [Seafile](https://www.seafile.com/) / <Icon href="https://github.com/haiwen/seafile" src="github" />
+- [Syncthing](https://syncthing.net/) / [github](https://github.com/syncthing/syncthing)
+- [Unison](https://www.cis.upenn.edu/~bcpierce/unison/) / [github](https://github.com/bcpierce00/unison)
+- [FreeFileSync](https://freefilesync.org/) / [github](https://github.com/hkneptune/FreeFileSync)
+- TaoSync - Sync for OpenList/AList / [github](https://github.com/dr34m-cn/taosync)
+- [Seafile](https://www.seafile.com/) / [github](https://github.com/haiwen/seafile)
 
 ::: details
 
@@ -75,12 +75,12 @@
 ## 本地 LLM 工具
 
 - [Ollama](https://ollama.com/) / <Icon href="" src="github" />
-- [AnythingLLM](https://anythingllm.com/) / <Icon href="https://github.com/Mintplex-Labs/anything-llm" src="github" />
-- [Jan](https://www.jan.ai/) / <Icon href="https://github.com/janhq/jan" src="github" />
-- [Cherry Studio](https://www.cherry-ai.com/) / <Icon href="https://github.com/CherryHQ/cherry-studio" src="github" />
-- [LM Studio](https://lmstudio.ai/) / <Icon href="https://github.com/lmstudio-ai" src="github" />
-- [LocalAI](https://localai.io/) / <Icon href="https://github.com/mudler/localai" src="github" />
-- [llamafile](https://docs.mozilla.ai/llamafile) / <Icon href="https://github.com/mozilla-ai/llamafile" src="github" />
+- [AnythingLLM](https://anythingllm.com/) / [github](https://github.com/Mintplex-Labs/anything-llm)
+- [Jan](https://www.jan.ai/) / [github](https://github.com/janhq/jan)
+- [Cherry Studio](https://www.cherry-ai.com/) / [github](https://github.com/CherryHQ/cherry-studio)
+- [LM Studio](https://lmstudio.ai/) / [github](https://github.com/lmstudio-ai)
+- [LocalAI](https://localai.io/) / [github](https://github.com/mudler/localai)
+- [llamafile](https://docs.mozilla.ai/llamafile) / [github](https://github.com/mozilla-ai/llamafile)
 
 ::: details
 
@@ -90,10 +90,10 @@
 
 ## 办公软件
 
-- [OnlyOffice](https://www.onlyoffice.com/) / <Icon href="https://github.com/ONLYOFFICE/DesktopEditors" src="github" />
-- [LibreOffice](https://www.libreoffice.org/) / <Icon href="https://github.com/LibreOffice/core" src="github" />
-- [OpenOffice](https://www.openoffice.org/) / <Icon href="https://github.com/apache/openoffice" src="github" />
-- [Collabora Office](https://collaboraonline.github.io/) / <Icon href="https://github.com/CollaboraOnline/online" src="github" />
+- [OnlyOffice](https://www.onlyoffice.com/) / [github](https://github.com/ONLYOFFICE/DesktopEditors)
+- [LibreOffice](https://www.libreoffice.org/) / [github](https://github.com/LibreOffice/core)
+- [OpenOffice](https://www.openoffice.org/) / [github](https://github.com/apache/openoffice)
+- [Collabora Office](https://collaboraonline.github.io/) / [github](https://github.com/CollaboraOnline/online)
 
 ::: details
 
@@ -102,9 +102,9 @@
 
 ## 语音识别转文字
 
-- [Handy](https://handy.computer/) / <Icon href="https://github.com/cjpais/handy" src="github" />
-- [pyVideoTrans](https://pyvideotrans.com/) / <Icon src="windows" /> / <Icon href="https://github.com/jianchang512/stt" src="github" />
-- [Vibe](https://thewh1teagle.github.io/vibe/) / <Icon href="https://github.com/thewh1teagle/vibe" src="github" />
+- [Handy](https://handy.computer/) / [github](https://github.com/cjpais/handy)
+- [pyVideoTrans](https://pyvideotrans.com/) / [windows] / [github](https://github.com/jianchang512/stt)
+- [Vibe](https://thewh1teagle.github.io/vibe/) / [github](https://github.com/thewh1teagle/vibe)
 
 ::: details
 
@@ -114,37 +114,37 @@
 
 ## PDF 软件
 
-- [BentoPDF](https://bentopdf.com/) / <Icon src="globe2" /> / <Icon href="https://github.com/alam00000/bentopdf" src="github" />
+- [BentoPDF](https://bentopdf.com/) / [web] / [github](https://github.com/alam00000/bentopdf)
 - [PDF24 Tools](https://tools.pdf24.org/) - nonfree
-- [pdfforge](https://www.pdfforge.org/) / <Icon href="windows" src="github" /> / <Icon href="https://github.com/pdfforge/pdfcreator" src="github" />
+- [pdfforge](https://www.pdfforge.org/) / [github](windows) / [github](https://github.com/pdfforge/pdfcreator)
 
 ### PDF 生成器
 
-- [Stirling PDF](https://www.stirling.com/) / <Icon href="https://github.com/Stirling-Tools/stirling-pdf" src="github" />
-- [PDF Craft](https://inkora.oomol.com/) / <Icon href="https://github.com/oomol-lab/pdf-craft" src="github" />
-- [PDFPatcher](https://www.cnblogs.com/pdfpatcher) / <Icon src="windows" /> / <Icon href="https://github.com/wmjordan/PDFPatcher" src="github" />
+- [Stirling PDF](https://www.stirling.com/) / [github](https://github.com/Stirling-Tools/stirling-pdf)
+- [PDF Craft](https://inkora.oomol.com/) / [github](https://github.com/oomol-lab/pdf-craft)
+- [PDFPatcher](https://www.cnblogs.com/pdfpatcher) / [windows] / [github](https://github.com/wmjordan/PDFPatcher)
 
 ### PDF 查看器
 
-- [Sumatra PDF](https://www.sumatrapdfreader.org/) / <Icon src="windows" /> / <Icon href="https://github.com/sumatrapdfreader/sumatrapdf" src="github" />
-- [Okular](https://okular.kde.org/) / <Icon href="https://github.com/KDE/okular" src="github" />
-- [Pympress](https://pympress.github.io/) / <Icon href="https://github.com/Cimbali/pympress" src="github" />
-- PdfViewer / <Icon src="android2" /> / <Icon href="https://github.com/GrapheneOS/PdfViewer" src="github" />
-- [Sioyek](https://sioyek.info/) / <Icon href="https://github.com/ahrm/sioyek" src="github" />
+- [Sumatra PDF](https://www.sumatrapdfreader.org/) / [windows] / [github](https://github.com/sumatrapdfreader/sumatrapdf)
+- [Okular](https://okular.kde.org/) / [github](https://github.com/KDE/okular)
+- [Pympress](https://pympress.github.io/) / [github](https://github.com/Cimbali/pympress)
+- PdfViewer / [android] / [github](https://github.com/GrapheneOS/PdfViewer)
+- [Sioyek](https://sioyek.info/) / [github](https://github.com/ahrm/sioyek)
 
 ### PDF 编辑器
 
-- [PDF4QT](https://jakubmelka.github.io/) / <Icon href="https://github.com/JakubMelka/PDF4QT" src="github" />
-- [KillerPDF](https://pdf.killertools.net/) / <Icon src="windows" /> /<Icon href="https://github.com/SteveTheKiller/KillerPDF" src="github" />
-- [PaperKnife](https://potatameister.github.io/PaperKnife/) / <Icon href="https://github.com/potatameister/PaperKnife" src="github" />
+- [PDF4QT](https://jakubmelka.github.io/) / [github](https://github.com/JakubMelka/PDF4QT)
+- [KillerPDF](https://pdf.killertools.net/) / [windows] /[github](https://github.com/SteveTheKiller/KillerPDF)
+- [PaperKnife](https://potatameister.github.io/PaperKnife/) / [github](https://github.com/potatameister/PaperKnife)
 
 ### PDF 转换器
 
-- [MinerU](https://mineru.net/) / <Icon href="https://github.com/opendatalab/mineru" src="github" />
-- Every PDF / <Icon href="https://github.com/DDULDDUCK/every-pdf" src="github" />
-- Images To PDF / <Icon src="android2" /> / <Icon href="https://github.com/Swati4star/Images-to-PDF" src="github" />
-- [MarkPDFDown](https://markdown.fit/) / <Icon href="https://github.com/MarkPDFdown/markpdfdown-desktop" src="github" />
-- [PDFMathTranslate](https://pdf2zh.com/) / <Icon href="https://github.com/PDFMathTranslate/PDFMathTranslate" src="github" />
+- [MinerU](https://mineru.net/) / [github](https://github.com/opendatalab/mineru)
+- Every PDF / [github](https://github.com/DDULDDUCK/every-pdf)
+- Images To PDF / [android] / [github](https://github.com/Swati4star/Images-to-PDF)
+- [MarkPDFDown](https://markdown.fit/) / [github](https://github.com/MarkPDFdown/markpdfdown-desktop)
+- [PDFMathTranslate](https://pdf2zh.com/) / [github](https://github.com/PDFMathTranslate/PDFMathTranslate)
 
 ::: details
 
@@ -158,16 +158,16 @@
 
 ## 翻译软件
 
-- [Pot](https://pot-app.com/) / <Icon href="https://github.com/pot-app/pot-desktop" src="github" />
-- [CopyTranslator](https://copytranslator.github.io/) / <Icon href="https://github.com/CopyTranslator/CopyTranslator" src="github" />
-- Easydict / <Icon src="apple" /> / <Icon href="https://github.com/tisfeng/Easydict" src="github" />
-- RTranslator / <Icon src="android2" /> / <Icon href="https://github.com/niedev/RTranslator" src="github" />
-- NextAI Translator / <Icon href="https://github.com/nextai-translator/nextai-translator" src="github" />
-- [FluentRead](https://fluent.thinkstu.com/) / <Icon src="browser-chrome" /> / <Icon href="https://github.com/Bistutu/FluentRead" src="github" />
-- KISS Translator / <Icon src="browser-chrome" /> / <Icon href="https://github.com/fishjar/kiss-translator" src="github" />
-- [LunaTranslator](https://docs.lunatranslator.org/) / <Icon src="windows" /> / <Icon href="https://github.com/HIllya51/LunaTranslator" src="github" />
-- Caption Translator / <Icon href="https://github.com/cddqssc/Caption-Trans" src="github" />
-- [Bob](https://bobtranslate.com/) / <Icon src="apple" /> / <Icon href="https://github.com/ripperhe/Bob" src="github" />
+- [Pot](https://pot-app.com/) / [github](https://github.com/pot-app/pot-desktop)
+- [CopyTranslator](https://copytranslator.github.io/) / [github](https://github.com/CopyTranslator/CopyTranslator)
+- Easydict / [apple] / [github](https://github.com/tisfeng/Easydict)
+- RTranslator / [android] / [github](https://github.com/niedev/RTranslator)
+- NextAI Translator / [github](https://github.com/nextai-translator/nextai-translator)
+- [FluentRead](https://fluent.thinkstu.com/) / [extension] / [github](https://github.com/Bistutu/FluentRead)
+- KISS Translator / [extension] / [github](https://github.com/fishjar/kiss-translator)
+- [LunaTranslator](https://docs.lunatranslator.org/) / [windows] / [github](https://github.com/HIllya51/LunaTranslator)
+- Caption Translator / [github](https://github.com/cddqssc/Caption-Trans)
+- [Bob](https://bobtranslate.com/) / [apple] / [github](https://github.com/ripperhe/Bob)
 
 ::: details
 
@@ -177,12 +177,12 @@
 
 ## 电子邮件客户端
 
-- [Thunderbird](https://www.thunderbird.net/) / <Icon href="https://github.com/thunderbird" src="github" />
-- [Mailspring](https://www.getmailspring.com/) / <Icon href="https://github.com/foundry376/mailspring" src="github" />
-- [Tuta Mail](https://tuta.com/) / <Icon href="https://github.com/tutao/tutanota" src="github" />
-- [Kanmail](https://kanmail.io/) / <Icon href="https://github.com/Oxygem/Kanmail" src="github" />
-- [Velo](https://velomail.app/) / <Icon href="https://github.com/avihaymenahem/velo" src="github" />
-- [EmailEngine](https://emailengine.app/) - Headless email client / <Icon href="https://github.com/postalsys/emailengine" src="github" />
+- [Thunderbird](https://www.thunderbird.net/) / [github](https://github.com/thunderbird)
+- [Mailspring](https://www.getmailspring.com/) / [github](https://github.com/foundry376/mailspring)
+- [Tuta Mail](https://tuta.com/) / [github](https://github.com/tutao/tutanota)
+- [Kanmail](https://kanmail.io/) / [github](https://github.com/Oxygem/Kanmail)
+- [Velo](https://velomail.app/) / [github](https://github.com/avihaymenahem/velo)
+- [EmailEngine](https://emailengine.app/) - Headless email client / [github](https://github.com/postalsys/emailengine)
 
 ::: details
 
@@ -192,9 +192,9 @@
 
 ## OCR 软件
 
-- [PaddleOCR](https://aistudio.baidu.com/paddleocr) / <Icon href="https://github.com/PaddlePaddle/PaddleOCR" src="github" />
-- Umi-ORC / <Icon href="https://github.com/hiroi-sora/Umi-OCR" src="github" />
-- [Text Grab](https://textgrab.net/) / <Icon href="https://github.com/TheJoeFin/Text-Grab" src="github" />
+- [PaddleOCR](https://aistudio.baidu.com/paddleocr) / [github](https://github.com/PaddlePaddle/PaddleOCR)
+- Umi-ORC / [github](https://github.com/hiroi-sora/Umi-OCR)
+- [Text Grab](https://textgrab.net/) / [github](https://github.com/TheJoeFin/Text-Grab)
 
 ::: details
 

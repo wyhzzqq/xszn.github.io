@@ -1,4 +1,5 @@
 import tailwindcss from "@tailwindcss/vite";
+import iconLink from "../theme/plugins/icon-link.js";
 
 // 不要“/”结尾
 const siteUrl = "https://xszn.org";
@@ -7,6 +8,9 @@ export default {
   srcDir: "./src",
   lastUpdated: true,
   markdown: {
+    config: (md) => {
+      md.use(iconLink);
+    },
     image: {
       lazyLoading: true,
     },

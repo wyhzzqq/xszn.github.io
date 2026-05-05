@@ -2,10 +2,10 @@
 
 ## 广告拦截器
 
-- [AdBlock](https://getadblock.com/), [Adblock Plus](https://adblockplus.org/) / <Icon src="browser-chrome" /> / <Icon href="https://gitlab.com/eyeo/browser-extensions-and-premium/extensions/extensions" src="gitlab" />
-- [uBlock Origin](https://ublockorigin.com/) / <Icon src="browser-chrome" /> / <Icon href="https://github.com/gorhill/uBlock" src="github" />
-- [SponsorBlock](https://sponsor.ajay.app/) / <Icon src="browser-chrome" /> / <Icon href="https://github.com/ajayyy/SponsorBlock" src="github" />
-- [AdAway](https://adaway.org/) / <Icon src="android2" /> / <Icon href="https://github.com/AdAway/AdAway" src="github" />
+- [AdBlock](https://getadblock.com/), [Adblock Plus](https://adblockplus.org/) / [extension] / [gitlab](https://gitlab.com/eyeo/browser-extensions-and-premium/extensions/extensions)
+- [uBlock Origin](https://ublockorigin.com/) / [extension] / [github](https://github.com/gorhill/uBlock)
+- [SponsorBlock](https://sponsor.ajay.app/) / [extension] / [github](https://github.com/ajayyy/SponsorBlock)
+- [AdAway](https://adaway.org/) / [android] / [github](https://github.com/AdAway/AdAway)
 
 ::: details
 
@@ -15,10 +15,10 @@
 
 ## AI 助手
 
-- [Tabby](https://www.tabbyml.com/) / <Icon href="https://github.com/TabbyML/tabby" src="github" />
-- [QwenPaw](https://qwenpaw.agentscope.io/) / <Icon href="https://github.com/agentscope-ai/QwenPaw" src="github" />
-- [Page Assist](https://pageassist.xyz/) / <Icon href="https://github.com/n4ze3m/page-assist" src="github" />
-- [AingDesk](https://www.aingdesk.com/) / <Icon href="https://github.com/aingdesk/AingDesk" src="github" />
+- [Tabby](https://www.tabbyml.com/) / [github](https://github.com/TabbyML/tabby)
+- [QwenPaw](https://qwenpaw.agentscope.io/) / [github](https://github.com/agentscope-ai/QwenPaw)
+- [Page Assist](https://pageassist.xyz/) / [github](https://github.com/n4ze3m/page-assist)
+- [AingDesk](https://www.aingdesk.com/) / [github](https://github.com/aingdesk/AingDesk)
 
 ::: details
 
@@ -27,15 +27,15 @@
 
 ## 验证码识别工具
 
-- Buster / <Icon src="browser-chrome" /> / <Icon href="https://github.com/dessant/buster" src="github" />
-- [NopeCHA](https://nopecha.com/) / <Icon src="browser-chrome" /> / <Icon href="https://github.com/NopeCHALLC/nopecha-extension" src="github" />
+- Buster / [extension] / [github](https://github.com/dessant/buster)
+- [NopeCHA](https://nopecha.com/) / [extension] / [github](https://github.com/NopeCHALLC/nopecha-extension)
 
 ## 下载管理器
 
 - [JDownloader](https://jdownloader.org/)
-- [Motrix](https://motrix.app/) / <Icon href="https://github.com/agalwood/Motrix" src="github" />, [Motrix Next](https://motrix-next.pages.dev/) / <Icon href="https://github.com/AnInsomniacy/motrix-next" src="github" />
-- [AB Download Manager](https://abdownloadmanager.com/) / <Icon href="https://github.com/amir1376/ab-download-manager" src="github" />
-- [Gopeed](https://gopeed.com/) / <Icon href="https://github.com/GopeedLab/gopeed" src="github" />
+- [Motrix](https://motrix.app/) / [github](https://github.com/agalwood/Motrix), [Motrix Next](https://motrix-next.pages.dev/) / [github](https://github.com/AnInsomniacy/motrix-next)
+- [AB Download Manager](https://abdownloadmanager.com/) / [github](https://github.com/amir1376/ab-download-manager)
+- [Gopeed](https://gopeed.com/) / [github](https://github.com/GopeedLab/gopeed)
 
 ::: details
 
@@ -45,10 +45,10 @@
 
 ## 文件传输工具
 
-- [LocalSend](https://localsend.org/) / <Icon href="https://github.com/localsend/localsend" src="github" />
-- [Croc](https://infinitedigits.co/croc/) / <Icon src="terminal-fill" /> / <Icon href="https://github.com/schollz/croc" src="github" />
-- B0Pass / <Icon src="terminal-fill" /> / <Icon href="https://github.com/jinsi-ai/b0pass" src="github" />
-- FlyingCarpet / <Icon src="android2" /> / <Icon href="https://github.com/spieglt/FlyingCarpet" src="github" />
+- [LocalSend](https://localsend.org/) / [github](https://github.com/localsend/localsend)
+- [Croc](https://infinitedigits.co/croc/) / [cli] / [github](https://github.com/schollz/croc)
+- B0Pass / [cli] / [github](https://github.com/jinsi-ai/b0pass)
+- FlyingCarpet / [android] / [github](https://github.com/spieglt/FlyingCarpet)
 
 ::: details
 
@@ -60,10 +60,10 @@
 ### FTP 客户端
 
 - [FileZilla](https://filezilla-project.org/)
-- [WinSCP](https://winscp.net/) / <Icon src="windows" /> / <Icon href="https://github.com/winscp/winscp" src="github" />
-- [Cyberduck](https://cyberduck.io/) / <Icon href="https://github.com/iterate-ch/cyberduck" src="github" />
-- [File Centipede](https://filecxx.com/) / <Icon href="https://github.com/filecxx/FileCentipede" src="github" />
-- Termscp / <Icon src="terminal-fill" /> / <Icon href="https://github.com/veeso/termscp" src="github" />
+- [WinSCP](https://winscp.net/) / [windows] / [github](https://github.com/winscp/winscp)
+- [Cyberduck](https://cyberduck.io/) / [github](https://github.com/iterate-ch/cyberduck)
+- [File Centipede](https://filecxx.com/) / [github](https://github.com/filecxx/FileCentipede)
+- Termscp / [cli] / [github](https://github.com/veeso/termscp)
 
 ::: details
 
@@ -73,8 +73,8 @@
 
 ## 智能家居软件
 
-- [Home Assistant](https://www.home-assistant.io/) / <Icon href="https://github.com/home-assistant" src="github" />
-- [openHAB](https://www.openhab.org/) / <Icon href="https://github.com/openhab" src="github" />
+- [Home Assistant](https://www.home-assistant.io/) / [github](https://github.com/home-assistant)
+- [openHAB](https://www.openhab.org/) / [github](https://github.com/openhab)
 
 ::: details
 
@@ -84,11 +84,11 @@
 
 ## 代理软件
 
-- [Mihomo](https://wiki.metacubex.one/) / <Icon href="https://wiki.metacubex.one/startup/client/client/" src="folder-fill" /> / <Icon href="https://github.com/MetaCubeX/mihomo" src="github" />
-- [Xray](https://xtls.github.io/) / <Icon href="https://xtls.github.io/en/document/install.html#graphical-clients" src="folder-fill" /> / <Icon href="https://github.com/XTLS/Xray-core" src="github" />
-- [Hysteria](https://v2.hysteria.network/) / <Icon href="https://v2.hysteria.network/docs/getting-started/3rd-party-apps/" src="folder-fill" /> / <Icon href="https://github.com/apernet/hysteria" src="github" />
-- [V2Ray](https://www.v2fly.org/) / <Icon href="https://www.v2fly.org/en_US/awesome/tools.html" src="folder-fill" /> / <Icon href="https://github.com/v2fly" src="github" />
-- [Shadowsocks](https://shadowsocks.org/) / <Icon href="https://shadowsocks.org/doc/getting-started.html#gui-clients" src="folder-fill" /> / <Icon href="https://github.com/shadowsocks" src="github" />
+- [Mihomo](https://wiki.metacubex.one/) / [Indexes](https://wiki.metacubex.one/startup/client/client/) / [github](https://github.com/MetaCubeX/mihomo)
+- [Xray](https://xtls.github.io/) / [Indexes](https://xtls.github.io/en/document/install.html#graphical-clients) / [github](https://github.com/XTLS/Xray-core)
+- [Hysteria](https://v2.hysteria.network/) / [Indexes](https://v2.hysteria.network/docs/getting-started/3rd-party-apps/) / [github](https://github.com/apernet/hysteria)
+- [V2Ray](https://www.v2fly.org/) / [Indexes](https://www.v2fly.org/en_US/awesome/tools.html) / [github](https://github.com/v2fly)
+- [Shadowsocks](https://shadowsocks.org/) / [Indexes](https://shadowsocks.org/doc/getting-started.html#gui-clients) / [github](https://github.com/shadowsocks)
 
 ::: details
 
@@ -98,10 +98,10 @@
 
 ## 远程桌面软件
 
-- [RustDesk](https://rustdesk.com/) / <Icon href="https://github.com/rustdesk/rustdesk" src="github" />
-- [FreeRDP](https://www.freerdp.com/) / <Icon src="terminal-fill" /> / <Icon href="https://github.com/FreeRDP/FreeRDP" src="github" />, [Remmina](https://remmina.org/) / <Icon src="tux" /> / <Icon href="https://github.com/freerdp/remmina" src="github" />
-- [TightVNC](https://www.tightvnc.com/) / <Icon href="https://sourceforge.net/projects/vnc-tight/" src="sourceforge" />
-- [HopToDesk](https://www.hoptodesk.com/) / <Icon href="https://gitlab.com/hoptodesk/hoptodesk" src="gitlab" />
+- [RustDesk](https://rustdesk.com/) / [github](https://github.com/rustdesk/rustdesk)
+- [FreeRDP](https://www.freerdp.com/) / [cli] / [github](https://github.com/FreeRDP/FreeRDP), [Remmina](https://remmina.org/) / [linux] / [github](https://github.com/freerdp/remmina)
+- [TightVNC](https://www.tightvnc.com/) / [sourceforge](https://sourceforge.net/projects/vnc-tight/)
+- [HopToDesk](https://www.hoptodesk.com/) / [gitlab](https://gitlab.com/hoptodesk/hoptodesk)
 
 ::: details
 
@@ -111,10 +111,10 @@
 
 ## RSS 阅读器
 
-- [Folo](https://folo.is/) / <Icon href="https://github.com/RSSNext/folo" src="github" />
-- [NetNewsWire](https://netnewswire.com/) / <Icon src="apple" /> / <Icon href="https://github.com/Ranchero-Software/NetNewsWire/" src="github" />
-- [Fluent Reader](https://hyliu.me/fluent-reader/) / <Icon href="https://github.com/yang991178/fluent-reader" src="github" />
-- Glance / <Icon src="terminal-fill" /> / <Icon href="https://github.com/glanceapp/glance" src="github" />
+- [Folo](https://folo.is/) / [github](https://github.com/RSSNext/folo)
+- [NetNewsWire](https://netnewswire.com/) / [apple] / [github](https://github.com/Ranchero-Software/NetNewsWire/)
+- [Fluent Reader](https://hyliu.me/fluent-reader/) / [github](https://github.com/yang991178/fluent-reader)
+- Glance / [cli] / [github](https://github.com/glanceapp/glance)
 
 ::: details
 
@@ -124,9 +124,9 @@
 
 ## 投屏软件
 
-- Scrcpy / <Icon src="terminal-fill" /> / <Icon href="https://github.com/genymobile/scrcpy" src="github" />, QtScrcpy / <Icon href="https://github.com/barry-ran/qtscrcpy" src="github" />, [Escrcpy](https://viarotel.eu.org/) / <Icon href="https://github.com/viarotel-org/escrcpy" src="github" />
-- Weylus / <Icon href="https://github.com/H-M-H/Weylus" src="github" />
-- [PlainApp](https://plainapp.app/) / <Icon src="android2" /> / <Icon href="https://github.com/plainhub/plain-app" src="github" />
+- Scrcpy / [cli] / [github](https://github.com/genymobile/scrcpy), QtScrcpy / [github](https://github.com/barry-ran/qtscrcpy), [Escrcpy](https://viarotel.eu.org/) / [github](https://github.com/viarotel-org/escrcpy)
+- Weylus / [github](https://github.com/H-M-H/Weylus)
+- [PlainApp](https://plainapp.app/) / [android] / [github](https://github.com/plainhub/plain-app)
 
 ::: details
 

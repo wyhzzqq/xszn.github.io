@@ -2,13 +2,13 @@
 
 ## Audio player software
 
-- [MusicFree](https://musicfree.catcat.work/) / <Icon href="https://github.com/maotoumao/MusicFree" src="github" />
-- [Spotube](https://spotube.krtirtho.dev/) / <Icon href="https://github.com/KRTirtho/spotube" src="github" />
-- [LX Music](https://lxmusic.toside.cn/) / <Icon href="https://github.com/lyswhut/lx-music-desktop" src="github" />
-- [Listen 1](https://listen1.github.io/listen1/) / <Icon href="https://github.com/listen1" src="github" />
-- [Nuclear](https://nuclearplayer.com/) / <Icon href="https://github.com/nukeop/nuclear" src="github" />
-- [Navidrome](https://www.navidrome.org/) / <Icon href="https://github.com/navidrome/navidrome/" src="github" />
-- [Alger Music Player](http://music.alger.fun/) / <Icon href="https://github.com/algerkong/AlgerMusicPlayer" src="github" />
+- [MusicFree](https://musicfree.catcat.work/) / [github](https://github.com/maotoumao/MusicFree)
+- [Spotube](https://spotube.krtirtho.dev/) / [github](https://github.com/KRTirtho/spotube)
+- [LX Music](https://lxmusic.toside.cn/) / [github](https://github.com/lyswhut/lx-music-desktop)
+- [Listen 1](https://listen1.github.io/listen1/) / [github](https://github.com/listen1)
+- [Nuclear](https://nuclearplayer.com/) / [github](https://github.com/nukeop/nuclear)
+- [Navidrome](https://www.navidrome.org/) / [github](https://github.com/navidrome/navidrome/)
+- [Alger Music Player](http://music.alger.fun/) / [github](https://github.com/algerkong/AlgerMusicPlayer)
 
 ::: details
 
@@ -17,12 +17,12 @@
 
 ## Audio editors
 
-- [Audacity](https://www.audacityteam.org/) / <Icon href="https://github.com/audacity/audacity" src="github" />
-- [Auto-Editor](https://auto-editor.com/) / <Icon href="https://github.com/WyattBlue/auto-editor" src="github" />
-- [AudioMass](https://audiomass.co/) / <Icon src="globe2" /> / <Icon href="https://github.com/pkalogiros/audiomass" src="github" />
-- [Ardour](https://ardour.org/) / <Icon href="https://github.com/Ardour/ardour" src="github" />
-- [LMMS](https://lmms.io/) / <Icon href="https://github.com/lmms/lmms" src="github" />
-- audapolis / <Icon href="https://github.com/bugbakery/audapolis" src="github" />
+- [Audacity](https://www.audacityteam.org/) / [github](https://github.com/audacity/audacity)
+- [Auto-Editor](https://auto-editor.com/) / [github](https://github.com/WyattBlue/auto-editor)
+- [AudioMass](https://audiomass.co/) / [web] / [github](https://github.com/pkalogiros/audiomass)
+- [Ardour](https://ardour.org/) / [github](https://github.com/Ardour/ardour)
+- [LMMS](https://lmms.io/) / [github](https://github.com/lmms/lmms)
+- audapolis / [github](https://github.com/bugbakery/audapolis)
 
 ::: details
 
@@ -32,8 +32,8 @@
 
 ## Sound booster
 
-- [FxSound](https://www.fxsound.com/) / <Icon src="windows" /> / <Icon href="https://github.com/fxsound2/fxsound-app" src="github" />
-- BoostX / <Icon src="android2" /> / <Icon href="https://github.com/AumGupta/BoostX" src="github" />
+- [FxSound](https://www.fxsound.com/) / [windows] / [github](https://github.com/fxsound2/fxsound-app)
+- BoostX / [android] / [github](https://github.com/AumGupta/BoostX)
 
 ## Sound limiters
 
@@ -41,6 +41,6 @@
 
 ## Music Source Separation
 
-- [Ultimate Vocal Remover](https://ultimatevocalremover.com/) / <Icon href="https://github.com/Anjok07/ultimatevocalremovergui" src="github" />
-- Music Source Separation Training / <Icon href="https://github.com/ZFTurbo/Music-Source-Separation-Training" src="github" />
-- MSST-WebUI / <Icon href="https://github.com/SUC-DriverOld/MSST-WebUI" src="github" />
+- [Ultimate Vocal Remover](https://ultimatevocalremover.com/) / [github](https://github.com/Anjok07/ultimatevocalremovergui)
+- Music Source Separation Training / [github](https://github.com/ZFTurbo/Music-Source-Separation-Training)
+- MSST-WebUI / [github](https://github.com/SUC-DriverOld/MSST-WebUI)

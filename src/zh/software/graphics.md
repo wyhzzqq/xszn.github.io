@@ -2,13 +2,13 @@
 
 ## 图片压缩工具
 
-- [Caesium Image Compressor](https://saerasoft.com/caesium/) / <Icon href="https://github.com/Lymphatus/caesium-image-compressor" src="github" />, [CaesiumCLT](https://saerasoft.com/caesiumclt/) / <Icon src="terminal-fill" /> / <Icon href="https://github.com/Lymphatus/caesium-clt" src="github" />
-- Tiny Image / <Icon src="apple" /> / <Icon href="https://github.com/kyleduo/tinypng4mac" src="github" />
-- [CompressO](https://compresso.codeforreal.com/) / <Icon href="https://github.com/codeforreal1/compressO" src="github" />
-- [Oxipng](https://op111.net/posts/2025/09/png-compression-oxipng-optipng-fileoptimizer-cwebp/) / <Icon src="terminal-fill" /> / <Icon href="https://github.com/oxipng/oxipng" src="github" />
-- [MAZANOKE](https://mazanoke.com/) / <Icon src="globe2" /> / <Icon href="https://github.com/civilblur/mazanoke" src="github" />
-- PicSharp / <Icon href="https://github.com/AkiraBit/PicSharp" src="github" />
-- Curtail / <Icon src="tux" /> / <Icon href="https://github.com/Huluti/Curtail" src="github" />
+- [Caesium Image Compressor](https://saerasoft.com/caesium/) / [github](https://github.com/Lymphatus/caesium-image-compressor), [CaesiumCLT](https://saerasoft.com/caesiumclt/) / [cli] / [github](https://github.com/Lymphatus/caesium-clt)
+- Tiny Image / [apple] / [github](https://github.com/kyleduo/tinypng4mac)
+- [CompressO](https://compresso.codeforreal.com/) / [github](https://github.com/codeforreal1/compressO)
+- [Oxipng](https://op111.net/posts/2025/09/png-compression-oxipng-optipng-fileoptimizer-cwebp/) / [cli] / [github](https://github.com/oxipng/oxipng)
+- [MAZANOKE](https://mazanoke.com/) / [web] / [github](https://github.com/civilblur/mazanoke)
+- PicSharp / [github](https://github.com/AkiraBit/PicSharp)
+- Curtail / [linux] / [github](https://github.com/Huluti/Curtail)
 
 ::: details
 
@@ -19,11 +19,11 @@
 
 ## 图片编辑器
 
-- [GIMP](https://www.gimp.org/) / <Icon href="https://github.com/gnome/gimp" src="github" />
-- [Krita](https://krita.org/) / <Icon href="https://github.com/kde/krita" src="github" />
-- [Graphite](https://graphite.art/) / <Icon href="https://github.com/GraphiteEditor/Graphite" src="github" />
-- [PixiEditor](https://pixieditor.net/) / <Icon href="https://github.com/PixiEditor/PixiEditor" src="github" />
-- [VTracer](https://www.visioncortex.org/vtracer/) / <Icon href="https://github.com/visioncortex/vtracer" src="github" />
+- [GIMP](https://www.gimp.org/) / [github](https://github.com/gnome/gimp)
+- [Krita](https://krita.org/) / [github](https://github.com/kde/krita)
+- [Graphite](https://graphite.art/) / [github](https://github.com/GraphiteEditor/Graphite)
+- [PixiEditor](https://pixieditor.net/) / [github](https://github.com/PixiEditor/PixiEditor)
+- [VTracer](https://www.visioncortex.org/vtracer/) / [github](https://github.com/visioncortex/vtracer)
 
 ::: details
 
@@ -32,13 +32,13 @@
 
 ## 矢量图编辑工具
 
-- [Inkscape](https://inkscape.org/) / <Icon href="https://gitlab.com/inkscape/inkscape" src="gitlab" />
-- [Glaxnimate](https://glaxnimate.org/) / <Icon href="https://invent.kde.org/graphics/glaxnimate" src="gitlab" />
+- [Inkscape](https://inkscape.org/) / [gitlab](https://gitlab.com/inkscape/inkscape)
+- [Glaxnimate](https://glaxnimate.org/) / [gitlab](https://invent.kde.org/graphics/glaxnimate)
 
 ### SVG 编辑器
 
-- [GodSVG](https://www.godsvg.com/) / <Icon href="https://github.com/MewPurPur/GodSVG" src="github" />
-- [SvgPathEditor](https://yqnn.github.io/svg-path-editor/) / <Icon src="globe2" /> / <Icon href="https://github.com/Yqnn/svg-path-editor" src="github" />
+- [GodSVG](https://www.godsvg.com/) / [github](https://github.com/MewPurPur/GodSVG)
+- [SvgPathEditor](https://yqnn.github.io/svg-path-editor/) / [web] / [github](https://github.com/Yqnn/svg-path-editor)
 
 ::: details
 
@@ -48,16 +48,16 @@
 
 ## 图片查看器
 
-- [ImageGlass](https://imageglass.org/) / <Icon href="https://github.com/d2phap/imageglass" src="github" />
-- [qView](https://interversehq.com/qview/) / <Icon href="https://github.com/jurplel/qView" src="github" />
-- [PicView](https://picview.org/) / <Icon href="https://github.com/Ruben2776/PicView" src="github" />
-- [nomacs](https://nomacs.org/) / <Icon href="https://github.com/nomacs/nomacs" src="github" />
-- void Image Viewer / <Icon src="windows" /> / <Icon href="https://github.com/voidtools/voidImageViewer" src="github" />
-- tev / <Icon href="https://github.com/Tom94/tev" src="github" />
-- [FlowVision](https://flowvision.app/) / <Icon src="apple" /> / <Icon href="https://github.com/netdcy/FlowVision" src="github" />
-- [JarkViewer](https://jark006.github.io/JarkViewer/) / <Icon href="https://github.com/jark006/jarkViewer" src="github" />
-- [Quick Picture Viewer](https://moduleart.github.io/quickpictureviewer) / <Icon href="https://github.com/ModuleArt/quick-picture-viewer" src="github" />
-- [digiKam](https://www.digikam.org/) / <Icon href="https://invent.kde.org/graphics/digikam" src="gitlab" />
+- [ImageGlass](https://imageglass.org/) / [github](https://github.com/d2phap/imageglass)
+- [qView](https://interversehq.com/qview/) / [github](https://github.com/jurplel/qView)
+- [PicView](https://picview.org/) / [github](https://github.com/Ruben2776/PicView)
+- [nomacs](https://nomacs.org/) / [github](https://github.com/nomacs/nomacs)
+- void Image Viewer / [windows] / [github](https://github.com/voidtools/voidImageViewer)
+- tev / [github](https://github.com/Tom94/tev)
+- [FlowVision](https://flowvision.app/) / [apple] / [github](https://github.com/netdcy/FlowVision)
+- [JarkViewer](https://jark006.github.io/JarkViewer/) / [github](https://github.com/jark006/jarkViewer)
+- [Quick Picture Viewer](https://moduleart.github.io/quickpictureviewer) / [github](https://github.com/ModuleArt/quick-picture-viewer)
+- [digiKam](https://www.digikam.org/) / [gitlab](https://invent.kde.org/graphics/digikam)
 
 ::: details
 
@@ -67,11 +67,11 @@
 
 ## 截图工具
 
-- [ShareX](https://getsharex.com/) / <Icon src="windows" /> / <Icon href="https://github.com/ShareX/ShareX" src="github" />
-- [Flameshot](https://flameshot.org/) / <Icon href="https://github.com/flameshot-org/flameshot" src="github" />
-- [eSearch](https://esearch-app.netlify.app/) / <Icon href="https://github.com/xushengfeng/eSearch" src="github" />
-- [Greenshot](https://getgreenshot.org/) / <Icon src="windows" /> / <Icon href="https://github.com/greenshot/greenshot/" src="github" />
-- [Snow Shot](https://snowshot.top/) / <Icon href="https://github.com/mg-chao/snow-shot" src="github" />
+- [ShareX](https://getsharex.com/) / [windows] / [github](https://github.com/ShareX/ShareX)
+- [Flameshot](https://flameshot.org/) / [github](https://github.com/flameshot-org/flameshot)
+- [eSearch](https://esearch-app.netlify.app/) / [github](https://github.com/xushengfeng/eSearch)
+- [Greenshot](https://getgreenshot.org/) / [windows] / [github](https://github.com/greenshot/greenshot/)
+- [Snow Shot](https://snowshot.top/) / [github](https://github.com/mg-chao/snow-shot)
 
 ::: details
 
@@ -80,10 +80,10 @@
 
 ## 图像放大软件
 
-- [Upscayl](https://upscayl.org/) / <Icon href="https://github.com/upscayl/upscayl" src="github" />
-- [chaiNNer](https://chainner.app/) / <Icon href="https://github.com/chaiNNer-org/chaiNNer" src="github" />
-- Waifu2x-Extension-GUI / <Icon src="windows" /> / <Icon href="https://github.com/AaronFeng753/Waifu2x-Extension-GUI" src="github" />
-- RealSR-NCNN-Android / <Icon src="android2" /> / <Icon href="https://github.com/tumuyan/RealSR-NCNN-Android" src="github" />
+- [Upscayl](https://upscayl.org/) / [github](https://github.com/upscayl/upscayl)
+- [chaiNNer](https://chainner.app/) / [github](https://github.com/chaiNNer-org/chaiNNer)
+- Waifu2x-Extension-GUI / [windows] / [github](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
+- RealSR-NCNN-Android / [android] / [github](https://github.com/tumuyan/RealSR-NCNN-Android)
 
 ::: details
 

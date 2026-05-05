@@ -2,13 +2,13 @@
 
 ## 应用商店
 
-- [GitHub Store](https://github-store.org/) / <Icon href="https://github.com/OpenHub-Store/Github-Store" src="github" />
-- Mas / <Icon src="terminal-fill" /> / <Icon href="https://github.com/mas-cli/mas" src="github" />
-- [F-Droid](https://f-droid.org/) / <Icon src="android2" /> / <Icon href="https://github.com/f-droid/fdroidclient" src="github" />
-- [Aurora](https://auroraoss.com/) / <Icon src="android2" /> / <Icon href="https://gitlab.com/AuroraOSS/AuroraStore" src="gitlab" />
-- [Pi-Apps](https://pi-apps.io/) - Raspberry Pi / <Icon href="https://github.com/Botspot/pi-apps" src="github" />
-- [OpenStore](https://next.open-store.io/) - Ubuntu Touch / <Icon href="https://gitlab.com/theopenstore/openstore" src="gitlab" />
-- Neo Store / <Icon href="https://github.com/NeoApplications/Neo-Store" src="github" />
+- [GitHub Store](https://github-store.org/) / [github](https://github.com/OpenHub-Store/Github-Store)
+- Mas / [cli] / [github](https://github.com/mas-cli/mas)
+- [F-Droid](https://f-droid.org/) / [android] / [github](https://github.com/f-droid/fdroidclient)
+- [Aurora](https://auroraoss.com/) / [android] / [gitlab](https://gitlab.com/AuroraOSS/AuroraStore)
+- [Pi-Apps](https://pi-apps.io/) - Raspberry Pi / [github](https://github.com/Botspot/pi-apps)
+- [OpenStore](https://next.open-store.io/) - Ubuntu Touch / [gitlab](https://gitlab.com/theopenstore/openstore)
+- Neo Store / [github](https://github.com/NeoApplications/Neo-Store)
 
 ::: details
 
@@ -18,10 +18,10 @@
 
 ## Telegram 第三方
 
-- [AyuGram](https://docs.ayugram.one/) / <Icon href="https://github.com/AyuGram/AyuGramDesktop" src="github" />
-- [Unigram](https://unigramdev.github.io/) - WinUI / <Icon src="windows" /> / <Icon href="https://github.com/unigramdev/unigram" src="github" />
-- [Nekogram](https://nekogram.app/) / <Icon src="android2" /> / <Icon href="https://github.com/nextalone/nagram" src="github" />
-- Forkgram / <Icon src="android2" /> / <Icon href="https://github.com/forkgram/TelegramAndroid" src="github" />
+- [AyuGram](https://docs.ayugram.one/) / [github](https://github.com/AyuGram/AyuGramDesktop)
+- [Unigram](https://unigramdev.github.io/) - WinUI / [windows] / [github](https://github.com/unigramdev/unigram)
+- [Nekogram](https://nekogram.app/) / [android] / [github](https://github.com/nextalone/nagram)
+- Forkgram / [android] / [github](https://github.com/forkgram/TelegramAndroid)
 
 ::: details
 
@@ -31,11 +31,11 @@
 
 ## 流媒体下载工具
 
-- yt-dlp / <Icon src="terminal-fill" /> / <Icon href="https://github.com/yt-dlp/yt-dlp" src="github" />, Seal / <Icon src="android2" /> / <Icon href="https://github.com/JunkFood02/Seal" src="github" />, [ytDownloader](https://aandrew-me.github.io/ytDownloader/) / <Icon href="https://github.com/aandrew-me/ytDownloader" src="github" /> |
-- [res-downloader](https://res.putyy.com/) / <Icon href="https://github.com/putyy/res-downloader" src="github" />
-- [Cat Catch](https://o2bmm.gitbook.io/cat-catch) / <Icon href="https://github.com/xifangczy/cat-catch" src="github" />
-- [MediaGo](https://downloader.caorushizi.cn/) / <Icon href="https://github.com/caorushizi/mediago" src="github" />
-- [VidBee](https://vidbee.org/) / <Icon href="https://github.com/nexmoe/VidBee" src="github" />
+- yt-dlp / [cli] / [github](https://github.com/yt-dlp/yt-dlp), Seal / [android] / [github](https://github.com/JunkFood02/Seal), [ytDownloader](https://aandrew-me.github.io/ytDownloader/) / [github](https://github.com/aandrew-me/ytDownloader) |
+- [res-downloader](https://res.putyy.com/) / [github](https://github.com/putyy/res-downloader)
+- [Cat Catch](https://o2bmm.gitbook.io/cat-catch) / [github](https://github.com/xifangczy/cat-catch)
+- [MediaGo](https://downloader.caorushizi.cn/) / [github](https://github.com/caorushizi/mediago)
+- [VidBee](https://vidbee.org/) / [github](https://github.com/nexmoe/VidBee)
 
 ::: details
 
@@ -46,9 +46,9 @@
 
 ### YouTube 下载器
 
-- [youtube-dl](https://ytdl-org.github.io/youtube-dl/) / <Icon href="https://github.com/ytdl-org/youtube-dl" src="github" />
-- [Open Video Downloader](https://jely2002.github.io/youtube-dl-gui/) - youtube-dl GUI / <Icon href="https://github.com/jely2002/youtube-dl-gui" src="github" />
-- YoutubeDownloader / <Icon href="https://github.com/Tyrrrz/YoutubeDownloader" src="github" />
+- [youtube-dl](https://ytdl-org.github.io/youtube-dl/) / [github](https://github.com/ytdl-org/youtube-dl)
+- [Open Video Downloader](https://jely2002.github.io/youtube-dl-gui/) - youtube-dl GUI / [github](https://github.com/jely2002/youtube-dl-gui)
+- YoutubeDownloader / [github](https://github.com/Tyrrrz/YoutubeDownloader)
 
 ::: details
 
@@ -58,12 +58,12 @@
 
 ### YouTube 音乐第三方
 
-- Pear Desktop / <Icon href="https://github.com/pear-devs/pear-desktop" src="github" />
-- [Metrolist](https://metrolist.cc/) / <Icon src="android2" /> / <Icon href="https://github.com/MetrolistGroup/Metrolist" src="github" />
-- [SimpMusic](https://www.simpmusic.org/) / <Icon href="https://github.com/maxrave-dev/SimpMusic" src="github" />
-- InnerTune / <Icon src="android2" /> / <Icon href="https://github.com/z-huang/InnerTune" src="github" />
-- [YTMDesktop](https://ytmdesktop.github.io/) / <Icon href="https://github.com/ytmdesktop/ytmdesktop" src="github" />
-- OuterTune / <Icon href="https://github.com/OuterTune/OuterTune" src="github" />
+- Pear Desktop / [github](https://github.com/pear-devs/pear-desktop)
+- [Metrolist](https://metrolist.cc/) / [android] / [github](https://github.com/MetrolistGroup/Metrolist)
+- [SimpMusic](https://www.simpmusic.org/) / [github](https://github.com/maxrave-dev/SimpMusic)
+- InnerTune / [android] / [github](https://github.com/z-huang/InnerTune)
+- [YTMDesktop](https://ytmdesktop.github.io/) / [github](https://github.com/ytmdesktop/ytmdesktop)
+- OuterTune / [github](https://github.com/OuterTune/OuterTune)
 
 ::: details
 
