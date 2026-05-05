@@ -116,7 +116,7 @@
 
 - [BentoPDF](https://bentopdf.com/) / [web] / [github](https://github.com/alam00000/bentopdf)
 - [PDF24 Tools](https://tools.pdf24.org/) - nonfree
-- [pdfforge](https://www.pdfforge.org/) / [github](windows) / [github](https://github.com/pdfforge/pdfcreator)
+- [pdfforge](https://www.pdfforge.org/) / [github](https://github.com/pdfforge/pdfcreator)
 
 ### PDF 生成器
 
