@@ -4,22 +4,18 @@
 
 - [Ventoy](https://www.ventoy.net/) / <Icon href="https://github.com/ventoy/Ventoy" src="github" />
 - [Rufus](https://rufus.ie/) / <Icon src="windows" /> / <Icon href="https://github.com/pbatard/rufus" src="github" />
-- [BalenaEtcher](https://etcher.balena.io/) / <Icon href="https://github.com/balena-io/etcher" src="github" />
+- [Etcher](https://etcher.balena.io/) / <Icon href="https://github.com/balena-io/etcher" src="github" />
 - [WinDiskWriter](https://windiskwriter.com/) / <Icon src="apple" /> / <Icon href="https://github.com/TechUnRestricted/windiskwriter" src="github" />
 - [WoeUSB](https://woeusb.github.io/WoeUSB/) / <Icon src="tux" /> / <Icon href="https://woeusb.github.io/WoeUSB/" src="github" />, [WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) / <Icon src="tux" />
 - [微 PE 工具箱](https://www.wepe.com.cn/) - 免费软件 / <Icon src="windows" />
 
-## 数据恢复软件
+## 存储软件
+
+### 数据恢复软件
 
 - [TestDisk & PhotoRec](https://www.cgsecurity.org/) / <Icon href="https://github.com/cgsecurity/testdisk" src="github" />
 - RecoverPy / <Icon src="terminal-fill" /> / <Icon href="https://github.com/PabloLec/RecoverPy" src="github" />
 - Digler / <Icon href="https://github.com/ostafen/digler" src="github" />
-
-::: details
-
-1. [data-recovery · GitHub Topics](https://github.com/topics/data-recovery)
-2. [Category:Data recovery software - Wikipedia](https://en.wikipedia.org/wiki/Category:Data_recovery_software)
-   :::
 
 ## 桌面美化软件
 

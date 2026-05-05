@@ -14,7 +14,7 @@ feedback: false
 
 ## 参与贡献
 
-您可以通过以下方式在 [Google 表单](https://forms.gle/RaxoXNsXibcVUGTZ9)参与改进行书指南文档。
+您可以通过以下方式在 [GitHub Issues](https://github.com/xszn/xszn.github.io/issues)、[Google 表单](https://forms.gle/RaxoXNsXibcVUGTZ9)和 [E-mail](mailto:xsznorg@gmail.com) 参与改进行书指南文档。
 
 - 添加软件
 - 删除软件

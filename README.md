@@ -33,7 +33,7 @@ The dev server should be running at `http://localhost:5173`. Visit the URL in yo
 
 ## CONTRIBUTING
 
-You can contribute to improving the Cursive Writing Guide document via [Google Forms](https://forms.gle/RaxoXNsXibcVUGTZ9) in the following ways:
+You can contribute to improving the _Xingshu Guide_ documentation via [GitHub Issues](https://github.com/xszn/xszn.github.io/issues), [Google Forms](https://forms.gle/RaxoXNsXibcVUGTZ9), or [Email](mailto:xsznorg@gmail.com) in the following ways:
 
 - Add software
 - Delete software
