@@ -13,9 +13,9 @@
 
 ### 数据恢复软件
 
-- [TestDisk & PhotoRec](https://www.cgsecurity.org/) / [github](https://github.com/cgsecurity/testdisk)
-- RecoverPy / [cli] / [github](https://github.com/PabloLec/RecoverPy)
-- Digler / [github](https://github.com/ostafen/digler)
+- [TestDisk](https://www.cgsecurity.org/wiki/TestDisk) / [github](https://github.com/cgsecurity/testdisk), [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) / [github](https://github.com/cgsecurity/testdisk)
+- [RecoverPy](https://github.com/PabloLec/RecoverPy) / [cli]
+- [Digler](https://github.com/ostafen/digler)
 
 ## 桌面美化软件
 

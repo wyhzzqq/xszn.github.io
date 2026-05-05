@@ -19,15 +19,14 @@
 
 ### Data recovery software
 
-- [TestDisk & PhotoRec](https://www.cgsecurity.org/) / [github](https://github.com/cgsecurity/testdisk)
-- RecoverPy / [cli] / [github](https://github.com/PabloLec/RecoverPy)
-- Digler / [github](https://github.com/ostafen/digler)
+- [TestDisk](https://www.cgsecurity.org/wiki/TestDisk) / [github](https://github.com/cgsecurity/testdisk), [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) / [github](https://github.com/cgsecurity/testdisk)
+- [RecoverPy](https://github.com/PabloLec/RecoverPy) / [cli]
+- [Digler](https://github.com/ostafen/digler)
 
 ::: details
 
 1. [data-recovery · GitHub Topics](https://github.com/topics/data-recovery)
-2. [Category:Storage software - Wikipedia](https://en.wikipedia.org/wiki/Category:Storage_software)
-3. [Category:Data recovery software - Wikipedia](https://en.wikipedia.org/wiki/Category:Data_recovery_software)
+2. [Category:Data recovery software - Wikipedia](https://en.wikipedia.org/wiki/Category:Data_recovery_software)
    :::
 
 ## Desktop customization software
