@@ -57,6 +57,10 @@
 2. [Category:Video editing software - Wikipedia](https://en.wikipedia.org/wiki/Category:Video_editing_software)
    :::
 
+## 字幕编辑器
+
+- [字幕去除器](https://github.com/YaoFANGUK/video-subtitle-remover), [字幕提取器](https://github.com/YaoFANGUK/video-subtitle-extractor)
+
 ## 视频超分辨率
 
 - Waifu2x-Extension-GUI / [windows] / [github](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)

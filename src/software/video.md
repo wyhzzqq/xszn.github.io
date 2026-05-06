@@ -57,6 +57,15 @@
 2. [Category:Video editing software - Wikipedia](https://en.wikipedia.org/wiki/Category:Video_editing_software)
    :::
 
+## Subtitle editors
+
+- [Video Subtitle Remover](https://github.com/YaoFANGUK/video-subtitle-remover), [Video Subtitle Extractor](https://github.com/YaoFANGUK/video-subtitle-extractor)
+
+::: details
+
+1. [Comparison of subtitle editors - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_subtitle_editors)
+   :::
+
 ## Video super-resolution
 
 - Waifu2x-Extension-GUI / [windows] / [github](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
