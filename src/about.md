@@ -16,10 +16,10 @@ By selecting user-friendly, popular, and versatile products, you can make your d
 
 You can contribute to improving the _Xingshu Guide_ documentation via [GitHub Issues](https://github.com/xszn/xszn.github.io/issues), [Google Forms](https://forms.gle/RaxoXNsXibcVUGTZ9), or [Email](mailto:xsznorg@gmail.com) in the following ways:
 
-- Add software
-- Delete software
-- Update software
-- Provide improvement suggestions
+- **Add software**: Free and open-source software
+- **Delete software**: Free or open-source software that is no longer maintained
+- **Update software**: Update software names, websites, categories, etc.
+- **Improvement suggestions**: Anything possible
 
 We would like to take this opportunity to thank the contributors and community members for their support of and contributions to this project.
 

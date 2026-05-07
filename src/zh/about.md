@@ -16,10 +16,10 @@ feedback: false
 
 您可以通过以下方式在 [GitHub Issues](https://github.com/xszn/xszn.github.io/issues)、[Google 表单](https://forms.gle/RaxoXNsXibcVUGTZ9)和 [E-mail](mailto:xsznorg@gmail.com) 参与改进行书指南文档。
 
-- 添加软件
-- 删除软件
-- 更新软件
-- 改进建议
+- **添加软件**：免费和开源软件
+- **删除软件**：不再维护的免费或开源软件
+- **改正软件**：更新软件名称、网站、分类等
+- **改进建议**：一切可能
 
 在此感谢贡献者和社区成员对本项目的支持与贡献。
 
