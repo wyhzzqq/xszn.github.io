@@ -35,10 +35,10 @@ The dev server should be running at `http://localhost:5173`. Visit the URL in yo
 
 You can contribute to improving the _Xingshu Guide_ documentation via [GitHub Issues](https://github.com/xszn/xszn.github.io/issues), [Google Forms](https://forms.gle/RaxoXNsXibcVUGTZ9), or [Email](mailto:xsznorg@gmail.com) in the following ways:
 
-- Add software
-- Delete software
-- Update software
-- Provide improvement suggestions
+- **Add software**: Free and open-source software. Ready to use right out of the box after installation, requiring no configuration or modification.
+- **Delete software**: Free or open-source software that is no longer actively maintained (e.g., projects that have not been updated for a year or more).
+- **Update software**: Updates to software names, websites, categories, and other information.
+- **Improvement suggestions**: Ask whatever is on your mind—anything is possible!
 
 We would like to take this opportunity to thank the contributors and community members for their support of and contributions to this project.
 

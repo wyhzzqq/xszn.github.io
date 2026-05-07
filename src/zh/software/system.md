@@ -6,27 +6,27 @@
 - [Rufus](https://rufus.ie/) / [windows] / [github](https://github.com/pbatard/rufus)
 - [Etcher](https://etcher.balena.io/) / [github](https://github.com/balena-io/etcher)
 - [WinDiskWriter](https://windiskwriter.com/) / [apple] / [github](https://github.com/TechUnRestricted/windiskwriter)
-- [WoeUSB](https://woeusb.github.io/WoeUSB/) / [linux] / [github](https://woeusb.github.io/WoeUSB/), [WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) / [linux]
-- [微 PE 工具箱](https://www.wepe.com.cn/) - 免费软件 / [windows]
+- [WoeUSB](https://woeusb.github.io/WoeUSB/) / [linux] / [github](https://woeusb.github.io/WoeUSB/), [WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) - 重写版 / [linux]
 
 ## 存储软件
 
 ### 数据恢复软件
 
-- [TestDisk](https://www.cgsecurity.org/wiki/TestDisk) / [github](https://github.com/cgsecurity/testdisk), [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) / [github](https://github.com/cgsecurity/testdisk)
-- [RecoverPy](https://github.com/PabloLec/RecoverPy) / [cli]
+- [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) / [github](https://github.com/cgsecurity/testdisk)
 - [Digler](https://github.com/ostafen/digler)
+
+### 磁盘分区工具
+
+- [TestDisk](https://www.cgsecurity.org/wiki/TestDisk) / [github](https://github.com/cgsecurity/testdisk)
+- [GParted](https://gparted.org/) / [linux] / [github](https://github.com/GNOME/gparted)
+- [KDE Partition Manager](https://apps.kde.org/partitionmanager/) / [linux] / [github](https://github.com/KDE/partitionmanager)
 
 ## 桌面美化软件
 
-- [Rainmeter](https://www.rainmeter.net/) / [windows] / [github](https://github.com/rainmeter/rainmeter)
-- [ExplorerPatcher](https://explorerpatcher.net/) / [windows] / [github](https://github.com/valinet/ExplorerPatcher)
 - [Seelen UI](https://seelen.io/) / [windows] / [github](https://github.com/eythaann/seelen-ui)
-
-::: details
-
-1. [Desktop environment - Wikipedia](https://en.wikipedia.org/wiki/Desktop_environment)
-   :::
+- [Polybar](https://polybar.github.io/) - Status bar / [linux] / [github](https://github.com/polybar/polybar)
+- [Rainmeter](https://www.rainmeter.net/) / [windows] / [github](https://github.com/rainmeter/rainmeter)
+- [Cairo](https://cairodesktop.com/) / [windows] / [github](https://github.com/cairoshell/cairoshell)
 
 ## 磁盘清理工具
 

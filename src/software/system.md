@@ -6,8 +6,7 @@
 - [Rufus](https://rufus.ie/) / [windows] / [github](https://github.com/pbatard/rufus)
 - [Etcher](https://etcher.balena.io/) / [github](https://github.com/balena-io/etcher)
 - [WinDiskWriter](https://windiskwriter.com/) / [apple] / [github](https://github.com/TechUnRestricted/windiskwriter)
-- [WoeUSB](https://woeusb.github.io/WoeUSB/) / [linux] / [github](https://woeusb.github.io/WoeUSB/), [WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) / [linux]
-- [WEPE Tools](https://www.wepe.com.cn/) - Freeware / [windows]
+- [WoeUSB](https://woeusb.github.io/WoeUSB/) / [linux] / [github](https://woeusb.github.io/WoeUSB/), [WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) - Revised version / [linux]
 
 ::: details
 
@@ -19,8 +18,7 @@
 
 ### Data recovery software
 
-- [TestDisk](https://www.cgsecurity.org/wiki/TestDisk) / [github](https://github.com/cgsecurity/testdisk), [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) / [github](https://github.com/cgsecurity/testdisk)
-- [RecoverPy](https://github.com/PabloLec/RecoverPy) / [cli]
+- [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) / [github](https://github.com/cgsecurity/testdisk)
 - [Digler](https://github.com/ostafen/digler)
 
 ::: details
@@ -29,15 +27,28 @@
 2. [Category:Data recovery software - Wikipedia](https://en.wikipedia.org/wiki/Category:Data_recovery_software)
    :::
 
-## Desktop customization software
+### Disk partitioning software
 
-- [Rainmeter](https://www.rainmeter.net/) / [windows] / [github](https://github.com/rainmeter/rainmeter)
-- [ExplorerPatcher](https://explorerpatcher.net/) / [windows] / [github](https://github.com/valinet/ExplorerPatcher)
-- [Seelen UI](https://seelen.io/) / [windows] / [github](https://github.com/eythaann/seelen-ui)
+- [TestDisk](https://www.cgsecurity.org/wiki/TestDisk) / [github](https://github.com/cgsecurity/testdisk)
+- [GParted](https://gparted.org/) / [linux] / [github](https://github.com/GNOME/gparted)
+- [KDE Partition Manager](https://apps.kde.org/partitionmanager/) / [linux] / [github](https://github.com/KDE/partitionmanager)
 
 ::: details
 
-1. [Desktop environment - Wikipedia](https://en.wikipedia.org/wiki/Desktop_environment)
+1. [Category:Disk partitioning software - Wikipedia](https://en.wikipedia.org/wiki/Category:Disk_partitioning_software)
+   :::
+
+## Desktop environments
+
+- [Seelen UI](https://seelen.io/) / [windows] / [github](https://github.com/eythaann/seelen-ui)
+- [Polybar](https://polybar.github.io/) - Status bar / [linux] / [github](https://github.com/polybar/polybar)
+- [Rainmeter](https://www.rainmeter.net/) / [windows] / [github](https://github.com/rainmeter/rainmeter)
+- [Cairo](https://cairodesktop.com/) / [windows] / [github](https://github.com/cairoshell/cairoshell)
+
+::: details
+
+1. [desktop-environment · GitHub Topics](https://github.com/topics/desktop-environment)
+2. [Category:Desktop environments - Wikipedia](https://en.wikipedia.org/wiki/Category:Desktop_environments)
    :::
 
 ## Disk Cleaners
