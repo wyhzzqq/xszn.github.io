@@ -6,9 +6,8 @@
 - [Freemake Video Converter](https://www.freemake.com/free_video_converter/) - nonfree
 
 ::: details
-
 1. [Category:Video conversion software - Wikipedia](https://en.wikipedia.org/wiki/Category:Video_conversion_software)
-   :::
+:::
 
 ## 视频播放器
 
@@ -20,10 +19,9 @@
 - [Syncplay](https://syncplay.pl/) / [github](https://github.com/Syncplay/syncplay)
 
 ::: details
-
 1. [media-player · GitHub Topics](https://github.com/topics/media-player)
 2. [Category:Media players - Wikipedia](https://en.wikipedia.org/wiki/Category:Media_players)
-   :::
+:::
 
 ## 录屏软件
 
@@ -37,10 +35,9 @@
 - [QuickRecorder](https://lihaoyun6.github.io/quickrecorder/) / [apple] / [github](https://github.com/lihaoyun6/QuickRecorder)
 
 ::: details
-
 1. [screen-capture · GitHub Topics](https://github.com/topics/screen-capture)
 2. [Category:Screencasting software - Wikipedia](https://en.wikipedia.org/wiki/Category:Screencasting_software)
-   :::
+:::
 
 ## 视频编辑软件
 
@@ -52,10 +49,9 @@
 - [Beutl](https://beutl.beditor.net/) / [github](https://github.com/b-editor/beutl)
 
 ::: details
-
 1. [video-editor · GitHub Topics](https://github.com/topics/video-editor)
 2. [Category:Video editing software - Wikipedia](https://en.wikipedia.org/wiki/Category:Video_editing_software)
-   :::
+:::
 
 ## 字幕编辑器
 
@@ -70,7 +66,6 @@
 - RealSR-NCNN-Android / [android] / [github](https://github.com/tumuyan/RealSR-NCNN-Android)
 
 ::: details
-
 1. [super-resolution · GitHub Topics](https://github.com/topics/super-resolution)
 2. [Video super-resolution - Wikipedia](https://en.wikipedia.org/wiki/Video_super-resolution)
-   :::
+:::

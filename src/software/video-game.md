@@ -26,9 +26,8 @@
 - [PCL Community Edition](https://www.pclc.cc/projects/pcl-ce/) / [github](https://github.com/PCL-Community/PCL-CE)
 
 ::: details
-
 1. [minecraft-launcher · GitHub Topics](https://github.com/topics/minecraft-launcher)
-   :::
+:::
 
 ## Game toolkits
 
@@ -58,8 +57,7 @@
 - [DuckStation](https://www.duckstation.org/) - PS1 Emulator / [github](https://github.com/stenzek/duckstation)
 
 ::: details
-
 1. [emulator · GitHub Topics](https://github.com/topics/emulator)
 2. [Category:Video game platform emulators - Wikipedia](https://en.wikipedia.org/wiki/Category:Video_game_platform_emulators)
 3. [List of video game console emulators - Wikipedia](https://en.wikipedia.org/wiki/List_of_video_game_console_emulators)
-   :::
+:::

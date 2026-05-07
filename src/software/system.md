@@ -9,10 +9,9 @@
 - [WoeUSB](https://woeusb.github.io/WoeUSB/) / [linux] / [github](https://woeusb.github.io/WoeUSB/), [WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) - Revised version / [linux]
 
 ::: details
-
 1. [bootable-usb · GitHub Topics](https://github.com/topics/bootable-usb)
 2. [List of tools to create bootable USB - Wikipedia](https://en.wikipedia.org/wiki/List_of_tools_to_create_bootable_USB)
-   :::
+:::
 
 ## Storage software
 
@@ -22,10 +21,9 @@
 - [Digler](https://github.com/ostafen/digler)
 
 ::: details
-
 1. [data-recovery · GitHub Topics](https://github.com/topics/data-recovery)
 2. [Category:Data recovery software - Wikipedia](https://en.wikipedia.org/wiki/Category:Data_recovery_software)
-   :::
+:::
 
 ### Disk Cleaners
 
@@ -35,10 +33,9 @@
 - [WindowsCleaner](https://wc.dyblog.online/) / [windows] / [github](https://github.com/darkmatter2048/WindowsCleaner)
 
 ::: details
-
 1. [disk-cleaner · GitHub Topics](https://github.com/topics/disk-cleaner)
 2. [Disk utility - Wikipedia](https://en.wikipedia.org/wiki/Disk_utility#Cleaner)
-   :::
+:::
 
 ### Disk partitioning software
 
@@ -47,9 +44,8 @@
 - [KDE Partition Manager](https://apps.kde.org/partitionmanager/) / [linux] / [github](https://github.com/KDE/partitionmanager)
 
 ::: details
-
 1. [Category:Disk partitioning software - Wikipedia](https://en.wikipedia.org/wiki/Category:Disk_partitioning_software)
-   :::
+:::
 
 ## Desktop environments
 
@@ -59,10 +55,9 @@
 - [Cairo](https://cairodesktop.com/) / [windows] / [github](https://github.com/cairoshell/cairoshell)
 
 ::: details
-
 1. [desktop-environment · GitHub Topics](https://github.com/topics/desktop-environment)
 2. [Category:Desktop environments - Wikipedia](https://en.wikipedia.org/wiki/Category:Desktop_environments)
-   :::
+:::
 
 ## File archivers
 
@@ -72,11 +67,10 @@
 - ZipXtract / [android] / [github](https://github.com/WirelessAlien/ZipXtract)
 
 ::: details
-
 1. [archiver · GitHub Topics](https://github.com/topics/archiver)
 2. [Repository search results for 7-zip](https://github.com/search?q=7-zip&type=repositories&s=stars&o=desc)
 3. [Category:File archivers - Wikipedia](https://en.wikipedia.org/wiki/Category:File_archivers)
-   :::
+:::
 
 ## Input methods
 
@@ -85,10 +79,9 @@
 - [FlorisBoard](https://florisboard.org/) / [android] / [github](https://github.com/florisboard/florisboard)
 
 ::: details
-
 1. [input-method · GitHub Topics](https://github.com/topics/input-method)
 2. [Category:Input methods - Wikipedia](https://en.wikipedia.org/wiki/Category:Input_methods)
-   :::
+:::
 
 ## KMS Activator
 
@@ -97,10 +90,9 @@
 - [CMWTAT Digital Edition](https://cmwtat.cloudmoe.com/en.html) / [windows] / [github](https://github.com/TGSAN/CMWTAT_Digital_Edition)
 
 ::: details
-
 1. [kms · GitHub Topics](https://github.com/topics/kms)
 2. [activator · GitHub Topics](https://github.com/topics/activator)
-   :::
+:::
 
 ## Password managers
 
@@ -112,10 +104,9 @@
 - [AuthPass](https://authpass.app/) / [github](https://github.com/authpass/authpass)
 
 ::: details
-
 1. [password-manager · GitHub Topics](https://github.com/topics/password-manager)
 2. [Category:Password managers - Wikipedia](https://en.wikipedia.org/wiki/Category:Password_managers)
-   :::
+:::
 
 ## Uninstallers
 
@@ -125,10 +116,9 @@
 - ShizuTools / [android] / [github](https://github.com/legendsayantan/ShizuTools)
 
 ::: details
-
 1. [uninstaller · GitHub Topics](https://github.com/topics/uninstaller)
 2. [Category:Uninstallers - Wikipedia](https://en.wikipedia.org/wiki/Category:Uninstallers)
-   :::
+:::
 
 ## Utility software
 
@@ -140,10 +130,9 @@
 - [ZTools](https://ztoolscenter.github.io/ZTools-doc/) / [github](https://github.com/ZToolsCenter/ZTools)
 
 ::: details
-
 1. [utility · GitHub Topics](https://github.com/topics/utility)
 2. [Category:Utility software - Wikipedia](https://en.wikipedia.org/wiki/Category:Utility_software)
-   :::
+:::
 
 ## Virtual machines
 
@@ -152,8 +141,7 @@
 - [UTM](https://getutm.app/) / [apple] / [github](https://github.com/utmapp/UTM)
 
 ::: details
-
 1. [virtual-machines · GitHub Topics](https://github.com/topics/virtual-machines)
 2. [virtualization · GitHub Topics](https://github.com/topics/virtualization)
 3. [Category:Virtual machines - Wikipedia](https://en.wikipedia.org/wiki/Category:Virtual_machines)
-   :::
+:::

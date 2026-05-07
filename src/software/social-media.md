@@ -11,10 +11,9 @@
 - Neo Store / [github](https://github.com/NeoApplications/Neo-Store)
 
 ::: details
-
 1. [app-store · GitHub Topics](https://github.com/topics/app-store)
 2. [App store - Wikipedia](https://en.wikipedia.org/wiki/App_store)
-   :::
+:::
 
 ## Telegram third-party
 
@@ -24,10 +23,9 @@
 - Forkgram / [android] / [github](https://github.com/forkgram/TelegramAndroid)
 
 ::: details
-
 1. [telegram · GitHub Topics](https://github.com/topics/telegram)
 2. [Repository search results for telegram](https://github.com/search?q=telegram&type=repositories&s=stars&o=desc)
-   :::
+:::
 
 ## Stream ripping tools
 
@@ -38,9 +36,8 @@
 - [VidBee](https://vidbee.org/) / [github](https://github.com/nexmoe/VidBee)
 
 ::: details
-
 1. [Stream ripping - Wikipedia](https://en.wikipedia.org/wiki/Stream_ripping)
-   :::
+:::
 
 ## YouTube
 
@@ -51,10 +48,9 @@
 - YoutubeDownloader / [github](https://github.com/Tyrrrz/YoutubeDownloader)
 
 ::: details
-
 1. [youtube-downloader · GitHub Topics](https://github.com/topics/youtube-downloader)
 2. [Comparison of YouTube downloaders - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_YouTube_downloaders)
-   :::
+:::
 
 ### YouTube music third-party
 
@@ -66,6 +62,5 @@
 - OuterTune / [github](https://github.com/OuterTune/OuterTune)
 
 ::: details
-
 1. [youtube-music · GitHub Topics](https://github.com/topics/youtube-music)
-   :::
+:::

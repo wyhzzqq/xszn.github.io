@@ -11,11 +11,10 @@
 - Curtail / [linux] / [github](https://github.com/Huluti/Curtail)
 
 ::: details
-
 1. [https://github.com/topics/image-compression](https://github.com/topics/image-compression)
 2. [image-compressor · GitHub Topics](https://github.com/topics/image-compressor)
 3. [Category:Image compression - Wikipedia](https://en.wikipedia.org/wiki/Category:Image_compression)
-   :::
+:::
 
 ## Raster graphics editors
 
@@ -26,9 +25,8 @@
 - [VTracer](https://www.visioncortex.org/vtracer/) / [github](https://github.com/visioncortex/vtracer)
 
 ::: details
-
 1. [Category:Raster graphics editors - Wikipedia](https://en.wikipedia.org/wiki/Category:Raster_graphics_editors)
-   :::
+:::
 
 ## Vector graphics editors
 
@@ -41,10 +39,9 @@
 - [SvgPathEditor](https://yqnn.github.io/svg-path-editor/) / [web] / [github](https://github.com/Yqnn/svg-path-editor)
 
 ::: details
-
 1. [svg-editor · GitHub Topics](https://github.com/topics/svg-editor)
 2. [Category:Vector graphics editors - Wikipedia](https://en.wikipedia.org/wiki/Category:Vector_graphics_editors)
-   :::
+:::
 
 ## Image viewers
 
@@ -60,10 +57,9 @@
 - [digiKam](https://www.digikam.org/) / [gitlab](https://invent.kde.org/graphics/digikam)
 
 ::: details
-
 1. [image-viewer · GitHub Topics](https://github.com/topics/image-viewer)
 2. [Category:Image viewers - Wikipedia](https://en.wikipedia.org/wiki/Category:Image_viewers)
-   :::
+:::
 
 ## Screenshot software
 
@@ -74,9 +70,8 @@
 - [Snow Shot](https://snowshot.top/) / [github](https://github.com/mg-chao/snow-shot)
 
 ::: details
-
 1. [Category:Screenshot software - Wikipedia](https://en.wikipedia.org/wiki/Category:Screenshot_software)
-   :::
+:::
 
 ## Image upscaling software
 
@@ -86,6 +81,5 @@
 - RealSR-NCNN-Android / [android] / [github](https://github.com/tumuyan/RealSR-NCNN-Android)
 
 ::: details
-
 1. [Image scaling - Wikipedia](https://en.wikipedia.org/wiki/Image_scaling#Deep_convolutional_neural_networks)
-   :::
+:::

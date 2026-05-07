@@ -11,9 +11,8 @@
 - [Alger Music Player](http://music.alger.fun/) / [github](https://github.com/algerkong/AlgerMusicPlayer)
 
 ::: details
-
 1. [Comparison of audio player software - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_audio_player_software)
-   :::
+:::
 
 ## 音频编辑器
 
@@ -25,10 +24,9 @@
 - audapolis / [github](https://github.com/bugbakery/audapolis)
 
 ::: details
-
 1. [audio-editing · GitHub Topics](https://github.com/topics/audio-editing)
 2. [Category:Audio editors - Wikipedia](https://en.wikipedia.org/wiki/Category:Audio_editors)
-   :::
+:::
 
 ## 声音增强器
 

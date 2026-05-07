@@ -6,9 +6,8 @@
 - [ClassIsland](https://classisland.tech/) / [github](https://github.com/ClassIsland/ClassIsland)
 
 ::: details
-
 1. [Category:Classroom management software - Wikipedia](https://en.wikipedia.org/wiki/Category:Classroom_management_software)
-   :::
+:::
 
 ## 电子书阅读器
 
@@ -20,9 +19,8 @@
 - [FBReader](https://fbreader.org/)
 
 ::: details
-
 1. [ebook-reader · GitHub Topics](https://github.com/topics/ebook-reader)
-   :::
+:::
 
 ## 闪卡软件
 
@@ -31,10 +29,9 @@
 - Hashcards / [cli] / [github](https://github.com/eudoxia0/hashcards)
 
 ::: details
-
 1. [flashcards · GitHub Topics](https://github.com/topics/flashcards)
 2. [List of flashcard software - Wikipedia](https://en.wikipedia.org/wiki/List_of_flashcard_software)
-   :::
+:::
 
 ## 语言软件
 
@@ -47,11 +44,10 @@
 - [AutoCorrect](https://huacnlee.github.io/autocorrect/) / [github](https://github.com/huacnlee/autocorrect)
 
 ::: details
-
 1. [grammar-checker · GitHub Topics](https://github.com/topics/grammar-checker)
 2. [spellcheck · GitHub Topics](https://github.com/topics/spellcheck)
 3. [Category:Grammar checkers - Wikipedia](https://en.wikipedia.org/wiki/Category:Grammar_checkers)
-   :::
+:::
 
 ### 语言学习软件
 
@@ -67,10 +63,9 @@
 - [Linguist](https://linguister.io/) / [extension] / [github](https://github.com/translate-tools/linguist)
 
 ::: details
-
 1. [language-learning · GitHub Topics](https://github.com/topics/language-learning)
 2. [Category:Language learning software - Wikipedia](https://en.wikipedia.org/wiki/Category:Language_learning_software)
-   :::
+:::
 
 ## 数学软件
 
@@ -79,10 +74,9 @@
 - [GeoGebra](https://www.geogebra.org/) - Interactive geometry software / [github](https://github.com/geogebra/geogebra)
 
 ::: details
-
 1. [Category:Interactive geometry software - Wikipedia](https://en.wikipedia.org/wiki/Category:Interactive_geometry_software)
 2. [Category:Mathematical software - Wikipedia](https://en.wikipedia.org/wiki/Category:Mathematical_software)
-   :::
+:::
 
 ## 思维导图软件
 
@@ -94,10 +88,9 @@
 - [Heimer](https://juzzlin.github.io/Heimer/) / [github](https://github.com/juzzlin/Heimer)
 
 ::: details
-
 1. [mindmap · GitHub Topics](https://github.com/topics/mindmap)
 2. [Category:Mind-mapping software - Wikipedia](https://en.wikipedia.org/wiki/Category:Mind-mapping_software)
-   :::
+:::
 
 ## 打字软件
 
@@ -111,11 +104,10 @@
 - typioca / [cli] / [github](https://github.com/bloznelis/typioca)
 
 ::: details
-
 1. [typing · GitHub Topics](https://github.com/topics/typing)
 2. [typing-trainer · GitHub Topics](https://github.com/topics/typing-trainer)
 3. [Category:Typing software - Wikipedia](https://en.wikipedia.org/wiki/Category:Typing_software)
-   :::
+:::
 
 ## 白板
 
