@@ -27,6 +27,19 @@
 2. [Category:Data recovery software - Wikipedia](https://en.wikipedia.org/wiki/Category:Data_recovery_software)
    :::
 
+### Disk Cleaners
+
+- [Mole](https://github.com/tw93/mole) / [apple]
+- [BleachBit](https://www.bleachbit.org/) / [github](https://github.com/bleachbit/bleachbit)
+- [PureMac](https://github.com/momenbasel/PureMac) / [apple]
+- [WindowsCleaner](https://wc.dyblog.online/) / [windows] / [github](https://github.com/darkmatter2048/WindowsCleaner)
+
+::: details
+
+1. [disk-cleaner · GitHub Topics](https://github.com/topics/disk-cleaner)
+2. [Disk utility - Wikipedia](https://en.wikipedia.org/wiki/Disk_utility#Cleaner)
+   :::
+
 ### Disk partitioning software
 
 - [TestDisk](https://www.cgsecurity.org/wiki/TestDisk) / [github](https://github.com/cgsecurity/testdisk)
@@ -49,19 +62,6 @@
 
 1. [desktop-environment · GitHub Topics](https://github.com/topics/desktop-environment)
 2. [Category:Desktop environments - Wikipedia](https://en.wikipedia.org/wiki/Category:Desktop_environments)
-   :::
-
-## Disk Cleaners
-
-- [WinDirStat](https://windirstat.net/) / [windows] / [github](https://github.com/windirstat/windirstat)
-- [BleachBit](https://www.bleachbit.org/) / [github](https://github.com/bleachbit/bleachbit)
-- [Windows Cleaner](https://wc.dyblog.online/) / [windows] / [github](https://github.com/darkmatter2048/WindowsCleaner)
-- [AppPorts](https://appports.shimoko.com/) / [apple] / [github](https://github.com/wzh4869/AppPorts)
-
-::: details
-
-1. [disk-cleaner · GitHub Topics](https://github.com/topics/disk-cleaner)
-2. [Disk utility - Wikipedia](https://en.wikipedia.org/wiki/Disk_utility#Cleaner)
    :::
 
 ## File archivers
