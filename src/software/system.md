@@ -6,11 +6,23 @@
 - [Rufus](https://rufus.ie/) / [windows] / [github](https://github.com/pbatard/rufus)
 - [Etcher](https://etcher.balena.io/) / [github](https://github.com/balena-io/etcher)
 - [WinDiskWriter](https://windiskwriter.com/) / [apple] / [github](https://github.com/TechUnRestricted/windiskwriter)
-- [WoeUSB](https://woeusb.github.io/WoeUSB/) / [linux] / [github](https://woeusb.github.io/WoeUSB/), [WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) - Revised version / [linux]
+- [WoeUSB](https://woeusb.github.io/WoeUSB/) / [linux] / [github](https://woeusb.github.io/WoeUSB/), [WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) - A rewritten version of WoeUSB / [linux]
 
 ::: details
 1. [bootable-usb · GitHub Topics](https://github.com/topics/bootable-usb)
 2. [List of tools to create bootable USB - Wikipedia](https://en.wikipedia.org/wiki/List_of_tools_to_create_bootable_USB)
+:::
+
+## Desktop environments
+
+- [Seelen UI](https://seelen.io/) / [windows] / [github](https://github.com/eythaann/seelen-ui)
+- [Polybar](https://polybar.github.io/) - Linux status bar tool / [linux] / [github](https://github.com/polybar/polybar)
+- [Rainmeter](https://www.rainmeter.net/) - Windows desktop gadgets / [windows] / [github](https://github.com/rainmeter/rainmeter)
+- [Cairo](https://cairodesktop.com/) / [windows] / [github](https://github.com/cairoshell/cairoshell)
+
+::: details
+1. [desktop-environment · GitHub Topics](https://github.com/topics/desktop-environment)
+2. [Category:Desktop environments - Wikipedia](https://en.wikipedia.org/wiki/Category:Desktop_environments)
 :::
 
 ## Storage software
@@ -47,29 +59,17 @@
 1. [Category:Disk partitioning software - Wikipedia](https://en.wikipedia.org/wiki/Category:Disk_partitioning_software)
 :::
 
-## Desktop environments
-
-- [Seelen UI](https://seelen.io/) / [windows] / [github](https://github.com/eythaann/seelen-ui)
-- [Polybar](https://polybar.github.io/) - Status bar / [linux] / [github](https://github.com/polybar/polybar)
-- [Rainmeter](https://www.rainmeter.net/) / [windows] / [github](https://github.com/rainmeter/rainmeter)
-- [Cairo](https://cairodesktop.com/) / [windows] / [github](https://github.com/cairoshell/cairoshell)
-
-::: details
-1. [desktop-environment · GitHub Topics](https://github.com/topics/desktop-environment)
-2. [Category:Desktop environments - Wikipedia](https://en.wikipedia.org/wiki/Category:Desktop_environments)
-:::
-
 ## File archivers
 
-- [7-Zip](https://www.7-zip.org/) / [github](https://github.com/ip7z/7zip), [7-Zip ZS](https://mcmilk.de/projects/7-Zip-zstd/) / [windows] / [github](https://github.com/mcmilk/7-Zip-zstd/), p7zip-zstd / [github](https://github.com/p7zip-project/p7zip), [NanaZip](https://nanazip.org/) / [windows] / [github](https://github.com/M2Team/NanaZip)
+- [7-Zip](https://www.7-zip.org/) / [github](https://github.com/ip7z/7zip), [7-Zip ZS](https://mcmilk.de/projects/7-Zip-zstd/) / [windows] / [github](https://github.com/mcmilk/7-Zip-zstd/), [p7zip-zstd](https://github.com/p7zip-project/p7zip), [NanaZip](https://nanazip.org/) - Modern UI / [windows] / [github](https://github.com/M2Team/NanaZip)
 - [PeaZip](https://peazip.github.io/) / [github](https://github.com/peazip/PeaZip/)
 - [Keka](https://www.keka.io/) / [apple] / [github](https://github.com/aonez/Keka)
-- ZipXtract / [android] / [github](https://github.com/WirelessAlien/ZipXtract)
+- [ZipXtract](https://github.com/WirelessAlien/ZipXtract) / [android]
 
 ::: details
 1. [archiver · GitHub Topics](https://github.com/topics/archiver)
-2. [Repository search results for 7-zip](https://github.com/search?q=7-zip&type=repositories&s=stars&o=desc)
-3. [Category:File archivers - Wikipedia](https://en.wikipedia.org/wiki/Category:File_archivers)
+2. [Category:File archivers - Wikipedia](https://en.wikipedia.org/wiki/Category:File_archivers)
+3. [7-Zip - Wikipedia](https://en.wikipedia.org/wiki/7-Zip)
 :::
 
 ## Input methods

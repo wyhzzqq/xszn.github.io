@@ -6,7 +6,14 @@
 - [Rufus](https://rufus.ie/) / [windows] / [github](https://github.com/pbatard/rufus)
 - [Etcher](https://etcher.balena.io/) / [github](https://github.com/balena-io/etcher)
 - [WinDiskWriter](https://windiskwriter.com/) / [apple] / [github](https://github.com/TechUnRestricted/windiskwriter)
-- [WoeUSB](https://woeusb.github.io/WoeUSB/) / [linux] / [github](https://woeusb.github.io/WoeUSB/), [WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) - 重写版 / [linux]
+- [WoeUSB](https://woeusb.github.io/WoeUSB/) / [linux] / [github](https://woeusb.github.io/WoeUSB/), [WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) - WoeUSB 的重写版 / [linux]
+
+## 桌面美化软件
+
+- [Seelen UI](https://seelen.io/) / [windows] / [github](https://github.com/eythaann/seelen-ui)
+- [Polybar](https://polybar.github.io/) - Linux 状态栏工具 / [linux] / [github](https://github.com/polybar/polybar)
+- [Rainmeter](https://www.rainmeter.net/) - Windows 桌面小工具 / [windows] / [github](https://github.com/rainmeter/rainmeter)
+- [Cairo](https://cairodesktop.com/) / [windows] / [github](https://github.com/cairoshell/cairoshell)
 
 ## 存储软件
 
@@ -28,19 +35,12 @@
 - [GParted](https://gparted.org/) / [linux] / [github](https://github.com/GNOME/gparted)
 - [KDE Partition Manager](https://apps.kde.org/partitionmanager/) / [linux] / [github](https://github.com/KDE/partitionmanager)
 
-## 桌面美化软件
-
-- [Seelen UI](https://seelen.io/) / [windows] / [github](https://github.com/eythaann/seelen-ui)
-- [Polybar](https://polybar.github.io/) - 状态栏 / [linux] / [github](https://github.com/polybar/polybar)
-- [Rainmeter](https://www.rainmeter.net/) / [windows] / [github](https://github.com/rainmeter/rainmeter)
-- [Cairo](https://cairodesktop.com/) / [windows] / [github](https://github.com/cairoshell/cairoshell)
-
 ## 压缩软件
 
-- [7-Zip](https://www.7-zip.org/) / [github](https://github.com/ip7z/7zip), [7-Zip ZS](https://mcmilk.de/projects/7-Zip-zstd/) / [windows] / [github](https://github.com/mcmilk/7-Zip-zstd/), p7zip-zstd / [github](https://github.com/p7zip-project/p7zip), [NanaZip](https://nanazip.org/) / [windows] / [github](https://github.com/M2Team/NanaZip)
+- [7-Zip](https://www.7-zip.org/) / [github](https://github.com/ip7z/7zip), [7-Zip ZS](https://mcmilk.de/projects/7-Zip-zstd/) / [windows] / [github](https://github.com/mcmilk/7-Zip-zstd/), [p7zip-zstd](https://github.com/p7zip-project/p7zip), [NanaZip](https://nanazip.org/) - 现代 UI / [windows] / [github](https://github.com/M2Team/NanaZip)
 - [PeaZip](https://peazip.github.io/) / [github](https://github.com/peazip/PeaZip/)
 - [Keka](https://www.keka.io/) / [apple] / [github](https://github.com/aonez/Keka)
-- ZipXtract / [android] / [github](https://github.com/WirelessAlien/ZipXtract)
+- [ZipXtract](https://github.com/WirelessAlien/ZipXtract) / [android]
 
 ## 输入法
 
