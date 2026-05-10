@@ -1,46 +1,46 @@
 # 系统软件
 
-## 启动盘制作工具
+## 启动盘制作工具 {#bootable-usb}
 
-- [Ventoy](https://www.ventoy.net/) / [github](https://github.com/ventoy/Ventoy) / ![Ventoy](/images/software/system/ventoy.webp)
-- [Rufus](https://rufus.ie/) / [windows] / [github](https://github.com/pbatard/rufus) / ![Rufus](/images/software/system/rufus.webp)
-- [balenaEtcher](https://etcher.balena.io/) / [github](https://github.com/balena-io/etcher) / ![balenaEtcher](/images/software/system/balenaetcher.webp)
-- [WinDiskWriter](https://windiskwriter.com/) / [apple] / [github](https://github.com/TechUnRestricted/windiskwriter) / ![WinDiskWriter](/images/software/system/windiskwriter.webp)
-- [WoeUSB](https://woeusb.github.io/WoeUSB/) / [linux] / [github](https://github.com/WoeUSB/WoeUSB) / ![WoeUSB](/images/software/system/woeusb.webp), [WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) - 重写版 / [linux] / ![WoeUSB-ng](/images/software/system/woeusb-ng.webp)
+- [Ventoy](https://www.ventoy.net/) / [github](https://github.com/ventoy/Ventoy) / ![](/images/software/system/ventoy.webp)
+- [Rufus](https://rufus.ie/) / [windows] / [github](https://github.com/pbatard/rufus) / ![](/images/software/system/rufus.webp)
+- [balenaEtcher](https://etcher.balena.io/) / [github](https://github.com/balena-io/etcher) / ![](/images/software/system/balenaetcher.webp)
+- [WinDiskWriter](https://windiskwriter.com/) / [apple] / [github](https://github.com/TechUnRestricted/windiskwriter) / ![](/images/software/system/windiskwriter.webp)
+- [WoeUSB](https://woeusb.github.io/WoeUSB/) / [linux] / [github](https://github.com/WoeUSB/WoeUSB) / ![](/images/software/system/woeusb.webp), [WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) - 重写版 / [linux] / ![](/images/software/system/woeusb-ng.webp)
 
-## 桌面美化软件
+## 桌面美化软件 {#desktop-environments}
 
-- [Seelen UI](https://seelen.io/) / [windows] / [github](https://github.com/eythaann/seelen-ui) / ![Seelen UI](/images/software/system/seelen-ui.webp)
-- [Polybar](https://polybar.github.io/) - 状态栏 / [linux] / [github](https://github.com/polybar/polybar) / ![Polybar](/images/software/system/polybar.webp)
-- [Rainmeter](https://www.rainmeter.net/) - 桌面小工具 / [windows] / [github](https://github.com/rainmeter/rainmeter) / ![Rainmeter](/images/software/system/rainmeter.webp)
-- [Cairo](https://cairodesktop.com/) / [windows] / [github](https://github.com/cairoshell/cairoshell)
+- [Seelen UI](https://seelen.io/) / [windows] / [github](https://github.com/eythaann/seelen-ui) / ![](/images/software/system/seelen-ui.webp)
+- [Polybar](https://polybar.github.io/) - 状态栏 / [linux] / [github](https://github.com/polybar/polybar) / ![](/images/software/system/polybar.webp)
+- [Rainmeter](https://www.rainmeter.net/) / [windows] / [github](https://github.com/rainmeter/rainmeter) / ![](/images/software/system/rainmeter.webp)
+- [Cairo](https://cairodesktop.com/) / [windows] / [github](https://github.com/cairoshell/cairoshell) / ![](/images/software/system/cairo.webp)
 
-## 存储软件
+## 存储软件 {#storage-software}
 
-### 数据恢复软件
+### 数据恢复软件 {#data-recovery-software}
 
-- [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) / [github](https://github.com/cgsecurity/testdisk)
-- [Digler](https://github.com/ostafen/digler)
+- [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) / [github](https://github.com/cgsecurity/testdisk) / ![](/images/software/system/photorec.webp)
+- [Digler](https://github.com/ostafen/digler) / ![](/images/software/system/digler.webp)
 
-### 磁盘清理工具
+### 磁盘清理工具 {#disk-cleaners}
 
-- [Mole](https://github.com/tw93/mole) / [apple]
-- [BleachBit](https://www.bleachbit.org/) / [github](https://github.com/bleachbit/bleachbit)
-- [PureMac](https://github.com/momenbasel/PureMac) / [apple]
-- [WindowsCleaner](https://wc.dyblog.online/) / [windows] / [github](https://github.com/darkmatter2048/WindowsCleaner)
+- [Mole](https://github.com/tw93/mole) / [apple] / ![](/images/software/system/mole.webp)
+- [BleachBit](https://www.bleachbit.org/) / [github](https://github.com/bleachbit/bleachbit) / ![](/images/software/system/bleachbit.webp)
+- [PureMac](https://github.com/momenbasel/PureMac) / [apple] / ![](/images/software/system/puremac.webp)
+- [WindowsCleaner](https://wc.dyblog.online/) / [windows] / [github](https://github.com/darkmatter2048/WindowsCleaner) / ![](/images/software/system/windowscleaner.webp)
 
-### 磁盘分区工具
+### 磁盘分区工具 {#disk-partitioning-software}
 
-- [TestDisk](https://www.cgsecurity.org/wiki/TestDisk) / [github](https://github.com/cgsecurity/testdisk)
-- [GParted](https://gparted.org/) / [linux] / [github](https://github.com/GNOME/gparted)
-- [KDE Partition Manager](https://apps.kde.org/partitionmanager/) / [linux] / [github](https://github.com/KDE/partitionmanager)
+- [TestDisk](https://www.cgsecurity.org/wiki/TestDisk) / [github](https://github.com/cgsecurity/testdisk) / ![](/images/software/system/testdisk.webp)
+- [GParted](https://gparted.org/) / [linux] / [github](https://github.com/GNOME/gparted) / ![](/images/software/system/gparted.webp)
+- [KDE Partition Manager](https://apps.kde.org/partitionmanager/) / [linux] / [github](https://github.com/KDE/partitionmanager) / ![](/images/software/system/kde-partition-manager.webp)
 
-## 压缩软件
+## 压缩软件 {#file-archivers}
 
-- [7-Zip](https://www.7-zip.org/) / [github](https://github.com/ip7z/7zip), [7-Zip ZS](https://mcmilk.de/projects/7-Zip-zstd/) / [windows] / [github](https://github.com/mcmilk/7-Zip-zstd/), [p7zip-zstd](https://github.com/p7zip-project/p7zip), [NanaZip](https://nanazip.org/) - 现代 UI / [windows] / [github](https://github.com/M2Team/NanaZip)
-- [PeaZip](https://peazip.github.io/) / [github](https://github.com/peazip/PeaZip/)
-- [Keka](https://www.keka.io/) / [apple] / [github](https://github.com/aonez/Keka)
-- [ZipXtract](https://github.com/WirelessAlien/ZipXtract) / [android]
+- [7-Zip](https://www.7-zip.org/) / [github](https://github.com/ip7z/7zip) / ![](/images/software/system/7-zip.webp), [7-Zip ZS](https://mcmilk.de/projects/7-Zip-zstd/) / [windows] / [github](https://github.com/mcmilk/7-Zip-zstd/) / ![](/images/software/system/7-zip-zs.webp), [NanaZip](https://nanazip.org/) - 现代 UI / [windows] / [github](https://github.com/M2Team/NanaZip) / ![](/images/software/system/nanazip.webp)
+- [PeaZip](https://peazip.github.io/) / [github](https://github.com/peazip/PeaZip/) / ![](/images/software/system/peazip.webp)
+- [Keka](https://www.keka.io/) / [apple] / [github](https://github.com/aonez/Keka) / ![](/images/software/system/keka.webp)
+- [ZipXtract](https://github.com/WirelessAlien/ZipXtract) / [android] / ![](/images/software/system/zipxtract.webp)
 
 ## 输入法
 

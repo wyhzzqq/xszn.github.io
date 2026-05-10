@@ -2,81 +2,45 @@
 
 ## Bootable USB
 
-- [Ventoy](https://www.ventoy.net/) / [github](https://github.com/ventoy/Ventoy) / ![Ventoy](/images/software/system/ventoy.webp)
-- [Rufus](https://rufus.ie/) / [windows] / [github](https://github.com/pbatard/rufus) / ![Rufus](/images/software/system/rufus.webp)
-- [balenaEtcher](https://etcher.balena.io/) / [github](https://github.com/balena-io/etcher) / ![balenaEtcher](/images/software/system/balenaetcher.webp)
-- [WinDiskWriter](https://windiskwriter.com/) / [apple] / [github](https://github.com/TechUnRestricted/windiskwriter) / ![WinDiskWriter](/images/software/system/windiskwriter.webp)
-- [WoeUSB](https://woeusb.github.io/WoeUSB/) / [linux] / [github](https://github.com/WoeUSB/WoeUSB) / ![WoeUSB](/images/software/system/woeusb.webp), [WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) - Rewritten version / [linux] / ![WoeUSB-ng](/images/software/system/woeusb-ng.webp)
-
-::: details
-
-1. [bootable-usb · GitHub Topics](https://github.com/topics/bootable-usb)
-2. [List of tools to create bootable USB - Wikipedia](https://en.wikipedia.org/wiki/List_of_tools_to_create_bootable_USB)
-   :::
+- [Ventoy](https://www.ventoy.net/) / [github](https://github.com/ventoy/Ventoy) / ![](/images/software/system/ventoy.webp)
+- [Rufus](https://rufus.ie/) / [windows] / [github](https://github.com/pbatard/rufus) / ![](/images/software/system/rufus.webp)
+- [balenaEtcher](https://etcher.balena.io/) / [github](https://github.com/balena-io/etcher) / ![](/images/software/system/balenaetcher.webp)
+- [WinDiskWriter](https://windiskwriter.com/) / [apple] / [github](https://github.com/TechUnRestricted/windiskwriter) / ![](/images/software/system/windiskwriter.webp)
+- [WoeUSB](https://woeusb.github.io/WoeUSB/) / [linux] / [github](https://github.com/WoeUSB/WoeUSB) / ![](/images/software/system/woeusb.webp), [WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) - Rewritten version / [linux] / ![](/images/software/system/woeusb-ng.webp)
 
 ## Desktop environments
 
-- [Seelen UI](https://seelen.io/) / [windows] / [github](https://github.com/eythaann/seelen-ui) / ![Seelen UI](/images/software/system/seelen-ui.webp)
-- [Polybar](https://polybar.github.io/) - Status bar / [linux] / [github](https://github.com/polybar/polybar) / ![Polybar](/images/software/system/polybar.webp)
-- [Rainmeter](https://www.rainmeter.net/) - Desktop gadgets / [windows] / [github](https://github.com/rainmeter/rainmeter) / ![Rainmeter](/images/software/system/rainmeter.webp)
-- [Cairo](https://cairodesktop.com/) / [windows] / [github](https://github.com/cairoshell/cairoshell)
-
-::: details
-
-1. [desktop-environment · GitHub Topics](https://github.com/topics/desktop-environment)
-2. [Category:Desktop environments - Wikipedia](https://en.wikipedia.org/wiki/Category:Desktop_environments)
-   :::
+- [Seelen UI](https://seelen.io/) / [windows] / [github](https://github.com/eythaann/seelen-ui) / ![](/images/software/system/seelen-ui.webp)
+- [Polybar](https://polybar.github.io/) - Status bar / [linux] / [github](https://github.com/polybar/polybar) / ![](/images/software/system/polybar.webp)
+- [Rainmeter](https://www.rainmeter.net/) / [windows] / [github](https://github.com/rainmeter/rainmeter) / ![](/images/software/system/rainmeter.webp)
+- [Cairo](https://cairodesktop.com/) / [windows] / [github](https://github.com/cairoshell/cairoshell) / ![](/images/software/system/cairo.webp)
 
 ## Storage software
 
 ### Data recovery software
 
-- [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) / [github](https://github.com/cgsecurity/testdisk)
-- [Digler](https://github.com/ostafen/digler)
+- [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) / [github](https://github.com/cgsecurity/testdisk) / ![](/images/software/system/photorec.webp)
+- [Digler](https://github.com/ostafen/digler) / ![](/images/software/system/digler.webp)
 
-::: details
+### Disk cleaners
 
-1. [data-recovery · GitHub Topics](https://github.com/topics/data-recovery)
-2. [Category:Data recovery software - Wikipedia](https://en.wikipedia.org/wiki/Category:Data_recovery_software)
-   :::
-
-### Disk Cleaners
-
-- [Mole](https://github.com/tw93/mole) / [apple]
-- [BleachBit](https://www.bleachbit.org/) / [github](https://github.com/bleachbit/bleachbit)
-- [PureMac](https://github.com/momenbasel/PureMac) / [apple]
-- [WindowsCleaner](https://wc.dyblog.online/) / [windows] / [github](https://github.com/darkmatter2048/WindowsCleaner)
-
-::: details
-
-1. [disk-cleaner · GitHub Topics](https://github.com/topics/disk-cleaner)
-2. [Disk utility - Wikipedia](https://en.wikipedia.org/wiki/Disk_utility#Cleaner)
-   :::
+- [Mole](https://github.com/tw93/mole) / [apple] / ![](/images/software/system/mole.webp)
+- [BleachBit](https://www.bleachbit.org/) / [github](https://github.com/bleachbit/bleachbit) / ![](/images/software/system/bleachbit.webp)
+- [PureMac](https://github.com/momenbasel/PureMac) / [apple] / ![](/images/software/system/puremac.webp)
+- [WindowsCleaner](https://wc.dyblog.online/) / [windows] / [github](https://github.com/darkmatter2048/WindowsCleaner) / ![](/images/software/system/windowscleaner.webp)
 
 ### Disk partitioning software
 
-- [TestDisk](https://www.cgsecurity.org/wiki/TestDisk) / [github](https://github.com/cgsecurity/testdisk)
-- [GParted](https://gparted.org/) / [linux] / [github](https://github.com/GNOME/gparted)
-- [KDE Partition Manager](https://apps.kde.org/partitionmanager/) / [linux] / [github](https://github.com/KDE/partitionmanager)
-
-::: details
-
-1. [Category:Disk partitioning software - Wikipedia](https://en.wikipedia.org/wiki/Category:Disk_partitioning_software)
-   :::
+- [TestDisk](https://www.cgsecurity.org/wiki/TestDisk) / [github](https://github.com/cgsecurity/testdisk) / ![](/images/software/system/testdisk.webp)
+- [GParted](https://gparted.org/) / [linux] / [github](https://github.com/GNOME/gparted) / ![](/images/software/system/gparted.webp)
+- [KDE Partition Manager](https://apps.kde.org/partitionmanager/) / [linux] / [github](https://github.com/KDE/partitionmanager) / ![](/images/software/system/kde-partition-manager.webp)
 
 ## File archivers
 
-- [7-Zip](https://www.7-zip.org/) / [github](https://github.com/ip7z/7zip), [7-Zip ZS](https://mcmilk.de/projects/7-Zip-zstd/) / [windows] / [github](https://github.com/mcmilk/7-Zip-zstd/), [p7zip-zstd](https://github.com/p7zip-project/p7zip), [NanaZip](https://nanazip.org/) - Modern UI / [windows] / [github](https://github.com/M2Team/NanaZip)
-- [PeaZip](https://peazip.github.io/) / [github](https://github.com/peazip/PeaZip/)
-- [Keka](https://www.keka.io/) / [apple] / [github](https://github.com/aonez/Keka)
-- [ZipXtract](https://github.com/WirelessAlien/ZipXtract) / [android]
-
-::: details
-
-1. [archiver · GitHub Topics](https://github.com/topics/archiver)
-2. [Category:File archivers - Wikipedia](https://en.wikipedia.org/wiki/Category:File_archivers)
-3. [7-Zip - Wikipedia](https://en.wikipedia.org/wiki/7-Zip)
-   :::
+- [7-Zip](https://www.7-zip.org/) / [github](https://github.com/ip7z/7zip) / ![](/images/software/system/7-zip.webp), [7-Zip ZS](https://mcmilk.de/projects/7-Zip-zstd/) / [windows] / [github](https://github.com/mcmilk/7-Zip-zstd/) / ![](/images/software/system/7-zip-zs.webp), [NanaZip](https://nanazip.org/) - Modern UI / [windows] / [github](https://github.com/M2Team/NanaZip) / ![](/images/software/system/nanazip.webp)
+- [PeaZip](https://peazip.github.io/) / [github](https://github.com/peazip/PeaZip/) / ![](/images/software/system/peazip.webp)
+- [Keka](https://www.keka.io/) / [apple] / [github](https://github.com/aonez/Keka) / ![](/images/software/system/keka.webp)
+- [ZipXtract](https://github.com/WirelessAlien/ZipXtract) / [android] / ![](/images/software/system/zipxtract.webp)
 
 ## Input methods
 
@@ -84,23 +48,11 @@
 - [Fcitx](https://fcitx-im.org/wiki/Fcitx_5) / [linux] / [github](https://github.com/fcitx), [Fcitx 5](https://fcitx5-android.github.io/) / [android] / [github](https://github.com/fcitx5-android/fcitx5-android)
 - [FlorisBoard](https://florisboard.org/) / [android] / [github](https://github.com/florisboard/florisboard)
 
-::: details
-
-1. [input-method · GitHub Topics](https://github.com/topics/input-method)
-2. [Category:Input methods - Wikipedia](https://en.wikipedia.org/wiki/Category:Input_methods)
-   :::
-
 ## KMS Activator
 
 - [Microsoft Activation Scripts](https://github.com/massgravel/microsoft-activation-scripts) / [cli] / [github](https://github.com/massgravel/Microsoft-Activation-Scripts)
 - HEU KMS Activator / [windows] / [github](https://github.com/zbezj/HEU_KMS_Activator)
 - [CMWTAT Digital Edition](https://cmwtat.cloudmoe.com/en.html) / [windows] / [github](https://github.com/TGSAN/CMWTAT_Digital_Edition)
-
-::: details
-
-1. [kms · GitHub Topics](https://github.com/topics/kms)
-2. [activator · GitHub Topics](https://github.com/topics/activator)
-   :::
 
 ## Password managers
 
@@ -111,24 +63,12 @@
 - [AliasVault](https://www.aliasvault.net/) / [github](https://github.com/aliasvault/aliasvault)
 - [AuthPass](https://authpass.app/) / [github](https://github.com/authpass/authpass)
 
-::: details
-
-1. [password-manager · GitHub Topics](https://github.com/topics/password-manager)
-2. [Category:Password managers - Wikipedia](https://en.wikipedia.org/wiki/Category:Password_managers)
-   :::
-
 ## Uninstallers
 
 - [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) / [windows] / [github](https://github.com/Klocman/Bulk-Crap-Uninstaller)
 - [Pearcleaner](https://itsalin.com/appInfo/?id=pearcleaner) / [apple] / [github](https://github.com/alienator88/Pearcleaner)
 - Remove MS Edge / [windows] / [github](https://github.com/ShadowWhisperer/Remove-MS-Edge)
 - ShizuTools / [android] / [github](https://github.com/legendsayantan/ShizuTools)
-
-::: details
-
-1. [uninstaller · GitHub Topics](https://github.com/topics/uninstaller)
-2. [Category:Uninstallers - Wikipedia](https://en.wikipedia.org/wiki/Category:Uninstallers)
-   :::
 
 ## Utility software
 
@@ -139,21 +79,8 @@
 - [Mac Mouse Fix](https://macmousefix.com/) / [apple] / [github](https://github.com/noah-nuebling/mac-mouse-fix)
 - [ZTools](https://ztoolscenter.github.io/ZTools-doc/) / [github](https://github.com/ZToolsCenter/ZTools)
 
-::: details
-
-1. [utility · GitHub Topics](https://github.com/topics/utility)
-2. [Category:Utility software - Wikipedia](https://en.wikipedia.org/wiki/Category:Utility_software)
-   :::
-
 ## Virtual machines
 
 - [VirtualBox](https://www.virtualbox.org/) / [github](https://github.com/VirtualBox/virtualbox)
 - [QEMU](https://github.com/qemu/QEMU) / [github](https://github.com/qemu/QEMU), [Quickemu](https://quickemu-project.github.io/) / [github](https://github.com/quickemu-project/quickemu)
 - [UTM](https://getutm.app/) / [apple] / [github](https://github.com/utmapp/UTM)
-
-::: details
-
-1. [virtual-machines · GitHub Topics](https://github.com/topics/virtual-machines)
-2. [virtualization · GitHub Topics](https://github.com/topics/virtualization)
-3. [Category:Virtual machines - Wikipedia](https://en.wikipedia.org/wiki/Category:Virtual_machines)
-   :::
