@@ -4,15 +4,15 @@
 
 - [Ventoy](https://www.ventoy.net/) / [github](https://github.com/ventoy/Ventoy) / ![Ventoy](/images/software/system/ventoy.webp)
 - [Rufus](https://rufus.ie/) / [windows] / [github](https://github.com/pbatard/rufus) / ![Rufus](/images/software/system/rufus.webp)
-- [balenaEtcher](https://etcher.balena.io/) / [github](https://github.com/balena-io/etcher) / ![balenaEtcher](/images/software/system/balena-etcher.webp)
-- [WinDiskWriter](https://windiskwriter.com/) / [apple] / [github](https://github.com/TechUnRestricted/windiskwriter)
-- [WoeUSB](https://woeusb.github.io/WoeUSB/) / [linux] / [github](https://github.com/WoeUSB/WoeUSB), [WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) - 重写版 / [linux]
+- [balenaEtcher](https://etcher.balena.io/) / [github](https://github.com/balena-io/etcher) / ![balenaEtcher](/images/software/system/balenaetcher.webp)
+- [WinDiskWriter](https://windiskwriter.com/) / [apple] / [github](https://github.com/TechUnRestricted/windiskwriter) / ![WinDiskWriter](/images/software/system/windiskwriter.webp)
+- [WoeUSB](https://woeusb.github.io/WoeUSB/) / [linux] / [github](https://github.com/WoeUSB/WoeUSB) / ![WoeUSB](/images/software/system/woeusb.webp), [WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) - 重写版 / [linux] / ![WoeUSB-ng](/images/software/system/woeusb-ng.webp)
 
 ## 桌面美化软件
 
-- [Seelen UI](https://seelen.io/) / [windows] / [github](https://github.com/eythaann/seelen-ui)
-- [Polybar](https://polybar.github.io/) - 状态栏 / [linux] / [github](https://github.com/polybar/polybar)
-- [Rainmeter](https://www.rainmeter.net/) - 桌面小工具 / [windows] / [github](https://github.com/rainmeter/rainmeter)
+- [Seelen UI](https://seelen.io/) / [windows] / [github](https://github.com/eythaann/seelen-ui) / ![Seelen UI](/images/software/system/seelen-ui.webp)
+- [Polybar](https://polybar.github.io/) - 状态栏 / [linux] / [github](https://github.com/polybar/polybar) / ![Polybar](/images/software/system/polybar.webp)
+- [Rainmeter](https://www.rainmeter.net/) - 桌面小工具 / [windows] / [github](https://github.com/rainmeter/rainmeter) / ![Rainmeter](/images/software/system/rainmeter.webp)
 - [Cairo](https://cairodesktop.com/) / [windows] / [github](https://github.com/cairoshell/cairoshell)
 
 ## 存储软件
