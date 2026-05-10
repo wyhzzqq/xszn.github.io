@@ -42,3 +42,12 @@
 .vp-doc ul a::after {
   display: none !important;
 }
+
+.vp-doc img {
+  max-height: 20px;
+  display: inline;
+}
+
+.vp-doc li img {
+  border-radius: 4px;
+}

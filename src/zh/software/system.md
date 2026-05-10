@@ -2,17 +2,17 @@
 
 ## 启动盘制作工具
 
-- [Ventoy](https://www.ventoy.net/) / [github](https://github.com/ventoy/Ventoy)
-- [Rufus](https://rufus.ie/) / [windows] / [github](https://github.com/pbatard/rufus)
-- [Etcher](https://etcher.balena.io/) / [github](https://github.com/balena-io/etcher)
+- [Ventoy](https://www.ventoy.net/) / [github](https://github.com/ventoy/Ventoy) / ![Ventoy](/images/software/system/ventoy.webp)
+- [Rufus](https://rufus.ie/) / [windows] / [github](https://github.com/pbatard/rufus) / ![Rufus](/images/software/system/rufus.webp)
+- [balenaEtcher](https://etcher.balena.io/) / [github](https://github.com/balena-io/etcher) / ![balenaEtcher](/images/software/system/balena-etcher.webp)
 - [WinDiskWriter](https://windiskwriter.com/) / [apple] / [github](https://github.com/TechUnRestricted/windiskwriter)
-- [WoeUSB](https://woeusb.github.io/WoeUSB/) / [linux] / [github](https://woeusb.github.io/WoeUSB/), [WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) - WoeUSB 的重写版 / [linux]
+- [WoeUSB](https://woeusb.github.io/WoeUSB/) / [linux] / [github](https://github.com/WoeUSB/WoeUSB), [WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) - 重写版 / [linux]
 
 ## 桌面美化软件
 
 - [Seelen UI](https://seelen.io/) / [windows] / [github](https://github.com/eythaann/seelen-ui)
-- [Polybar](https://polybar.github.io/) - Linux 状态栏工具 / [linux] / [github](https://github.com/polybar/polybar)
-- [Rainmeter](https://www.rainmeter.net/) - Windows 桌面小工具 / [windows] / [github](https://github.com/rainmeter/rainmeter)
+- [Polybar](https://polybar.github.io/) - 状态栏 / [linux] / [github](https://github.com/polybar/polybar)
+- [Rainmeter](https://www.rainmeter.net/) - 桌面小工具 / [windows] / [github](https://github.com/rainmeter/rainmeter)
 - [Cairo](https://cairodesktop.com/) / [windows] / [github](https://github.com/cairoshell/cairoshell)
 
 ## 存储软件
@@ -22,7 +22,7 @@
 - [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) / [github](https://github.com/cgsecurity/testdisk)
 - [Digler](https://github.com/ostafen/digler)
 
-## 磁盘清理工具
+### 磁盘清理工具
 
 - [Mole](https://github.com/tw93/mole) / [apple]
 - [BleachBit](https://www.bleachbit.org/) / [github](https://github.com/bleachbit/bleachbit)

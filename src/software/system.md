@@ -2,28 +2,30 @@
 
 ## Bootable USB
 
-- [Ventoy](https://www.ventoy.net/) / [github](https://github.com/ventoy/Ventoy)
-- [Rufus](https://rufus.ie/) / [windows] / [github](https://github.com/pbatard/rufus)
-- [Etcher](https://etcher.balena.io/) / [github](https://github.com/balena-io/etcher)
+- [Ventoy](https://www.ventoy.net/) / [github](https://github.com/ventoy/Ventoy) / ![Ventoy](/images/software/system/ventoy.webp)
+- [Rufus](https://rufus.ie/) / [windows] / [github](https://github.com/pbatard/rufus) / ![Rufus](/images/software/system/rufus.webp)
+- [balenaEtcher](https://etcher.balena.io/) / [github](https://github.com/balena-io/etcher) / ![balenaEtcher](/images/software/system/balena-etcher.webp)
 - [WinDiskWriter](https://windiskwriter.com/) / [apple] / [github](https://github.com/TechUnRestricted/windiskwriter)
-- [WoeUSB](https://woeusb.github.io/WoeUSB/) / [linux] / [github](https://woeusb.github.io/WoeUSB/), [WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) - A rewritten version of WoeUSB / [linux]
+- [WoeUSB](https://woeusb.github.io/WoeUSB/) / [linux] / [github](https://github.com/WoeUSB/WoeUSB), [WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) - Rewritten version / [linux]
 
 ::: details
+
 1. [bootable-usb · GitHub Topics](https://github.com/topics/bootable-usb)
 2. [List of tools to create bootable USB - Wikipedia](https://en.wikipedia.org/wiki/List_of_tools_to_create_bootable_USB)
-:::
+   :::
 
 ## Desktop environments
 
 - [Seelen UI](https://seelen.io/) / [windows] / [github](https://github.com/eythaann/seelen-ui)
-- [Polybar](https://polybar.github.io/) - Linux status bar tool / [linux] / [github](https://github.com/polybar/polybar)
-- [Rainmeter](https://www.rainmeter.net/) - Windows desktop gadgets / [windows] / [github](https://github.com/rainmeter/rainmeter)
+- [Polybar](https://polybar.github.io/) - Status bar / [linux] / [github](https://github.com/polybar/polybar)
+- [Rainmeter](https://www.rainmeter.net/) - Desktop gadgets / [windows] / [github](https://github.com/rainmeter/rainmeter)
 - [Cairo](https://cairodesktop.com/) / [windows] / [github](https://github.com/cairoshell/cairoshell)
 
 ::: details
+
 1. [desktop-environment · GitHub Topics](https://github.com/topics/desktop-environment)
 2. [Category:Desktop environments - Wikipedia](https://en.wikipedia.org/wiki/Category:Desktop_environments)
-:::
+   :::
 
 ## Storage software
 
@@ -33,9 +35,10 @@
 - [Digler](https://github.com/ostafen/digler)
 
 ::: details
+
 1. [data-recovery · GitHub Topics](https://github.com/topics/data-recovery)
 2. [Category:Data recovery software - Wikipedia](https://en.wikipedia.org/wiki/Category:Data_recovery_software)
-:::
+   :::
 
 ### Disk Cleaners
 
@@ -45,9 +48,10 @@
 - [WindowsCleaner](https://wc.dyblog.online/) / [windows] / [github](https://github.com/darkmatter2048/WindowsCleaner)
 
 ::: details
+
 1. [disk-cleaner · GitHub Topics](https://github.com/topics/disk-cleaner)
 2. [Disk utility - Wikipedia](https://en.wikipedia.org/wiki/Disk_utility#Cleaner)
-:::
+   :::
 
 ### Disk partitioning software
 
@@ -56,8 +60,9 @@
 - [KDE Partition Manager](https://apps.kde.org/partitionmanager/) / [linux] / [github](https://github.com/KDE/partitionmanager)
 
 ::: details
+
 1. [Category:Disk partitioning software - Wikipedia](https://en.wikipedia.org/wiki/Category:Disk_partitioning_software)
-:::
+   :::
 
 ## File archivers
 
@@ -67,10 +72,11 @@
 - [ZipXtract](https://github.com/WirelessAlien/ZipXtract) / [android]
 
 ::: details
+
 1. [archiver · GitHub Topics](https://github.com/topics/archiver)
 2. [Category:File archivers - Wikipedia](https://en.wikipedia.org/wiki/Category:File_archivers)
 3. [7-Zip - Wikipedia](https://en.wikipedia.org/wiki/7-Zip)
-:::
+   :::
 
 ## Input methods
 
@@ -79,9 +85,10 @@
 - [FlorisBoard](https://florisboard.org/) / [android] / [github](https://github.com/florisboard/florisboard)
 
 ::: details
+
 1. [input-method · GitHub Topics](https://github.com/topics/input-method)
 2. [Category:Input methods - Wikipedia](https://en.wikipedia.org/wiki/Category:Input_methods)
-:::
+   :::
 
 ## KMS Activator
 
@@ -90,9 +97,10 @@
 - [CMWTAT Digital Edition](https://cmwtat.cloudmoe.com/en.html) / [windows] / [github](https://github.com/TGSAN/CMWTAT_Digital_Edition)
 
 ::: details
+
 1. [kms · GitHub Topics](https://github.com/topics/kms)
 2. [activator · GitHub Topics](https://github.com/topics/activator)
-:::
+   :::
 
 ## Password managers
 
@@ -104,9 +112,10 @@
 - [AuthPass](https://authpass.app/) / [github](https://github.com/authpass/authpass)
 
 ::: details
+
 1. [password-manager · GitHub Topics](https://github.com/topics/password-manager)
 2. [Category:Password managers - Wikipedia](https://en.wikipedia.org/wiki/Category:Password_managers)
-:::
+   :::
 
 ## Uninstallers
 
@@ -116,9 +125,10 @@
 - ShizuTools / [android] / [github](https://github.com/legendsayantan/ShizuTools)
 
 ::: details
+
 1. [uninstaller · GitHub Topics](https://github.com/topics/uninstaller)
 2. [Category:Uninstallers - Wikipedia](https://en.wikipedia.org/wiki/Category:Uninstallers)
-:::
+   :::
 
 ## Utility software
 
@@ -130,9 +140,10 @@
 - [ZTools](https://ztoolscenter.github.io/ZTools-doc/) / [github](https://github.com/ZToolsCenter/ZTools)
 
 ::: details
+
 1. [utility · GitHub Topics](https://github.com/topics/utility)
 2. [Category:Utility software - Wikipedia](https://en.wikipedia.org/wiki/Category:Utility_software)
-:::
+   :::
 
 ## Virtual machines
 
@@ -141,7 +152,8 @@
 - [UTM](https://getutm.app/) / [apple] / [github](https://github.com/utmapp/UTM)
 
 ::: details
+
 1. [virtual-machines · GitHub Topics](https://github.com/topics/virtual-machines)
 2. [virtualization · GitHub Topics](https://github.com/topics/virtualization)
 3. [Category:Virtual machines - Wikipedia](https://en.wikipedia.org/wiki/Category:Virtual_machines)
-:::
+   :::

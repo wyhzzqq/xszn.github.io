@@ -4,6 +4,10 @@
 
 Xingshu is a list of free and open-source software that recommends high-quality free and open-source software, reducing the time and cost of finding software for you.
 
+## TODO
+
+- [ ] Add software screenshots
+
 ## INSTALL
 
 ## Prerequisites
