@@ -49,7 +49,7 @@
 
 ### 中文输入法 {#chinese-input-methods}
 
-- [Rime](https://rime.im/) - 输入法引擎 / [indexes](https://rime.im/download/) / [github](https://github.com/rime/librime), [Weasel](https://github.com/rime/weasel) - 小狼毫輸入法 / [windows] / ![](/images/software/system/weasel.webp), [Squirrel](https://github.com/rime/squirrel) - 鼠须管輸入法 / [apple] / ![](/images/software/system/squirrel.webp), [Trime](https://github.com/osfans/trime) - 同文输入法 / [android] / ![](/images/software/system/trime.webp)
+- [Rime](https://rime.im/) - 输入法引擎 / [indexes](https://rime.im/download/) / [github](https://github.com/rime/librime), [Weasel](https://github.com/rime/weasel) - 小狼毫输入法 / [windows] / ![](/images/software/system/weasel.webp), [Squirrel](https://github.com/rime/squirrel) - 鼠须管输入法 / [apple] / ![](/images/software/system/squirrel.webp), [Trime](https://github.com/osfans/trime) - 同文输入法 / [android] / ![](/images/software/system/trime.webp)
 - [Fcitx 5](https://fcitx-im.org/wiki/Fcitx_5) / [linux] / [github](https://github.com/fcitx/fcitx5) / ![](/images/software/system/fcitx-5.webp), [Fcitx5 For Android](https://fcitx5-android.github.io/) - 小企鹅输入法 / [android] / [github](https://github.com/fcitx5-android/fcitx5-android) / ![](/images/software/system/fcitx5-for-android.webp)
 - [YuyanIme](https://github.com/gurecn/YuyanIme) - 语燕输入法 / [android] / ![](/images/software/system/yuyanime.webp)
 
