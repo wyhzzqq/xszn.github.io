@@ -53,11 +53,11 @@
 - [Fcitx 5](https://fcitx-im.org/wiki/Fcitx_5) / [linux] / [github](https://github.com/fcitx/fcitx5) / ![](/images/software/system/fcitx-5.webp), [Fcitx5 For Android](https://fcitx5-android.github.io/) - 小企鹅输入法 / [android] / [github](https://github.com/fcitx5-android/fcitx5-android) / ![](/images/software/system/fcitx5-for-android.webp)
 - [YuyanIme](https://github.com/gurecn/YuyanIme) - 语燕输入法 / [android] / ![](/images/software/system/yuyanime.webp)
 
-## KMS 激活工具
+## KMS 激活工具 {#kms-activators}
 
-- [Microsoft Activation Scripts](https://github.com/massgravel/microsoft-activation-scripts) / [cli] / [github](https://github.com/massgravel/Microsoft-Activation-Scripts)
-- HEU KMS Activator / [windows] / [github](https://github.com/zbezj/HEU_KMS_Activator)
-- [CMWTAT Digital Edition](https://cmwtat.cloudmoe.com/en.html) / [windows] / [github](https://github.com/TGSAN/CMWTAT_Digital_Edition)
+- [Microsoft Activation Scripts](https://massgrave.dev/) / [cli] / [github](https://github.com/massgravel/Microsoft-Activation-Scripts) / ![](/images/software/system/microsoft-activation-scripts.webp)
+- [HEU KMS Activator](https://github.com/zbezj/HEU_KMS_Activator) / [windows] / ![](/images/software/system/heu-kms-activator.webp)
+- [CMWTAT Digital Edition](https://cmwtat.cloudmoe.com/) / [windows] / [github](https://github.com/TGSAN/CMWTAT_Digital_Edition) / ![](/images/software/system/cmwtat-digital-edition.webp)
 
 ## 密码管理器
 
