@@ -38,7 +38,7 @@
 ### 压缩软件 {#file-archivers}
 
 - [7-Zip](https://www.7-zip.org/) / [github](https://github.com/ip7z/7zip) / ![](/images/software/system/7-zip.webp), [7-Zip ZS](https://mcmilk.de/projects/7-Zip-zstd/) / [windows] / [github](https://github.com/mcmilk/7-Zip-zstd/) / ![](/images/software/system/7-zip-zs.webp), [NanaZip](https://nanazip.org/) - 现代 UI / [windows] / [github](https://github.com/M2Team/NanaZip) / ![](/images/software/system/nanazip.webp)
-- [PeaZip](https://peazip.github.io/) / [github](https://github.com/peazip/PeaZip/) / ![](/images/software/system/peazip.webp)
+- [PeaZip](https://peazip.github.io/) - WinRAR、WinZip 替代品 / [github](https://github.com/peazip/PeaZip/) / ![](/images/software/system/peazip.webp)
 - [Keka](https://www.keka.io/) / [apple] / [github](https://github.com/aonez/Keka) / ![](/images/software/system/keka.webp)
 - [ZipXtract](https://github.com/WirelessAlien/ZipXtract) / [android] / ![](/images/software/system/zipxtract.webp)
 
@@ -66,25 +66,30 @@
 - [Bitwarden](https://bitwarden.com/) / [github](https://github.com/bitwarden) / ![](/images/software/system/bitwarden.webp)
 - [KeePass](https://keepass.info/) / [indexes](https://keepass.info/download.html) / [sourceforge](https://sourceforge.net/projects/keepass/) / ![](/images/software/system/keepass.webp), [KeePassXC](https://keepassxc.org/) / [github](https://github.com/keepassxreboot/keepassxc) / ![](/images/software/system/keepassxc.webp), [KeeWeb](https://keeweb.info/) / [github](https://github.com/keeweb/keeweb) / ![](/images/software/system/keeweb.webp)
 - [Gopass](https://www.gopass.pw/) / [cli] / [github](https://github.com/gopasspw/gopass) / ![](/images/software/system/gopass.webp)
-- [LessPass](https://www.lesspass.com/) - 无状态密码管理器 / [github](https://github.com/lesspass/lesspass) / ![](/images/software/system/lesspass.webp)
+- [LessPass](https://www.lesspass.com/) - 无状态密码管理器 / [web] / [github](https://github.com/lesspass/lesspass) / ![](/images/software/system/lesspass.webp)
 
-## 卸载软件
+## 卸载软件 {#uninstallers}
 
-- [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) / [windows] / [github](https://github.com/Klocman/Bulk-Crap-Uninstaller)
-- [Pearcleaner](https://itsalin.com/appInfo/?id=pearcleaner) / [apple] / [github](https://github.com/alienator88/Pearcleaner)
-- Remove MS Edge / [windows] / [github](https://github.com/ShadowWhisperer/Remove-MS-Edge)
-- ShizuTools / [android] / [github](https://github.com/legendsayantan/ShizuTools)
+- [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) / [windows] / [github](https://github.com/Klocman/Bulk-Crap-Uninstaller) / ![](/images/software/system/bulk-crap-uninstaller.webp)
+- [Pearcleaner](https://itsalin.com/appInfo/?id=pearcleaner) / [apple] / [github](https://github.com/alienator88/Pearcleaner) / ![](/images/software/system/pearcleaner.webp)
 
-## 实用软件
+## 实用工具 {#utility-software}
 
-- [Microsoft PowerToys](https://learn.microsoft.com/windows/powertoys/) / [windows] / [github](https://github.com/microsoft/powertoys)
-- [WinUtil](https://winutil.christitus.com/) / [windows] / [github](https://github.com/christitustech/winutil)
-- [Ice](https://icemenubar.app/) / [apple] / [github](https://github.com/jordanbaird/Ice)
-- [AltTab](https://alt-tab-macos.netlify.app/) / [apple] / [github](https://github.com/lwouis/alt-tab-macos)
-- [Mac Mouse Fix](https://macmousefix.com/) / [apple] / [github](https://github.com/noah-nuebling/mac-mouse-fix)
-- [ZTools](https://ztoolscenter.github.io/ZTools-doc/) / [github](https://github.com/ZToolsCenter/ZTools)
+### Linux 实用工具 {#linux-utility-tools}
 
-## 虚拟机
+### macOS 实用工具 {#macos-utility-tools}
+
+### Windows 实用工具 {#windows-utility-tools}
+
+- [PowerToys](https://learn.microsoft.com/windows/powertoys/) / [github](https://github.com/microsoft/powertoys) / ![](/images/software/system/powertoys.webp)
+- [WinUtil](https://winutil.christitus.com/) / [cli] / [github](https://github.com/christitustech/winutil) / ![](/images/software/system/winutil.webp)
+- [Win11Debloat](https://github.com/raphire/win11debloat) / [cli] / ![](/images/software/system/win11debloat.webp)
+- [Remove Windows AI](https://github.com/zoicware/RemoveWindowsAI) / ![](/images/software/system/remove-windows-ai.webp)
+- [Winhance](https://winhance.net/) - Windows 增强工具 / [github](https://github.com/memstechtips/Winhance) / ![](/images/software/system/winhance.webp)
+
+## 虚拟化软件 {#virtualization-software}
+
+### 虚拟机 {#virtual-machines}
 
 - [VirtualBox](https://www.virtualbox.org/) / [github](https://github.com/VirtualBox/virtualbox)
 - [QEMU](https://github.com/qemu/QEMU) / [github](https://github.com/qemu/QEMU), [Quickemu](https://quickemu-project.github.io/) / [github](https://github.com/quickemu-project/quickemu)

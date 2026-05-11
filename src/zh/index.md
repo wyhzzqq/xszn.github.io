@@ -1,6 +1,6 @@
 ---
 # https://vitepress.dev/zh/reference/default-theme-home-page
-titleTemplate: 软件资源分享
+titleTemplate: 免费和开源软件列表
 layout: home
 
 hero:
