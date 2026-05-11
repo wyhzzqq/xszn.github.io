@@ -6,12 +6,12 @@
 - [Rufus](https://rufus.ie/) / [windows] / [github](https://github.com/pbatard/rufus) / ![](/images/software/system/rufus.webp)
 - [balenaEtcher](https://etcher.balena.io/) / [github](https://github.com/balena-io/etcher) / ![](/images/software/system/balenaetcher.webp)
 - [WinDiskWriter](https://windiskwriter.com/) / [apple] / [github](https://github.com/TechUnRestricted/windiskwriter) / ![](/images/software/system/windiskwriter.webp)
-- [WoeUSB](https://woeusb.github.io/WoeUSB/) / [linux] / [github](https://github.com/WoeUSB/WoeUSB) / ![](/images/software/system/woeusb.webp), [WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) - 重写版 / [linux] / ![](/images/software/system/woeusb-ng.webp)
+- [WoeUSB](https://woeusb.github.io/WoeUSB/) / [linux] / [github](https://github.com/WoeUSB/WoeUSB) / ![](/images/software/system/woeusb.webp), [WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) - WoeUSB 重写版 / [linux] / ![](/images/software/system/woeusb-ng.webp)
 
 ## 桌面美化软件 {#desktop-environments}
 
 - [Seelen UI](https://seelen.io/) / [windows] / [github](https://github.com/eythaann/seelen-ui) / ![](/images/software/system/seelen-ui.webp)
-- [Polybar](https://polybar.github.io/) - 状态栏 / [linux] / [github](https://github.com/polybar/polybar) / ![](/images/software/system/polybar.webp)
+- [Polybar](https://polybar.github.io/) - Linux 状态栏工具 / [linux] / [github](https://github.com/polybar/polybar) / ![](/images/software/system/polybar.webp)
 - [Rainmeter](https://www.rainmeter.net/) / [windows] / [github](https://github.com/rainmeter/rainmeter) / ![](/images/software/system/rainmeter.webp)
 - [Cairo](https://cairodesktop.com/) / [windows] / [github](https://github.com/cairoshell/cairoshell) / ![](/images/software/system/cairo.webp)
 
@@ -42,11 +42,16 @@
 - [Keka](https://www.keka.io/) / [apple] / [github](https://github.com/aonez/Keka) / ![](/images/software/system/keka.webp)
 - [ZipXtract](https://github.com/WirelessAlien/ZipXtract) / [android] / ![](/images/software/system/zipxtract.webp)
 
-## 输入法
+## 输入法 {#input-methods}
 
-- [Rime](https://rime.im/) / [github](https://github.com/rime), Weasel / [windows] / [github](https://github.com/rime/weasel), Squirrel / [apple] / [github](https://github.com/rime/squirrel), Trime / [android] / [github](https://github.com/osfans/trime) [...](https://rime.im/download/)
-- [Fcitx](https://fcitx-im.org/wiki/Fcitx_5) / [linux] / [github](https://github.com/fcitx), [Fcitx 5](https://fcitx5-android.github.io/) / [android] / [github](https://github.com/fcitx5-android/fcitx5-android)
-- [FlorisBoard](https://florisboard.org/) / [android] / [github](https://github.com/florisboard/florisboard)
+- [FlorisBoard](https://florisboard.org/) / [android] / [github](https://github.com/florisboard/florisboard) / ![](/images/software/system/florisboard.webp)
+- [hallelujahIM](https://github.com/dongyuwei/hallelujahIM) - 英文输入法 / ![](/images/software/system/hallelujahim.webp)
+
+### 中文输入法 {#chinese-input-methods}
+
+- [Rime](https://rime.im/) - 输入法引擎 / [indexes](https://rime.im/download/) / [github](https://github.com/rime/librime), [Weasel](https://github.com/rime/weasel) - 小狼毫輸入法 / [windows] / ![](/images/software/system/weasel.webp), [Squirrel](https://github.com/rime/squirrel) - 鼠须管輸入法 / [apple] / ![](/images/software/system/squirrel.webp), [Trime](https://github.com/osfans/trime) - 同文输入法 / [android] / ![](/images/software/system/trime.webp)
+- [Fcitx 5](https://fcitx-im.org/wiki/Fcitx_5) / [linux] / [github](https://github.com/fcitx/fcitx5) / ![](/images/software/system/fcitx-5.webp), [Fcitx5 For Android](https://fcitx5-android.github.io/) - 小企鹅输入法 / [android] / [github](https://github.com/fcitx5-android/fcitx5-android) / ![](/images/software/system/fcitx5-for-android.webp)
+- [YuyanIme](https://github.com/gurecn/YuyanIme) - 语燕输入法 / [android] / ![](/images/software/system/yuyanime.webp)
 
 ## KMS 激活工具
 

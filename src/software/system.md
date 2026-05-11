@@ -6,12 +6,12 @@
 - [Rufus](https://rufus.ie/) / [windows] / [github](https://github.com/pbatard/rufus) / ![](/images/software/system/rufus.webp)
 - [balenaEtcher](https://etcher.balena.io/) / [github](https://github.com/balena-io/etcher) / ![](/images/software/system/balenaetcher.webp)
 - [WinDiskWriter](https://windiskwriter.com/) / [apple] / [github](https://github.com/TechUnRestricted/windiskwriter) / ![](/images/software/system/windiskwriter.webp)
-- [WoeUSB](https://woeusb.github.io/WoeUSB/) / [linux] / [github](https://github.com/WoeUSB/WoeUSB) / ![](/images/software/system/woeusb.webp), [WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) - Rewritten version / [linux] / ![](/images/software/system/woeusb-ng.webp)
+- [WoeUSB](https://woeusb.github.io/WoeUSB/) / [linux] / [github](https://github.com/WoeUSB/WoeUSB) / ![](/images/software/system/woeusb.webp), [WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) - WoeUSB rewritten version / [linux] / ![](/images/software/system/woeusb-ng.webp)
 
 ## Desktop environments
 
 - [Seelen UI](https://seelen.io/) / [windows] / [github](https://github.com/eythaann/seelen-ui) / ![](/images/software/system/seelen-ui.webp)
-- [Polybar](https://polybar.github.io/) - Status bar / [linux] / [github](https://github.com/polybar/polybar) / ![](/images/software/system/polybar.webp)
+- [Polybar](https://polybar.github.io/) - Linux status bar tools / [linux] / [github](https://github.com/polybar/polybar) / ![](/images/software/system/polybar.webp)
 - [Rainmeter](https://www.rainmeter.net/) / [windows] / [github](https://github.com/rainmeter/rainmeter) / ![](/images/software/system/rainmeter.webp)
 - [Cairo](https://cairodesktop.com/) / [windows] / [github](https://github.com/cairoshell/cairoshell) / ![](/images/software/system/cairo.webp)
 
@@ -44,9 +44,14 @@
 
 ## Input methods
 
-- [Rime](https://rime.im/) / [github](https://github.com/rime), Weasel / [windows] / [github](https://github.com/rime/weasel), Squirrel / [apple] / [github](https://github.com/rime/squirrel), Trime / [android] / [github](https://github.com/osfans/trime) [...](https://rime.im/download/)
-- [Fcitx](https://fcitx-im.org/wiki/Fcitx_5) / [linux] / [github](https://github.com/fcitx), [Fcitx 5](https://fcitx5-android.github.io/) / [android] / [github](https://github.com/fcitx5-android/fcitx5-android)
-- [FlorisBoard](https://florisboard.org/) / [android] / [github](https://github.com/florisboard/florisboard)
+- [FlorisBoard](https://florisboard.org/) / [android] / [github](https://github.com/florisboard/florisboard) / ![](/images/software/system/florisboard.webp)
+- [hallelujahIM](https://github.com/dongyuwei/hallelujahIM) - English input method / ![](/images/software/system/hallelujahim.webp)
+
+### Chinese input methods
+
+- [Rime](https://rime.im/) - Input method engine / [indexes](https://rime.im/download/) / [github](https://github.com/rime/librime), [Weasel](https://github.com/rime/weasel) / [windows] / ![](/images/software/system/weasel.webp), [Squirrel](https://github.com/rime/squirrel) / [apple] / ![](/images/software/system/squirrel.webp), [Trime](https://github.com/osfans/trime) / [android] / ![](/images/software/system/trime.webp)
+- [Fcitx 5](https://fcitx-im.org/wiki/Fcitx_5) / [linux] / [github](https://github.com/fcitx/fcitx5) / ![](/images/software/system/fcitx-5.webp), [Fcitx5 For Android](https://fcitx5-android.github.io/) / [android] / [github](https://github.com/fcitx5-android/fcitx5-android) / ![](/images/software/system/fcitx5-for-android.webp)
+- [YuyanIme](https://github.com/gurecn/YuyanIme) / [android] / ![](/images/software/system/yuyanime.webp)
 
 ## KMS Activator
 
