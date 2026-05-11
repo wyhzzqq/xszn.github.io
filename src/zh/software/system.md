@@ -5,8 +5,6 @@
 - [Ventoy](https://www.ventoy.net/) / [github](https://github.com/ventoy/Ventoy) / ![](/images/software/system/ventoy.webp)
 - [Rufus](https://rufus.ie/) / [windows] / [github](https://github.com/pbatard/rufus) / ![](/images/software/system/rufus.webp)
 - [balenaEtcher](https://etcher.balena.io/) / [github](https://github.com/balena-io/etcher) / ![](/images/software/system/balenaetcher.webp)
-- [WinDiskWriter](https://windiskwriter.com/) / [apple] / [github](https://github.com/TechUnRestricted/windiskwriter) / ![](/images/software/system/windiskwriter.webp)
-- [WoeUSB](https://woeusb.github.io/WoeUSB/) / [linux] / [github](https://github.com/WoeUSB/WoeUSB) / ![](/images/software/system/woeusb.webp), [WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) - WoeUSB 重写版 / [linux] / ![](/images/software/system/woeusb-ng.webp)
 
 ## 桌面美化软件 {#desktop-environments}
 
@@ -35,7 +33,9 @@
 - [GParted](https://gparted.org/) / [linux] / [github](https://github.com/GNOME/gparted) / ![](/images/software/system/gparted.webp)
 - [KDE Partition Manager](https://apps.kde.org/partitionmanager/) / [linux] / [github](https://github.com/KDE/partitionmanager) / ![](/images/software/system/kde-partition-manager.webp)
 
-## 压缩软件 {#file-archivers}
+## 数据管理工具 {#data-management-software}
+
+### 压缩软件 {#file-archivers}
 
 - [7-Zip](https://www.7-zip.org/) / [github](https://github.com/ip7z/7zip) / ![](/images/software/system/7-zip.webp), [7-Zip ZS](https://mcmilk.de/projects/7-Zip-zstd/) / [windows] / [github](https://github.com/mcmilk/7-Zip-zstd/) / ![](/images/software/system/7-zip-zs.webp), [NanaZip](https://nanazip.org/) - 现代 UI / [windows] / [github](https://github.com/M2Team/NanaZip) / ![](/images/software/system/nanazip.webp)
 - [PeaZip](https://peazip.github.io/) / [github](https://github.com/peazip/PeaZip/) / ![](/images/software/system/peazip.webp)
@@ -59,14 +59,14 @@
 - [HEU KMS Activator](https://github.com/zbezj/HEU_KMS_Activator) / [windows] / ![](/images/software/system/heu-kms-activator.webp)
 - [CMWTAT Digital Edition](https://cmwtat.cloudmoe.com/) / [windows] / [github](https://github.com/TGSAN/CMWTAT_Digital_Edition) / ![](/images/software/system/cmwtat-digital-edition.webp)
 
-## 密码管理器
+## 安全软件 {#security-software}
 
-- [Bitwarden](https://bitwarden.com/) / [github](https://github.com/bitwarden)
-- [KeePass](https://keepass.info/) / [sourceforge](https://sourceforge.net/projects/keepass/), [KeePassXC](https://keepassxc.org/) / [github](https://github.com/keepassxreboot/keepassxc), [MacPass](https://macpassapp.org/) / [apple] / [github](https://github.com/MacPass/MacPass) [...](https://keepass.info/download.html)
-- [Pass](https://www.passwordstore.org/) / [QtPass](https://qtpass.org/) / [github](https://github.com/IJHack/QtPass) / [Pass for iOS](https://mssun.github.io/passforios/) / [apple] / [github](https://github.com/mssun/passforios) [...](https://www.passwordstore.org/#download)
-- [LessPass](https://www.lesspass.com/) / [github](https://github.com/lesspass/lesspass)
-- [AliasVault](https://www.aliasvault.net/) / [github](https://github.com/aliasvault/aliasvault)
-- [AuthPass](https://authpass.app/) / [github](https://github.com/authpass/authpass)
+### 密码管理器 {#password-managers}
+
+- [Bitwarden](https://bitwarden.com/) / [github](https://github.com/bitwarden) / ![](/images/software/system/bitwarden.webp)
+- [KeePass](https://keepass.info/) / [indexes](https://keepass.info/download.html) / [sourceforge](https://sourceforge.net/projects/keepass/) / ![](/images/software/system/keepass.webp), [KeePassXC](https://keepassxc.org/) / [github](https://github.com/keepassxreboot/keepassxc) / ![](/images/software/system/keepassxc.webp), [KeeWeb](https://keeweb.info/) / [github](https://github.com/keeweb/keeweb) / ![](/images/software/system/keeweb.webp)
+- [Gopass](https://www.gopass.pw/) / [cli] / [github](https://github.com/gopasspw/gopass) / ![](/images/software/system/gopass.webp)
+- [LessPass](https://www.lesspass.com/) - 无状态密码管理器 / [github](https://github.com/lesspass/lesspass) / ![](/images/software/system/lesspass.webp)
 
 ## 卸载软件
 
