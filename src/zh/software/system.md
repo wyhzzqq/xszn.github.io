@@ -24,7 +24,7 @@
 
 - [Mole](https://github.com/tw93/mole) / [apple] / ![](/images/software/system/mole.webp)
 - [BleachBit](https://www.bleachbit.org/) / [github](https://github.com/bleachbit/bleachbit) / ![](/images/software/system/bleachbit.webp)
-- [PureMac](https://github.com/momenbasel/PureMac) / [apple] / ![](/images/software/system/puremac.webp)
+- [PureMac](https://github.com/momenbasel/PureMac) - CleanMyMac 替代品 / [apple] / ![](/images/software/system/puremac.webp)
 - [WindowsCleaner](https://wc.dyblog.online/) / [windows] / [github](https://github.com/darkmatter2048/WindowsCleaner) / ![](/images/software/system/windowscleaner.webp)
 
 ### 磁盘分区工具 {#disk-partitioning-software}
@@ -75,11 +75,16 @@
 
 ## 实用工具 {#utility-software}
 
-### Linux 实用工具 {#linux-utility-tools}
+### Linux 实用工具 {#linux-utility}
 
-### macOS 实用工具 {#macos-utility-tools}
+### macOS 实用工具 {#macos-utility}
 
-### Windows 实用工具 {#windows-utility-tools}
+- [MonitorControl](https://monitorcontrol.app/) - 显示器控制软件 / [github](https://github.com/MonitorControl/MonitorControl) / ![](/images/software/system/monitorcontrol.webp)
+- [Ice](https://icemenubar.app/) - 菜单栏管理工具 / [github](https://github.com/jordanbaird/Ice) / ![](/images/software/system/ice.webp)
+- [AltTab](https://alt-tab.app/) - 窗口切换 / [github](https://github.com/lwouis/alt-tab-macos) / ![](/images/software/system/alttab.webp)
+- [Mac Mouse Fix](https://macmousefix.com/) - 鼠标增强 / [github](https://github.com/noah-nuebling/mac-mouse-fix) / ![](/images/software/system/mac-mouse-fix.webp)
+
+### Windows 实用工具 {#windows-utility}
 
 - [PowerToys](https://learn.microsoft.com/windows/powertoys/) / [github](https://github.com/microsoft/powertoys) / ![](/images/software/system/powertoys.webp)
 - [WinUtil](https://winutil.christitus.com/) / [cli] / [github](https://github.com/christitustech/winutil) / ![](/images/software/system/winutil.webp)

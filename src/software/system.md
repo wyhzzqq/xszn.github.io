@@ -24,7 +24,7 @@
 
 - [Mole](https://github.com/tw93/mole) / [apple] / ![](/images/software/system/mole.webp)
 - [BleachBit](https://www.bleachbit.org/) / [github](https://github.com/bleachbit/bleachbit) / ![](/images/software/system/bleachbit.webp)
-- [PureMac](https://github.com/momenbasel/PureMac) / [apple] / ![](/images/software/system/puremac.webp)
+- [PureMac](https://github.com/momenbasel/PureMac) - CleanMyMac alternatives / [apple] / ![](/images/software/system/puremac.webp)
 - [WindowsCleaner](https://wc.dyblog.online/) / [windows] / [github](https://github.com/darkmatter2048/WindowsCleaner) / ![](/images/software/system/windowscleaner.webp)
 
 ### Disk partitioning software
@@ -75,16 +75,16 @@
 
 ## Utility software
 
-### Linux utility tools
+### Linux utility
 
-### macOS utility tools
+### macOS utility
 
-<!-- - [Ice](https://icemenubar.app/) / [apple] / [github](https://github.com/jordanbaird/Ice)
-- [AltTab](https://alt-tab-macos.netlify.app/) / [apple] / [github](https://github.com/lwouis/alt-tab-macos)
-- [Mac Mouse Fix](https://macmousefix.com/) / [apple] / [github](https://github.com/noah-nuebling/mac-mouse-fix)
-- https://github.com/topics/utility -->
+- [MonitorControl](https://monitorcontrol.app/) / [github](https://github.com/MonitorControl/MonitorControl) / ![](/images/software/system/monitorcontrol.webp)
+- [Ice](https://icemenubar.app/) - Menu bar management / [github](https://github.com/jordanbaird/Ice) / ![](/images/software/system/ice.webp)
+- [AltTab](https://alt-tab.app/) - Window switching / [github](https://github.com/lwouis/alt-tab-macos) / ![](/images/software/system/alttab.webp)
+- [Mac Mouse Fix](https://macmousefix.com/) / [github](https://github.com/noah-nuebling/mac-mouse-fix) / ![](/images/software/system/mac-mouse-fix.webp)
 
-### Windows utility tools
+### Windows utility
 
 - [PowerToys](https://learn.microsoft.com/windows/powertoys/) / [github](https://github.com/microsoft/powertoys) / ![](/images/software/system/powertoys.webp)
 - [WinUtil](https://winutil.christitus.com/) / [cli] / [github](https://github.com/christitustech/winutil) / ![](/images/software/system/winutil.webp)
