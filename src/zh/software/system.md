@@ -75,9 +75,7 @@
 
 ## 实用工具 {#utility-software}
 
-### Linux 实用工具 {#linux-utility}
-
-### macOS 实用工具 {#macos-utility}
+### Mac 实用工具 {#mac-utility}
 
 - [MonitorControl](https://monitorcontrol.app/) - 显示器控制软件 / [github](https://github.com/MonitorControl/MonitorControl) / ![](/images/software/system/monitorcontrol.webp)
 - [Ice](https://icemenubar.app/) - 菜单栏管理工具 / [github](https://github.com/jordanbaird/Ice) / ![](/images/software/system/ice.webp)
@@ -96,6 +94,6 @@
 
 ### 虚拟机 {#virtual-machines}
 
-- [VirtualBox](https://www.virtualbox.org/) / [github](https://github.com/VirtualBox/virtualbox)
-- [QEMU](https://github.com/qemu/QEMU) / [github](https://github.com/qemu/QEMU), [Quickemu](https://quickemu-project.github.io/) / [github](https://github.com/quickemu-project/quickemu)
-- [UTM](https://getutm.app/) / [apple] / [github](https://github.com/utmapp/UTM)
+- [VirtualBox](https://www.virtualbox.org/) / [github](https://github.com/VirtualBox/virtualbox) / ![](/images/software/system/virtualbox.webp)
+- [QEMU](https://github.com/qemu/QEMU) / [github](https://github.com/qemu/QEMU) / ![](/images/software/system/qemu.webp), [Quickemu](https://quickemu-project.github.io/) / [cli] / [github](https://github.com/quickemu-project/quickemu) & [Quickgui](https://github.com/quickemu-project/quickgui) / ![](/images/software/system/quickgui.webp), [UTM](https://getutm.app/) / [apple] / [github](https://github.com/utmapp/UTM) / ![](/images/software/system/utm.webp)
+- [Multipass](https://canonical.com/multipass) - Ubuntu 虚拟机 / [github](https://github.com/canonical/multipass) / ![](/images/software/system/multipass.webp)
