@@ -56,15 +56,4 @@ export default {
       ],
     },
   ],
-  "/changelog/": [
-    {
-      text: "Changelog",
-      items: [
-        {
-          text: "2026",
-          link: "/changelog/2026",
-        },
-      ],
-    },
-  ],
 };

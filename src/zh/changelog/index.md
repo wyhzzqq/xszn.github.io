@@ -6,6 +6,4 @@ feedback: false
 
 包括软件增加、删除和更新等内容变更记录。
 
-<!--@include: ./2026.md{7,100}-->
-
-……
+<!--@include: ../../changelog/index.md{9,}-->

@@ -57,6 +57,6 @@ export default [
   },
   {
     text: "Changelog",
-    link: "/changelog",
+    link: "/changelog/",
   },
 ];

@@ -4,12 +4,11 @@
 
 - [Ventoy](https://www.ventoy.net/) / [github](https://github.com/ventoy/Ventoy) / ![](/images/software/system/ventoy.webp)
 - [Rufus](https://rufus.ie/) / [windows] / [github](https://github.com/pbatard/rufus) / ![](/images/software/system/rufus.webp)
-- [balenaEtcher](https://etcher.balena.io/) / [github](https://github.com/balena-io/etcher) / ![](/images/software/system/balenaetcher.webp)
+- [balenaEtcher](https://etcher.balena.io/) / [github](https://github.com/balena-io/etcher)
 
 ## 桌面美化软件 {#desktop-environments}
 
 - [Seelen UI](https://seelen.io/) / [windows] / [github](https://github.com/eythaann/seelen-ui) / ![](/images/software/system/seelen-ui.webp)
-- [Polybar](https://polybar.github.io/) - Linux 状态栏工具 / [linux] / [github](https://github.com/polybar/polybar) / ![](/images/software/system/polybar.webp)
 - [Rainmeter](https://www.rainmeter.net/) / [windows] / [github](https://github.com/rainmeter/rainmeter) / ![](/images/software/system/rainmeter.webp)
 - [Cairo](https://cairodesktop.com/) / [windows] / [github](https://github.com/cairoshell/cairoshell) / ![](/images/software/system/cairo.webp)
 
@@ -17,19 +16,19 @@
 
 ### 数据恢复软件 {#data-recovery-software}
 
-- [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) / [github](https://github.com/cgsecurity/testdisk) / ![](/images/software/system/photorec.webp)
-- [Digler](https://github.com/ostafen/digler) / ![](/images/software/system/digler.webp)
+- [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) / [github](https://github.com/cgsecurity/testdisk)
+- [Digler](https://github.com/ostafen/digler)
 
 ### 磁盘清理工具 {#disk-cleaners}
 
-- [Mole](https://github.com/tw93/mole) / [apple] / ![](/images/software/system/mole.webp)
+- [Mole](https://mole.fit/) / [github](https://github.com/tw93/mole) / [apple] / ![](/images/software/system/mole.webp)
 - [BleachBit](https://www.bleachbit.org/) / [github](https://github.com/bleachbit/bleachbit) / ![](/images/software/system/bleachbit.webp)
 - [PureMac](https://github.com/momenbasel/PureMac) - CleanMyMac 替代品 / [apple] / ![](/images/software/system/puremac.webp)
 - [WindowsCleaner](https://wc.dyblog.online/) / [windows] / [github](https://github.com/darkmatter2048/WindowsCleaner) / ![](/images/software/system/windowscleaner.webp)
 
 ### 磁盘分区工具 {#disk-partitioning-software}
 
-- [TestDisk](https://www.cgsecurity.org/wiki/TestDisk) / [github](https://github.com/cgsecurity/testdisk) / ![](/images/software/system/testdisk.webp)
+- [TestDisk](https://www.cgsecurity.org/wiki/TestDisk) / [github](https://github.com/cgsecurity/testdisk)
 - [GParted](https://gparted.org/) / [linux] / [github](https://github.com/GNOME/gparted) / ![](/images/software/system/gparted.webp)
 - [KDE Partition Manager](https://apps.kde.org/partitionmanager/) / [linux] / [github](https://github.com/KDE/partitionmanager) / ![](/images/software/system/kde-partition-manager.webp)
 
@@ -37,8 +36,10 @@
 
 ### 压缩软件 {#file-archivers}
 
-- [7-Zip](https://www.7-zip.org/) / [github](https://github.com/ip7z/7zip) / ![](/images/software/system/7-zip.webp), [7-Zip ZS](https://mcmilk.de/projects/7-Zip-zstd/) / [windows] / [github](https://github.com/mcmilk/7-Zip-zstd/) / ![](/images/software/system/7-zip-zs.webp), [NanaZip](https://nanazip.org/) - 现代 UI / [windows] / [github](https://github.com/M2Team/NanaZip) / ![](/images/software/system/nanazip.webp)
-- [PeaZip](https://peazip.github.io/) - WinRAR、WinZip 替代品 / [github](https://github.com/peazip/PeaZip/) / ![](/images/software/system/peazip.webp)
+- [7-Zip](https://www.7-zip.org/) / [github](https://github.com/ip7z/7zip)
+  - [7-Zip ZS](https://mcmilk.de/projects/7-Zip-zstd/) / [windows] / [github](https://github.com/mcmilk/7-Zip-zstd/) / ![](/images/software/system/7-zip-zs.webp)
+  - [NanaZip](https://nanazip.org/) - 现代 UI / [windows] / [github](https://github.com/M2Team/NanaZip) / ![](/images/software/system/nanazip.webp)
+- [PeaZip](https://peazip.github.io/) - WinRAR, WinZip 替代品 / [github](https://github.com/peazip/PeaZip/) / ![](/images/software/system/peazip.webp)
 - [Keka](https://www.keka.io/) / [apple] / [github](https://github.com/aonez/Keka) / ![](/images/software/system/keka.webp)
 - [ZipXtract](https://github.com/WirelessAlien/ZipXtract) / [android] / ![](/images/software/system/zipxtract.webp)
 
@@ -49,9 +50,13 @@
 
 ### 中文输入法 {#chinese-input-methods}
 
-- [Rime](https://rime.im/) - 输入法引擎 / [indexes](https://rime.im/download/) / [github](https://github.com/rime/librime), [Weasel](https://github.com/rime/weasel) - 小狼毫输入法 / [windows] / ![](/images/software/system/weasel.webp), [Squirrel](https://github.com/rime/squirrel) - 鼠须管输入法 / [apple] / ![](/images/software/system/squirrel.webp), [Trime](https://github.com/osfans/trime) - 同文输入法 / [android] / ![](/images/software/system/trime.webp)
-- [Fcitx 5](https://fcitx-im.org/wiki/Fcitx_5) / [linux] / [github](https://github.com/fcitx/fcitx5) / ![](/images/software/system/fcitx-5.webp), [Fcitx5 For Android](https://fcitx5-android.github.io/) - 小企鹅输入法 / [android] / [github](https://github.com/fcitx5-android/fcitx5-android) / ![](/images/software/system/fcitx5-for-android.webp)
-- [YuyanIme](https://github.com/gurecn/YuyanIme) - 语燕输入法 / [android] / ![](/images/software/system/yuyanime.webp)
+- [Rime](https://rime.im/) - 输入法引擎 / [indexes](https://rime.im/download/) / [github](https://github.com/rime/librime)
+  - [Weasel](https://github.com/rime/weasel) / [windows]
+  - [Squirrel](https://github.com/rime/squirrel) / [apple] / ![](/images/software/system/squirrel.webp)
+  - [Trime](https://github.com/osfans/trime) / [android]
+- [Fcitx 5](https://fcitx-im.org/wiki/Fcitx_5) / [linux] / [github](https://github.com/fcitx/fcitx5) / ![](/images/software/system/fcitx-5.webp)
+  - [Fcitx5 For Android](https://fcitx5-android.github.io/) / [android] / [github](https://github.com/fcitx5-android/fcitx5-android) / ![](/images/software/system/fcitx5-for-android.webp)
+- [YuyanIme](https://github.com/gurecn/YuyanIme) / [android] / ![](/images/software/system/yuyanime.webp)
 
 ## KMS 激活工具 {#kms-activators}
 
@@ -64,7 +69,9 @@
 ### 密码管理器 {#password-managers}
 
 - [Bitwarden](https://bitwarden.com/) / [github](https://github.com/bitwarden) / ![](/images/software/system/bitwarden.webp)
-- [KeePass](https://keepass.info/) / [indexes](https://keepass.info/download.html) / [sourceforge](https://sourceforge.net/projects/keepass/) / ![](/images/software/system/keepass.webp), [KeePassXC](https://keepassxc.org/) / [github](https://github.com/keepassxreboot/keepassxc) / ![](/images/software/system/keepassxc.webp), [KeeWeb](https://keeweb.info/) / [github](https://github.com/keeweb/keeweb) / ![](/images/software/system/keeweb.webp)
+- [KeePass](https://keepass.info/) / [indexes](https://keepass.info/download.html) / [sourceforge](https://sourceforge.net/projects/keepass/) / ![](/images/software/system/keepass.webp)
+  - [KeePassXC](https://keepassxc.org/) / [github](https://github.com/keepassxreboot/keepassxc) / ![](/images/software/system/keepassxc.webp)
+  - [KeeWeb](https://keeweb.info/) / [github](https://github.com/keeweb/keeweb) / ![](/images/software/system/keeweb.webp)
 - [Gopass](https://www.gopass.pw/) / [cli] / [github](https://github.com/gopasspw/gopass) / ![](/images/software/system/gopass.webp)
 - [LessPass](https://www.lesspass.com/) - 无状态密码管理器 / [web] / [github](https://github.com/lesspass/lesspass) / ![](/images/software/system/lesspass.webp)
 
@@ -79,8 +86,8 @@
 
 - [MonitorControl](https://monitorcontrol.app/) - 显示器控制软件 / [github](https://github.com/MonitorControl/MonitorControl) / ![](/images/software/system/monitorcontrol.webp)
 - [Ice](https://icemenubar.app/) - 菜单栏管理工具 / [github](https://github.com/jordanbaird/Ice) / ![](/images/software/system/ice.webp)
-- [AltTab](https://alt-tab.app/) - 窗口切换 / [github](https://github.com/lwouis/alt-tab-macos) / ![](/images/software/system/alttab.webp)
-- [Mac Mouse Fix](https://macmousefix.com/) - 鼠标增强 / [github](https://github.com/noah-nuebling/mac-mouse-fix) / ![](/images/software/system/mac-mouse-fix.webp)
+- [AltTab](https://alt-tab.app/) - 任务切换器 / [github](https://github.com/lwouis/alt-tab-macos) / ![](/images/software/system/alttab.webp)
+- [Mac Mouse Fix](https://macmousefix.com/) / [github](https://github.com/noah-nuebling/mac-mouse-fix) / ![](/images/software/system/mac-mouse-fix.webp)
 
 ### Windows 实用工具 {#windows-utility}
 
@@ -94,6 +101,8 @@
 
 ### 虚拟机 {#virtual-machines}
 
-- [VirtualBox](https://www.virtualbox.org/) / [github](https://github.com/VirtualBox/virtualbox) / ![](/images/software/system/virtualbox.webp)
-- [QEMU](https://github.com/qemu/QEMU) / [github](https://github.com/qemu/QEMU) / ![](/images/software/system/qemu.webp), [Quickemu](https://quickemu-project.github.io/) / [cli] / [github](https://github.com/quickemu-project/quickemu) & [Quickgui](https://github.com/quickemu-project/quickgui) / ![](/images/software/system/quickgui.webp), [UTM](https://getutm.app/) / [apple] / [github](https://github.com/utmapp/UTM) / ![](/images/software/system/utm.webp)
+- [VirtualBox](https://www.virtualbox.org/) - VMware Workstation 替代品 / [github](https://github.com/VirtualBox/virtualbox) / ![](/images/software/system/virtualbox.webp)
+- [QEMU](https://github.com/qemu/QEMU) / [github](https://github.com/qemu/QEMU) / ![](/images/software/system/qemu.webp)
+  - [Quickemu](https://quickemu-project.github.io/) / [cli] / [github](https://github.com/quickemu-project/quickemu) & [Quickgui](https://github.com/quickemu-project/quickgui) / ![](/images/software/system/quickgui.webp)
+  - [UTM](https://getutm.app/) / [apple] / [github](https://github.com/utmapp/UTM) / ![](/images/software/system/utm.webp)
 - [Multipass](https://canonical.com/multipass) - Ubuntu 虚拟机 / [github](https://github.com/canonical/multipass) / ![](/images/software/system/multipass.webp)

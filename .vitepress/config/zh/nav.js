@@ -57,6 +57,6 @@ export default [
   },
   {
     text: "更新日志",
-    link: "/zh/changelog",
+    link: "/zh/changelog/",
   },
 ];
