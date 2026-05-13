@@ -2,15 +2,11 @@
 
 ## Ad blockers
 
-- [AdBlock](https://getadblock.com/), [Adblock Plus](https://adblockplus.org/) / [extension] / [gitlab](https://gitlab.com/eyeo/browser-extensions-and-premium/extensions/extensions)
-- [uBlock Origin](https://ublockorigin.com/) / [extension] / [github](https://github.com/gorhill/uBlock)
-- [SponsorBlock](https://sponsor.ajay.app/) / [extension] / [github](https://github.com/ajayyy/SponsorBlock)
-- [AdAway](https://adaway.org/) / [android] / [github](https://github.com/AdAway/AdAway)
-
-::: details
-1. [adblock · GitHub Topics](https://github.com/topics/adblock)
-2. [Category:Ad blocking software - Wikipedia](https://en.wikipedia.org/wiki/Category:Ad_blocking_software)
-:::
+- [AdBlock](https://getadblock.com/) / [browser] / [gitlab](https://gitlab.com/eyeo/browser-extensions-and-premium/extensions/extensions) / ![](/images/software/network/adblock.webp)
+  - [Adblock Plus](https://adblockplus.org/) / [browser] / [gitlab](https://gitlab.com/eyeo/browser-extensions-and-premium/extensions/extensions) / ![](/images/software/network/adblock-plus.webp)
+- [uBlock Origin](https://ublockorigin.com/) / [browser] / [github](https://github.com/gorhill/uBlock) / ![](/images/software/network/ublock-origin.webp)
+- [SponsorBlock](https://sponsor.ajay.app/) - Skip YouTube sponsors / [browser] / [github](https://github.com/ajayyy/SponsorBlock)
+- [AdAway](https://adaway.org/) / [android] / [github](https://github.com/AdAway/AdAway) / ![](/images/software/network/adaway.webp)
 
 ## AI assistants
 
@@ -20,13 +16,14 @@
 - [AingDesk](https://www.aingdesk.com/) / [github](https://github.com/aingdesk/AingDesk)
 
 ::: details
+
 1. [ai-assistant · GitHub Topics](https://github.com/topics/ai-assistant)
-:::
+   :::
 
 ## Captcha solvers
 
-- Buster / [extension] / [github](https://github.com/dessant/buster)
-- [NopeCHA](https://nopecha.com/) / [extension] / [github](https://github.com/NopeCHALLC/nopecha-extension)
+- Buster / [browser] / [github](https://github.com/dessant/buster)
+- [NopeCHA](https://nopecha.com/) / [browser] / [github](https://github.com/NopeCHALLC/nopecha-extension)
 
 ## Download managers
 
@@ -36,9 +33,10 @@
 - [Gopeed](https://gopeed.com/) / [github](https://github.com/GopeedLab/gopeed)
 
 ::: details
+
 1. [download-manager · GitHub Topics](https://github.com/topics/download-manager)
 2. [Category:Download managers - Wikipedia](https://en.wikipedia.org/wiki/Category:Download_managers)
-:::
+   :::
 
 ## File sharing software
 
@@ -48,10 +46,11 @@
 - FlyingCarpet / [android] / [github](https://github.com/spieglt/FlyingCarpet)
 
 ::: details
+
 1. [file-sharing · GitHub Topics](https://github.com/topics/file-sharing)
 2. [file-transfer · GitHub Topics](https://github.com/topics/file-transfer)
 3. [Category:File sharing software - Wikipedia](https://en.wikipedia.org/wiki/Category:File_sharing_software)
-:::
+   :::
 
 ### FTP clients
 
@@ -62,9 +61,10 @@
 - Termscp / [cli] / [github](https://github.com/veeso/termscp)
 
 ::: details
+
 1. [ftp-client · GitHub Topics](https://github.com/topics/ftp-client)
 2. [Category:FTP clients - Wikipedia](https://en.wikipedia.org/wiki/Category:FTP_clients)
-:::
+   :::
 
 ## Home automation software
 
@@ -72,9 +72,10 @@
 - [openHAB](https://www.openhab.org/) / [github](https://github.com/openhab)
 
 ::: details
+
 1. [home-automation · GitHub Topics](https://github.com/topics/home-automation)
 2. [List of home automation software - Wikipedia](https://en.wikipedia.org/wiki/List_of_home_automation_software)
-:::
+   :::
 
 ## Proxy software
 
@@ -85,9 +86,10 @@
 - [Shadowsocks](https://shadowsocks.org/) / [Indexes](https://shadowsocks.org/doc/getting-started.html#gui-clients) / [github](https://github.com/shadowsocks)
 
 ::: details
+
 1. [Repository search results for proxy](https://github.com/search?q=proxy&type=repositories&s=stars&o=desc)
 2. [分类:代理软件 - 维基百科](https://zh.wikipedia.org/wiki/Category:%E4%BB%A3%E7%90%86%E8%BD%AF%E4%BB%B6)
-:::
+   :::
 
 ## Remote desktop software
 
@@ -97,9 +99,10 @@
 - [HopToDesk](https://www.hoptodesk.com/) / [gitlab](https://gitlab.com/hoptodesk/hoptodesk)
 
 ::: details
+
 1. [remote-desktop · GitHub Topics](https://github.com/topics/remote-desktop)
 2. [Remote desktop software - Wikipedia](https://en.wikipedia.org/wiki/Remote_desktop_software)
-:::
+   :::
 
 ## RSS readers
 
@@ -109,9 +112,10 @@
 - Glance / [cli] / [github](https://github.com/glanceapp/glance)
 
 ::: details
+
 1. [rss-reader · GitHub Topics](https://github.com/topics/rss-reader)
 2. [RSS - Wikipedia](https://en.wikipedia.org/wiki/RSS)
-:::
+   :::
 
 ## Screen mirroring software
 
@@ -120,6 +124,7 @@
 - [PlainApp](https://plainapp.app/) / [android] / [github](https://github.com/plainhub/plain-app)
 
 ::: details
+
 1. [mirroring · GitHub Topics](https://github.com/topics/mirroring)
 2. [https://github.com/topics/screen-mirroring](https://github.com/topics/screen-mirroring)
-:::
+   :::

@@ -6,8 +6,9 @@
 - [ClassIsland](https://classisland.tech/) / [github](https://github.com/ClassIsland/ClassIsland)
 
 ::: details
+
 1. [Category:Classroom management software - Wikipedia](https://en.wikipedia.org/wiki/Category:Classroom_management_software)
-:::
+   :::
 
 ## E-readers
 
@@ -19,8 +20,9 @@
 - [FBReader](https://fbreader.org/)
 
 ::: details
+
 1. [ebook-reader · GitHub Topics](https://github.com/topics/ebook-reader)
-:::
+   :::
 
 ## Flashcard software
 
@@ -29,41 +31,44 @@
 - Hashcards / [cli] / [github](https://github.com/eudoxia0/hashcards)
 
 ::: details
+
 1. [flashcards · GitHub Topics](https://github.com/topics/flashcards)
 2. [List of flashcard software - Wikipedia](https://en.wikipedia.org/wiki/List_of_flashcard_software)
-:::
+   :::
 
 ## Grammar checkers
 
 - [LanguageTool](https://languagetool.org/) / [github](https://github.com/languagetool-org/languagetool)
 - [Harper](https://github.com/automattic/harper) / [github](https://github.com/automattic/harper)
-- Scramble / [extension] / [github](https://github.com/zlwaterfield/scramble)
+- Scramble / [browser] / [github](https://github.com/zlwaterfield/scramble)
 - Writing Tools / [github](https://github.com/theJayTea/WritingTools)
 - [AutoCorrect](https://huacnlee.github.io/autocorrect/) / [github](https://github.com/huacnlee/autocorrect)
 
 ::: details
+
 1. [grammar-checker · GitHub Topics](https://github.com/topics/grammar-checker)
 2. [spellcheck · GitHub Topics](https://github.com/topics/spellcheck)
 3. [Category:Grammar checkers - Wikipedia](https://en.wikipedia.org/wiki/Category:Grammar_checkers)
-:::
+   :::
 
 ## Language learning software
 
 - [Enjoy](https://enjoy.bot/) / [github](https://github.com/ZuodaoTech/everyone-can-use-english)
-- [Read Frog](https://www.readfrog.app/) / [extension] / [github](https://github.com/mengxi-ream/read-frog)
+- [Read Frog](https://www.readfrog.app/) / [browser] / [github](https://github.com/mengxi-ream/read-frog)
 - [MuJing](https://mujingx.com/) / [github](https://github.com/tangshimin/MuJing)
 - [LLPlayer](https://llplayer.com/) / [windows] / [github](https://github.com/umlx5h/LLPlayer)
-- Immersive Language Learning Assistant / [extension] / [github](https://github.com/xiao-zaiyi/illa-helper)
-- [Yomitan](https://yomitan.wiki/) / [extension] / [github](https://github.com/yomidevs/yomitan)
+- Immersive Language Learning Assistant / [browser] / [github](https://github.com/xiao-zaiyi/illa-helper)
+- [Yomitan](https://yomitan.wiki/) / [browser] / [github](https://github.com/yomidevs/yomitan)
 - jidoujisho / [android] / [github](https://github.com/arianneorpilla/jidoujisho)
 - [Memento](https://ripose-jp.github.io/Memento/) / [github](https://github.com/ripose-jp/Memento)
-- [asbplayer](https://docs.asbplayer.dev/) / [extension] / [github](https://github.com/killergerbah/asbplayer)
-- [Linguist](https://linguister.io/) / [extension] / [github](https://github.com/translate-tools/linguist)
+- [asbplayer](https://docs.asbplayer.dev/) / [browser] / [github](https://github.com/killergerbah/asbplayer)
+- [Linguist](https://linguister.io/) / [browser] / [github](https://github.com/translate-tools/linguist)
 
 ::: details
+
 1. [language-learning · GitHub Topics](https://github.com/topics/language-learning)
 2. [Category:Language learning software - Wikipedia](https://en.wikipedia.org/wiki/Category:Language_learning_software)
-:::
+   :::
 
 ## Mathematical software
 
@@ -72,9 +77,10 @@
 - [GeoGebra](https://www.geogebra.org/) - Interactive geometry software / [github](https://github.com/geogebra/geogebra)
 
 ::: details
+
 1. [Category:Interactive geometry software - Wikipedia](https://en.wikipedia.org/wiki/Category:Interactive_geometry_software)
 2. [Category:Mathematical software - Wikipedia](https://en.wikipedia.org/wiki/Category:Mathematical_software)
-:::
+   :::
 
 ## Mind mapping software
 
@@ -86,9 +92,10 @@
 - [Heimer](https://juzzlin.github.io/Heimer/) / [github](https://github.com/juzzlin/Heimer)
 
 ::: details
+
 1. [mindmap · GitHub Topics](https://github.com/topics/mindmap)
 2. [Category:Mind-mapping software - Wikipedia](https://en.wikipedia.org/wiki/Category:Mind-mapping_software)
-:::
+   :::
 
 ## Typing software
 
@@ -102,10 +109,11 @@
 - typioca / [cli] / [github](https://github.com/bloznelis/typioca)
 
 ::: details
+
 1. [typing · GitHub Topics](https://github.com/topics/typing)
 2. [typing-trainer · GitHub Topics](https://github.com/topics/typing-trainer)
 3. [Category:Typing software - Wikipedia](https://en.wikipedia.org/wiki/Category:Typing_software)
-:::
+   :::
 
 ## Whiteboard
 

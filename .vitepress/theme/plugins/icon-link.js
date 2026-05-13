@@ -4,7 +4,7 @@ const DEFAULT_ICON_MAP = {
   sourceforge: { title: "SourceForge", className: "bi-sourceforge" },
   android: { title: "Android", className: "bi-android2" },
   apple: { title: "Apple OS", className: "bi-apple" },
-  extension: { title: "Browser extension", className: "bi-browser-chrome" },
+  browser: { title: "Browser extension", className: "bi-browser-chrome" },
   indexes: { title: "Indexes", className: "bi-folder-fill" },
   cli: { title: "CLI", className: "bi-terminal-fill" },
   linux: { title: "Linux", className: "bi-tux" },
